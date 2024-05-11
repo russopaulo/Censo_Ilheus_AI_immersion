@@ -1,0 +1,946 @@
+ano,id_municipio,tipo_esgotamento_sanitario,grupo_idade,cor_raca,moradores
+2022,2913606,Vala,35 a 39 anos,Parda,254
+2022,2913606,Rede geral ou pluvial,45 a 49 anos,Parda,4437
+2022,2913606,Fossa séptica ou fossa filtro não ligada à rede,45 a 49 anos,Parda,811
+2022,2913606,Não tinham banheiro nem sanitário,80 a 84 anos,Parda,7
+2022,2913606,"Rede geral, rede pluvial ou fossa ligada à rede",60 a 64 anos,Parda,3604
+2022,2913606,Fossa séptica ou fossa filtro não ligada à rede,5 a 9 anos,Parda,815
+2022,2913606,Não tinham banheiro nem sanitário,10 a 14 anos,Parda,33
+2022,2913606,Outra forma,70 a 74 anos,Parda,29
+2022,2913606,Fossa rudimentar ou buraco,20 a 24 anos,Parda,832
+2022,2913606,Fossa séptica ou fossa filtro ligada à rede,40 a 44 anos,Parda,144
+2022,2913606,Não tinham banheiro nem sanitário,65 a 69 anos,Parda,27
+2022,2913606,"Rio, lago, córrego ou mar",55 a 59 anos,Parda,259
+2022,2913606,Rede geral ou pluvial,75 a 79 anos,Parda,1028
+2022,2913606,Fossa séptica ou fossa filtro ligada à rede,45 a 49 anos,Parda,109
+2022,2913606,Não tinham banheiro nem sanitário,45 a 49 anos,Parda,35
+2022,2913606,Outra forma,65 a 69 anos,Parda,37
+2022,2913606,Rede geral ou pluvial,35 a 39 anos,Parda,5130
+2022,2913606,Fossa séptica ou fossa filtro não ligada à rede,80 a 84 anos,Parda,139
+2022,2913606,Fossa séptica ou fossa filtro não ligada à rede,50 a 54 anos,Preta,298
+2022,2913606,Vala,50 a 54 anos,Preta,93
+2022,2913606,Não tinham banheiro nem sanitário,70 a 74 anos,Preta,13
+2022,2913606,"Rede geral, rede pluvial ou fossa ligada à rede",55 a 59 anos,Preta,1523
+2022,2913606,"Rio, lago, córrego ou mar",5 a 9 anos,Preta,128
+2022,2913606,Rede geral ou pluvial,0 a 4 anos,Preta,1101
+2022,2913606,"Rede geral, rede pluvial ou fossa ligada à rede",85 a 89 anos,Preta,153
+2022,2913606,Fossa rudimentar ou buraco,40 a 44 anos,Preta,413
+2022,2913606,Rede geral ou pluvial,45 a 49 anos,Preta,1908
+2022,2913606,"Rio, lago, córrego ou mar",70 a 74 anos,Preta,51
+2022,2913606,Fossa séptica ou fossa filtro não ligada à rede,20 a 24 anos,Preta,344
+2022,2913606,"Rio, lago, córrego ou mar",65 a 69 anos,Preta,87
+2022,2913606,"Rio, lago, córrego ou mar",90 a 94 anos,Preta,2
+2022,2913606,Vala,60 a 64 anos,Preta,69
+2022,2913606,Rede geral ou pluvial,10 a 14 anos,Preta,1545
+2022,2913606,Rede geral ou pluvial,5 a 9 anos,Preta,1407
+2022,2913606,"Rede geral, rede pluvial ou fossa ligada à rede",90 a 94 anos,Preta,73
+2022,2913606,Não tinham banheiro nem sanitário,10 a 14 anos,Preta,11
+2022,2913606,"Rio, lago, córrego ou mar",20 a 24 anos,Preta,181
+2022,2913606,Rede geral ou pluvial,55 a 59 anos,Branca,1203
+2022,2913606,"Rede geral, rede pluvial ou fossa ligada à rede",95 a 99 anos,Branca,35
+2022,2913606,"Rio, lago, córrego ou mar",15 a 19 anos,Branca,78
+2022,2913606,Rede geral ou pluvial,40 a 44 anos,Branca,1691
+2022,2913606,Vala,85 a 89 anos,Branca,5
+2022,2913606,Fossa séptica ou fossa filtro não ligada à rede,75 a 79 anos,Branca,121
+2022,2913606,Outra forma,75 a 79 anos,Branca,3
+2022,2913606,"Rio, lago, córrego ou mar",50 a 54 anos,Branca,54
+2022,2913606,Não tinham banheiro nem sanitário,70 a 74 anos,Branca,4
+2022,2913606,Vala,40 a 44 anos,Amarela,
+2022,2913606,Fossa séptica ou fossa filtro ligada à rede,55 a 59 anos,Amarela,1
+2022,2913606,"Rede geral, rede pluvial ou fossa ligada à rede",0 a 4 anos,Amarela,8
+2022,2913606,Outra forma,30 a 34 anos,Amarela,
+2022,2913606,Outra forma,55 a 59 anos,Amarela,
+2022,2913606,Rede geral ou pluvial,50 a 54 anos,Amarela,13
+2022,2913606,Fossa rudimentar ou buraco,75 a 79 anos,Amarela,1
+2022,2913606,Outra forma,70 a 74 anos,Amarela,
+2022,2913606,"Rede geral, rede pluvial ou fossa ligada à rede",75 a 79 anos,Amarela,4
+2022,2913606,Fossa rudimentar ou buraco,85 a 89 anos,Amarela,
+2022,2913606,"Rio, lago, córrego ou mar",35 a 39 anos,Amarela,1
+2022,2913606,"Rio, lago, córrego ou mar",95 a 99 anos,Amarela,
+2022,2913606,"Rio, lago, córrego ou mar",0 a 4 anos,Amarela,
+2022,2913606,"Rio, lago, córrego ou mar",60 a 64 anos,Amarela,
+2022,2913606,Outra forma,90 a 94 anos,Amarela,
+2022,2913606,Não tinham banheiro nem sanitário,0 a 4 anos,Amarela,1
+2022,2913606,Rede geral ou pluvial,0 a 4 anos,Amarela,8
+2022,2913606,Fossa rudimentar ou buraco,85 a 89 anos,Indígena,19
+2022,2913606,Rede geral ou pluvial,20 a 24 anos,Indígena,153
+2022,2913606,Rede geral ou pluvial,25 a 29 anos,Indígena,138
+2022,2913606,"Rede geral, rede pluvial ou fossa ligada à rede",85 a 89 anos,Indígena,13
+2022,2913606,Outra forma,45 a 49 anos,Indígena,16
+2022,2913606,Não tinham banheiro nem sanitário,0 a 4 anos,Indígena,30
+2022,2913606,Fossa séptica ou fossa filtro ligada à rede,75 a 79 anos,Indígena,
+2022,2913606,Rede geral ou pluvial,80 a 84 anos,Indígena,25
+2022,2913606,Rede geral ou pluvial,100 anos ou mais,Indígena,
+2022,2913606,Vala,15 a 19 anos,Indígena,12
+2022,2913606,Outra forma,70 a 74 anos,Indígena,3
+2022,2913606,"Rede geral, rede pluvial ou fossa ligada à rede",100 anos ou mais,Indígena,
+2022,2913606,Fossa rudimentar ou buraco,5 a 9 anos,Parda,925
+2022,2913606,Vala,60 a 64 anos,Parda,168
+2022,2913606,Fossa rudimentar ou buraco,100 anos ou mais,Parda,4
+2022,2913606,Outra forma,35 a 39 anos,Parda,74
+2022,2913606,Fossa séptica ou fossa filtro não ligada à rede,0 a 4 anos,Parda,642
+2022,2913606,Fossa rudimentar ou buraco,85 a 89 anos,Parda,54
+2022,2913606,Fossa séptica ou fossa filtro ligada à rede,35 a 39 anos,Parda,159
+2022,2913606,Vala,55 a 59 anos,Parda,158
+2022,2913606,"Rede geral, rede pluvial ou fossa ligada à rede",45 a 49 anos,Parda,4546
+2022,2913606,Fossa séptica ou fossa filtro ligada à rede,70 a 74 anos,Parda,51
+2022,2913606,Fossa rudimentar ou buraco,45 a 49 anos,Parda,862
+2022,2913606,Fossa rudimentar ou buraco,90 a 94 anos,Parda,35
+2022,2913606,Vala,15 a 19 anos,Preta,147
+2022,2913606,Não tinham banheiro nem sanitário,65 a 69 anos,Preta,8
+2022,2913606,Fossa rudimentar ou buraco,60 a 64 anos,Preta,279
+2022,2913606,Fossa séptica ou fossa filtro ligada à rede,10 a 14 anos,Preta,37
+2022,2913606,"Rede geral, rede pluvial ou fossa ligada à rede",60 a 64 anos,Preta,1312
+2022,2913606,"Rio, lago, córrego ou mar",15 a 19 anos,Preta,192
+2022,2913606,Não tinham banheiro nem sanitário,25 a 29 anos,Preta,25
+2022,2913606,Fossa séptica ou fossa filtro não ligada à rede,75 a 79 anos,Preta,54
+2022,2913606,"Rio, lago, córrego ou mar",55 a 59 anos,Preta,120
+2022,2913606,Outra forma,5 a 9 anos,Preta,40
+2022,2913606,Fossa séptica ou fossa filtro ligada à rede,40 a 44 anos,Preta,60
+2022,2913606,Rede geral ou pluvial,10 a 14 anos,Branca,1258
+2022,2913606,"Rede geral, rede pluvial ou fossa ligada à rede",30 a 34 anos,Branca,1389
+2022,2913606,"Rio, lago, córrego ou mar",30 a 34 anos,Branca,68
+2022,2913606,Fossa séptica ou fossa filtro não ligada à rede,55 a 59 anos,Branca,282
+2022,2913606,Fossa séptica ou fossa filtro ligada à rede,45 a 49 anos,Branca,48
+2022,2913606,Rede geral ou pluvial,80 a 84 anos,Branca,398
+2022,2913606,Outra forma,90 a 94 anos,Branca,1
+2022,2913606,Vala,45 a 49 anos,Branca,27
+2022,2913606,Rede geral ou pluvial,35 a 39 anos,Amarela,16
+2022,2913606,Vala,85 a 89 anos,Amarela,
+2022,2913606,Não tinham banheiro nem sanitário,60 a 64 anos,Amarela,
+2022,2913606,Vala,75 a 79 anos,Amarela,
+2022,2913606,Outra forma,0 a 4 anos,Amarela,
+2022,2913606,Fossa rudimentar ou buraco,5 a 9 anos,Amarela,3
+2022,2913606,"Rede geral, rede pluvial ou fossa ligada à rede",90 a 94 anos,Amarela,1
+2022,2913606,Fossa séptica ou fossa filtro ligada à rede,80 a 84 anos,Amarela,
+2022,2913606,"Rio, lago, córrego ou mar",85 a 89 anos,Amarela,
+2022,2913606,Vala,30 a 34 anos,Amarela,
+2022,2913606,Fossa rudimentar ou buraco,30 a 34 anos,Amarela,1
+2022,2913606,Rede geral ou pluvial,95 a 99 anos,Amarela,
+2022,2913606,Não tinham banheiro nem sanitário,5 a 9 anos,Amarela,
+2022,2913606,"Rio, lago, córrego ou mar",35 a 39 anos,Indígena,15
+2022,2913606,Rede geral ou pluvial,55 a 59 anos,Indígena,116
+2022,2913606,Vala,100 anos ou mais,Indígena,
+2022,2913606,Rede geral ou pluvial,90 a 94 anos,Indígena,7
+2022,2913606,"Rede geral, rede pluvial ou fossa ligada à rede",50 a 54 anos,Indígena,136
+2022,2913606,"Rede geral, rede pluvial ou fossa ligada à rede",25 a 29 anos,Indígena,143
+2022,2913606,Fossa rudimentar ou buraco,55 a 59 anos,Indígena,170
+2022,2913606,Outra forma,55 a 59 anos,Indígena,15
+2022,2913606,"Rede geral, rede pluvial ou fossa ligada à rede",40 a 44 anos,Indígena,182
+2022,2913606,Outra forma,85 a 89 anos,Indígena,1
+2022,2913606,Rede geral ou pluvial,65 a 69 anos,Parda,2560
+2022,2913606,Vala,65 a 69 anos,Parda,135
+2022,2913606,Fossa séptica ou fossa filtro não ligada à rede,95 a 99 anos,Parda,14
+2022,2913606,Fossa séptica ou fossa filtro não ligada à rede,65 a 69 anos,Parda,513
+2022,2913606,Fossa séptica ou fossa filtro não ligada à rede,50 a 54 anos,Parda,813
+2022,2913606,Fossa rudimentar ou buraco,10 a 14 anos,Parda,996
+2022,2913606,Não tinham banheiro nem sanitário,50 a 54 anos,Parda,49
+2022,2913606,Rede geral ou pluvial,20 a 24 anos,Parda,4632
+2022,2913606,Fossa rudimentar ou buraco,80 a 84 anos,Parda,125
+2022,2913606,"Rio, lago, córrego ou mar",85 a 89 anos,Parda,13
+2022,2913606,"Rio, lago, córrego ou mar",45 a 49 anos,Parda,335
+2022,2913606,Rede geral ou pluvial,55 a 59 anos,Parda,3793
+2022,2913606,Rede geral ou pluvial,10 a 14 anos,Parda,4415
+2022,2913606,Outra forma,45 a 49 anos,Preta,36
+2022,2913606,Fossa séptica ou fossa filtro não ligada à rede,40 a 44 anos,Preta,426
+2022,2913606,Fossa rudimentar ou buraco,75 a 79 anos,Preta,80
+2022,2913606,Rede geral ou pluvial,30 a 34 anos,Preta,2184
+2022,2913606,"Rede geral, rede pluvial ou fossa ligada à rede",80 a 84 anos,Preta,303
+2022,2913606,Fossa séptica ou fossa filtro ligada à rede,100 anos ou mais,Preta,
+2022,2913606,Não tinham banheiro nem sanitário,35 a 39 anos,Preta,13
+2022,2913606,"Rio, lago, córrego ou mar",50 a 54 anos,Preta,135
+2022,2913606,Outra forma,100 anos ou mais,Preta,
+2022,2913606,Rede geral ou pluvial,50 a 54 anos,Preta,1709
+2022,2913606,"Rio, lago, córrego ou mar",0 a 4 anos,Preta,106
+2022,2913606,Outra forma,90 a 94 anos,Preta,1
+2022,2913606,Rede geral ou pluvial,100 anos ou mais,Preta,5
+2022,2913606,"Rede geral, rede pluvial ou fossa ligada à rede",0 a 4 anos,Branca,1458
+2022,2913606,Fossa séptica ou fossa filtro ligada à rede,55 a 59 anos,Branca,49
+2022,2913606,"Rio, lago, córrego ou mar",95 a 99 anos,Branca,1
+2022,2913606,Outra forma,35 a 39 anos,Branca,21
+2022,2913606,Vala,0 a 4 anos,Branca,47
+2022,2913606,Rede geral ou pluvial,70 a 74 anos,Branca,740
+2022,2913606,"Rede geral, rede pluvial ou fossa ligada à rede",75 a 79 anos,Branca,543
+2022,2913606,Outra forma,95 a 99 anos,Branca,
+2022,2913606,Não tinham banheiro nem sanitário,30 a 34 anos,Branca,4
+2022,2913606,Rede geral ou pluvial,95 a 99 anos,Branca,33
+2022,2913606,Não tinham banheiro nem sanitário,95 a 99 anos,Branca,
+2022,2913606,Fossa rudimentar ou buraco,65 a 69 anos,Branca,119
+2022,2913606,Fossa rudimentar ou buraco,90 a 94 anos,Branca,12
+2022,2913606,Não tinham banheiro nem sanitário,75 a 79 anos,Branca,
+2022,2913606,Fossa séptica ou fossa filtro não ligada à rede,60 a 64 anos,Branca,276
+2022,2913606,"Rio, lago, córrego ou mar",75 a 79 anos,Branca,18
+2022,2913606,Fossa séptica ou fossa filtro ligada à rede,70 a 74 anos,Branca,22
+2022,2913606,Fossa séptica ou fossa filtro ligada à rede,25 a 29 anos,Amarela,2
+2022,2913606,Não tinham banheiro nem sanitário,30 a 34 anos,Amarela,
+2022,2913606,Fossa séptica ou fossa filtro não ligada à rede,90 a 94 anos,Amarela,
+2022,2913606,Rede geral ou pluvial,20 a 24 anos,Amarela,12
+2022,2913606,Não tinham banheiro nem sanitário,75 a 79 anos,Amarela,
+2022,2913606,Fossa séptica ou fossa filtro ligada à rede,20 a 24 anos,Amarela,
+2022,2913606,Outra forma,60 a 64 anos,Amarela,
+2022,2913606,"Rede geral, rede pluvial ou fossa ligada à rede",5 a 9 anos,Amarela,16
+2022,2913606,"Rio, lago, córrego ou mar",80 a 84 anos,Amarela,
+2022,2913606,Não tinham banheiro nem sanitário,80 a 84 anos,Amarela,
+2022,2913606,"Rede geral, rede pluvial ou fossa ligada à rede",15 a 19 anos,Amarela,16
+2022,2913606,Fossa séptica ou fossa filtro não ligada à rede,75 a 79 anos,Amarela,
+2022,2913606,"Rio, lago, córrego ou mar",40 a 44 anos,Amarela,
+2022,2913606,Fossa séptica ou fossa filtro ligada à rede,5 a 9 anos,Amarela,
+2022,2913606,"Rio, lago, córrego ou mar",80 a 84 anos,Indígena,1
+2022,2913606,Fossa séptica ou fossa filtro ligada à rede,5 a 9 anos,Indígena,10
+2022,2913606,Outra forma,80 a 84 anos,Indígena,
+2022,2913606,Não tinham banheiro nem sanitário,20 a 24 anos,Indígena,22
+2022,2913606,Fossa rudimentar ou buraco,70 a 74 anos,Indígena,75
+2022,2913606,Fossa séptica ou fossa filtro não ligada à rede,85 a 89 anos,Indígena,5
+2022,2913606,Fossa séptica ou fossa filtro não ligada à rede,90 a 94 anos,Indígena,3
+2022,2913606,Outra forma,75 a 79 anos,Indígena,4
+2022,2913606,"Rio, lago, córrego ou mar",40 a 44 anos,Indígena,10
+2022,2913606,Fossa rudimentar ou buraco,60 a 64 anos,Indígena,162
+2022,2913606,Vala,80 a 84 anos,Parda,27
+2022,2913606,Fossa rudimentar ou buraco,75 a 79 anos,Parda,242
+2022,2913606,"Rio, lago, córrego ou mar",10 a 14 anos,Parda,385
+2022,2913606,Vala,90 a 94 anos,Parda,14
+2022,2913606,Rede geral ou pluvial,25 a 29 anos,Parda,4348
+2022,2913606,Fossa rudimentar ou buraco,25 a 29 anos,Parda,796
+2022,2913606,Outra forma,90 a 94 anos,Parda,3
+2022,2913606,Fossa séptica ou fossa filtro ligada à rede,50 a 54 anos,Parda,106
+2022,2913606,Vala,85 a 89 anos,Parda,14
+2022,2913606,Fossa rudimentar ou buraco,40 a 44 anos,Parda,1072
+2022,2913606,Fossa rudimentar ou buraco,35 a 39 anos,Parda,980
+2022,2913606,Vala,40 a 44 anos,Parda,218
+2022,2913606,Rede geral ou pluvial,30 a 34 anos,Parda,4359
+2022,2913606,Fossa séptica ou fossa filtro não ligada à rede,25 a 29 anos,Parda,736
+2022,2913606,Fossa séptica ou fossa filtro não ligada à rede,35 a 39 anos,Parda,891
+2022,2913606,Fossa séptica ou fossa filtro ligada à rede,45 a 49 anos,Preta,49
+2022,2913606,Outra forma,95 a 99 anos,Preta,
+2022,2913606,"Rede geral, rede pluvial ou fossa ligada à rede",95 a 99 anos,Preta,31
+2022,2913606,Fossa rudimentar ou buraco,70 a 74 anos,Preta,127
+2022,2913606,"Rede geral, rede pluvial ou fossa ligada à rede",15 a 19 anos,Preta,1951
+2022,2913606,Fossa rudimentar ou buraco,55 a 59 anos,Preta,292
+2022,2913606,Não tinham banheiro nem sanitário,45 a 49 anos,Preta,20
+2022,2913606,"Rede geral, rede pluvial ou fossa ligada à rede",65 a 69 anos,Preta,997
+2022,2913606,"Rio, lago, córrego ou mar",30 a 34 anos,Preta,155
+2022,2913606,Fossa séptica ou fossa filtro ligada à rede,65 a 69 anos,Preta,24
+2022,2913606,Fossa séptica ou fossa filtro não ligada à rede,55 a 59 anos,Preta,251
+2022,2913606,Fossa rudimentar ou buraco,80 a 84 anos,Preta,47
+2022,2913606,Não tinham banheiro nem sanitário,45 a 49 anos,Branca,6
+2022,2913606,Fossa séptica ou fossa filtro não ligada à rede,100 anos ou mais,Branca,2
+2022,2913606,Outra forma,70 a 74 anos,Branca,6
+2022,2913606,"Rio, lago, córrego ou mar",70 a 74 anos,Branca,21
+2022,2913606,Fossa rudimentar ou buraco,85 a 89 anos,Branca,28
+2022,2913606,"Rede geral, rede pluvial ou fossa ligada à rede",15 a 19 anos,Branca,1497
+2022,2913606,Outra forma,85 a 89 anos,Branca,2
+2022,2913606,Fossa séptica ou fossa filtro não ligada à rede,0 a 4 anos,Branca,281
+2022,2913606,"Rio, lago, córrego ou mar",90 a 94 anos,Branca,5
+2022,2913606,Vala,5 a 9 anos,Branca,59
+2022,2913606,Fossa séptica ou fossa filtro ligada à rede,95 a 99 anos,Amarela,
+2022,2913606,Outra forma,10 a 14 anos,Amarela,
+2022,2913606,Outra forma,15 a 19 anos,Amarela,1
+2022,2913606,"Rio, lago, córrego ou mar",30 a 34 anos,Amarela,1
+2022,2913606,"Rio, lago, córrego ou mar",75 a 79 anos,Amarela,
+2022,2913606,Rede geral ou pluvial,45 a 49 anos,Amarela,15
+2022,2913606,Fossa séptica ou fossa filtro não ligada à rede,10 a 14 anos,Amarela,1
+2022,2913606,Fossa séptica ou fossa filtro não ligada à rede,100 anos ou mais,Amarela,
+2022,2913606,"Rio, lago, córrego ou mar",20 a 24 anos,Amarela,
+2022,2913606,"Rede geral, rede pluvial ou fossa ligada à rede",55 a 59 anos,Amarela,14
+2022,2913606,"Rio, lago, córrego ou mar",65 a 69 anos,Amarela,
+2022,2913606,Fossa rudimentar ou buraco,15 a 19 anos,Amarela,2
+2022,2913606,Outra forma,50 a 54 anos,Amarela,
+2022,2913606,Vala,10 a 14 anos,Amarela,
+2022,2913606,Não tinham banheiro nem sanitário,30 a 34 anos,Indígena,22
+2022,2913606,Vala,65 a 69 anos,Indígena,4
+2022,2913606,Vala,55 a 59 anos,Indígena,6
+2022,2913606,"Rio, lago, córrego ou mar",60 a 64 anos,Indígena,8
+2022,2913606,Fossa séptica ou fossa filtro não ligada à rede,75 a 79 anos,Indígena,16
+2022,2913606,Não tinham banheiro nem sanitário,95 a 99 anos,Indígena,
+2022,2913606,Fossa séptica ou fossa filtro não ligada à rede,70 a 74 anos,Indígena,26
+2022,2913606,Fossa séptica ou fossa filtro ligada à rede,70 a 74 anos,Indígena,4
+2022,2913606,Vala,75 a 79 anos,Indígena,3
+2022,2913606,"Rio, lago, córrego ou mar",70 a 74 anos,Indígena,2
+2022,2913606,Fossa séptica ou fossa filtro não ligada à rede,100 anos ou mais,Indígena,1
+2022,2913606,Vala,70 a 74 anos,Indígena,4
+2022,2913606,Fossa séptica ou fossa filtro ligada à rede,50 a 54 anos,Indígena,3
+2022,2913606,Fossa séptica ou fossa filtro não ligada à rede,20 a 24 anos,Parda,751
+2022,2913606,Não tinham banheiro nem sanitário,100 anos ou mais,Parda,
+2022,2913606,Não tinham banheiro nem sanitário,30 a 34 anos,Parda,37
+2022,2913606,Fossa séptica ou fossa filtro não ligada à rede,70 a 74 anos,Parda,347
+2022,2913606,Fossa séptica ou fossa filtro ligada à rede,15 a 19 anos,Parda,142
+2022,2913606,Não tinham banheiro nem sanitário,70 a 74 anos,Parda,19
+2022,2913606,Outra forma,40 a 44 anos,Parda,77
+2022,2913606,"Rede geral, rede pluvial ou fossa ligada à rede",0 a 4 anos,Parda,3907
+2022,2913606,Rede geral ou pluvial,95 a 99 anos,Parda,49
+2022,2913606,Rede geral ou pluvial,15 a 19 anos,Parda,4554
+2022,2913606,"Rede geral, rede pluvial ou fossa ligada à rede",15 a 19 anos,Parda,4696
+2022,2913606,"Rede geral, rede pluvial ou fossa ligada à rede",65 a 69 anos,Parda,2639
+2022,2913606,Fossa séptica ou fossa filtro ligada à rede,100 anos ou mais,Parda,
+2022,2913606,Fossa séptica ou fossa filtro ligada à rede,60 a 64 anos,Parda,107
+2022,2913606,Outra forma,95 a 99 anos,Parda,
+2022,2913606,"Rede geral, rede pluvial ou fossa ligada à rede",25 a 29 anos,Parda,4447
+2022,2913606,Vala,10 a 14 anos,Parda,256
+2022,2913606,Outra forma,20 a 24 anos,Parda,85
+2022,2913606,Não tinham banheiro nem sanitário,0 a 4 anos,Parda,32
+2022,2913606,"Rede geral, rede pluvial ou fossa ligada à rede",10 a 14 anos,Parda,4532
+2022,2913606,"Rede geral, rede pluvial ou fossa ligada à rede",30 a 34 anos,Parda,4482
+2022,2913606,Fossa rudimentar ou buraco,0 a 4 anos,Preta,223
+2022,2913606,Não tinham banheiro nem sanitário,50 a 54 anos,Preta,23
+2022,2913606,"Rede geral, rede pluvial ou fossa ligada à rede",35 a 39 anos,Preta,2484
+2022,2913606,Vala,100 anos ou mais,Preta,
+2022,2913606,Fossa séptica ou fossa filtro ligada à rede,75 a 79 anos,Preta,12
+2022,2913606,Outra forma,25 a 29 anos,Preta,29
+2022,2913606,Fossa séptica ou fossa filtro ligada à rede,95 a 99 anos,Preta,1
+2022,2913606,"Rio, lago, córrego ou mar",75 a 79 anos,Preta,31
+2022,2913606,Fossa séptica ou fossa filtro ligada à rede,0 a 4 anos,Preta,36
+2022,2913606,Outra forma,0 a 4 anos,Preta,30
+2022,2913606,Outra forma,60 a 64 anos,Preta,21
+2022,2913606,Rede geral ou pluvial,90 a 94 anos,Branca,97
+2022,2913606,Vala,25 a 29 anos,Branca,44
+2022,2913606,Fossa séptica ou fossa filtro não ligada à rede,10 a 14 anos,Branca,275
+2022,2913606,Outra forma,100 anos ou mais,Branca,
+2022,2913606,Fossa séptica ou fossa filtro ligada à rede,90 a 94 anos,Branca,9
+2022,2913606,Fossa séptica ou fossa filtro não ligada à rede,80 a 84 anos,Branca,89
+2022,2913606,Vala,70 a 74 anos,Branca,17
+2022,2913606,Outra forma,60 a 64 anos,Branca,16
+2022,2913606,Fossa séptica ou fossa filtro não ligada à rede,40 a 44 anos,Branca,373
+2022,2913606,Fossa rudimentar ou buraco,35 a 39 anos,Branca,181
+2022,2913606,Rede geral ou pluvial,100 anos ou mais,Branca,6
+2022,2913606,Fossa rudimentar ou buraco,55 a 59 anos,Branca,187
+2022,2913606,Outra forma,25 a 29 anos,Branca,14
+2022,2913606,Fossa séptica ou fossa filtro não ligada à rede,15 a 19 anos,Amarela,
+2022,2913606,Não tinham banheiro nem sanitário,90 a 94 anos,Amarela,
+2022,2913606,Fossa séptica ou fossa filtro ligada à rede,45 a 49 anos,Amarela,
+2022,2913606,Não tinham banheiro nem sanitário,70 a 74 anos,Amarela,
+2022,2913606,Fossa séptica ou fossa filtro não ligada à rede,40 a 44 anos,Amarela,3
+2022,2913606,Fossa rudimentar ou buraco,70 a 74 anos,Amarela,1
+2022,2913606,Fossa séptica ou fossa filtro não ligada à rede,80 a 84 anos,Amarela,2
+2022,2913606,"Rio, lago, córrego ou mar",100 anos ou mais,Amarela,
+2022,2913606,Fossa rudimentar ou buraco,45 a 49 anos,Amarela,3
+2022,2913606,Não tinham banheiro nem sanitário,85 a 89 anos,Amarela,
+2022,2913606,Outra forma,100 anos ou mais,Amarela,
+2022,2913606,Fossa séptica ou fossa filtro ligada à rede,75 a 79 anos,Amarela,
+2022,2913606,Vala,5 a 9 anos,Amarela,
+2022,2913606,Fossa séptica ou fossa filtro ligada à rede,35 a 39 anos,Amarela,
+2022,2913606,Fossa séptica ou fossa filtro ligada à rede,40 a 44 anos,Amarela,1
+2022,2913606,Vala,20 a 24 anos,Amarela,2
+2022,2913606,"Rede geral, rede pluvial ou fossa ligada à rede",45 a 49 anos,Indígena,191
+2022,2913606,Fossa séptica ou fossa filtro ligada à rede,60 a 64 anos,Indígena,7
+2022,2913606,Rede geral ou pluvial,45 a 49 anos,Indígena,182
+2022,2913606,"Rio, lago, córrego ou mar",0 a 4 anos,Indígena,9
+2022,2913606,Rede geral ou pluvial,50 a 54 anos,Indígena,133
+2022,2913606,"Rio, lago, córrego ou mar",95 a 99 anos,Indígena,
+2022,2913606,Não tinham banheiro nem sanitário,35 a 39 anos,Indígena,23
+2022,2913606,Fossa séptica ou fossa filtro ligada à rede,80 a 84 anos,Indígena,5
+2022,2913606,"Rio, lago, córrego ou mar",75 a 79 anos,Indígena,5
+2022,2913606,Fossa rudimentar ou buraco,80 a 84 anos,Indígena,25
+2022,2913606,"Rio, lago, córrego ou mar",100 anos ou mais,Indígena,
+2022,2913606,Fossa séptica ou fossa filtro não ligada à rede,10 a 14 anos,Indígena,112
+2022,2913606,Vala,90 a 94 anos,Indígena,
+2022,2913606,Outra forma,0 a 4 anos,Indígena,29
+2022,2913606,Fossa séptica ou fossa filtro ligada à rede,35 a 39 anos,Indígena,11
+2022,2913606,Fossa séptica ou fossa filtro não ligada à rede,30 a 34 anos,Parda,775
+2022,2913606,Fossa séptica ou fossa filtro ligada à rede,65 a 69 anos,Parda,79
+2022,2913606,Rede geral ou pluvial,5 a 9 anos,Parda,4420
+2022,2913606,"Rio, lago, córrego ou mar",0 a 4 anos,Parda,289
+2022,2913606,Outra forma,50 a 54 anos,Parda,53
+2022,2913606,Fossa séptica ou fossa filtro não ligada à rede,60 a 64 anos,Parda,689
+2022,2913606,Fossa séptica ou fossa filtro ligada à rede,20 a 24 anos,Parda,125
+2022,2913606,Não tinham banheiro nem sanitário,60 a 64 anos,Parda,35
+2022,2913606,Rede geral ou pluvial,20 a 24 anos,Preta,2246
+2022,2913606,Fossa rudimentar ou buraco,90 a 94 anos,Preta,7
+2022,2913606,Fossa séptica ou fossa filtro não ligada à rede,30 a 34 anos,Preta,319
+2022,2913606,Vala,25 a 29 anos,Preta,122
+2022,2913606,Vala,75 a 79 anos,Preta,22
+2022,2913606,"Rede geral, rede pluvial ou fossa ligada à rede",5 a 9 anos,Preta,1437
+2022,2913606,Fossa séptica ou fossa filtro ligada à rede,25 a 29 anos,Preta,53
+2022,2913606,Não tinham banheiro nem sanitário,95 a 99 anos,Preta,
+2022,2913606,Fossa séptica ou fossa filtro não ligada à rede,0 a 4 anos,Preta,156
+2022,2913606,Vala,35 a 39 anos,Preta,133
+2022,2913606,"Rio, lago, córrego ou mar",95 a 99 anos,Preta,1
+2022,2913606,Fossa séptica ou fossa filtro ligada à rede,100 anos ou mais,Branca,
+2022,2913606,Fossa séptica ou fossa filtro ligada à rede,75 a 79 anos,Branca,21
+2022,2913606,"Rede geral, rede pluvial ou fossa ligada à rede",25 a 29 anos,Branca,1368
+2022,2913606,Fossa rudimentar ou buraco,40 a 44 anos,Branca,192
+2022,2913606,Não tinham banheiro nem sanitário,90 a 94 anos,Branca,
+2022,2913606,Rede geral ou pluvial,45 a 49 anos,Branca,1282
+2022,2913606,Vala,30 a 34 anos,Branca,39
+2022,2913606,"Rio, lago, córrego ou mar",100 anos ou mais,Branca,
+2022,2913606,Vala,20 a 24 anos,Branca,33
+2022,2913606,"Rede geral, rede pluvial ou fossa ligada à rede",35 a 39 anos,Branca,1532
+2022,2913606,Rede geral ou pluvial,30 a 34 anos,Branca,1348
+2022,2913606,Outra forma,80 a 84 anos,Branca,2
+2022,2913606,"Rede geral, rede pluvial ou fossa ligada à rede",65 a 69 anos,Amarela,7
+2022,2913606,Fossa séptica ou fossa filtro ligada à rede,60 a 64 anos,Amarela,
+2022,2913606,Outra forma,95 a 99 anos,Amarela,
+2022,2913606,Fossa séptica ou fossa filtro ligada à rede,65 a 69 anos,Amarela,
+2022,2913606,Vala,70 a 74 anos,Amarela,1
+2022,2913606,"Rede geral, rede pluvial ou fossa ligada à rede",60 a 64 anos,Amarela,1
+2022,2913606,Outra forma,85 a 89 anos,Amarela,
+2022,2913606,Fossa séptica ou fossa filtro não ligada à rede,20 a 24 anos,Amarela,2
+2022,2913606,Rede geral ou pluvial,85 a 89 anos,Amarela,
+2022,2913606,Outra forma,40 a 44 anos,Amarela,
+2022,2913606,Rede geral ou pluvial,15 a 19 anos,Amarela,16
+2022,2913606,Não tinham banheiro nem sanitário,25 a 29 anos,Amarela,
+2022,2913606,Fossa rudimentar ou buraco,55 a 59 anos,Amarela,2
+2022,2913606,Não tinham banheiro nem sanitário,60 a 64 anos,Indígena,16
+2022,2913606,Rede geral ou pluvial,10 a 14 anos,Indígena,145
+2022,2913606,Fossa rudimentar ou buraco,30 a 34 anos,Indígena,220
+2022,2913606,Outra forma,15 a 19 anos,Indígena,39
+2022,2913606,Rede geral ou pluvial,95 a 99 anos,Indígena,3
+2022,2913606,Fossa séptica ou fossa filtro ligada à rede,40 a 44 anos,Indígena,18
+2022,2913606,Rede geral ou pluvial,60 a 64 anos,Indígena,115
+2022,2913606,Fossa séptica ou fossa filtro ligada à rede,25 a 29 anos,Indígena,5
+2022,2913606,Não tinham banheiro nem sanitário,80 a 84 anos,Indígena,4
+2022,2913606,"Rio, lago, córrego ou mar",90 a 94 anos,Indígena,
+2022,2913606,Vala,30 a 34 anos,Indígena,10
+2022,2913606,Fossa séptica ou fossa filtro não ligada à rede,25 a 29 anos,Indígena,79
+2022,2913606,Outra forma,75 a 79 anos,Parda,18
+2022,2913606,"Rio, lago, córrego ou mar",60 a 64 anos,Parda,209
+2022,2913606,Fossa séptica ou fossa filtro ligada à rede,5 a 9 anos,Parda,122
+2022,2913606,"Rio, lago, córrego ou mar",50 a 54 anos,Parda,292
+2022,2913606,"Rede geral, rede pluvial ou fossa ligada à rede",40 a 44 anos,Parda,5445
+2022,2913606,Outra forma,0 a 4 anos,Parda,98
+2022,2913606,Fossa séptica ou fossa filtro não ligada à rede,10 a 14 anos,Parda,794
+2022,2913606,Outra forma,10 a 14 anos,Parda,89
+2022,2913606,Rede geral ou pluvial,0 a 4 anos,Parda,3799
+2022,2913606,Outra forma,100 anos ou mais,Parda,
+2022,2913606,Fossa séptica ou fossa filtro ligada à rede,85 a 89 anos,Parda,15
+2022,2913606,"Rio, lago, córrego ou mar",90 a 94 anos,Parda,7
+2022,2913606,Vala,75 a 79 anos,Parda,41
+2022,2913606,"Rio, lago, córrego ou mar",95 a 99 anos,Parda,4
+2022,2913606,Fossa rudimentar ou buraco,70 a 74 anos,Parda,368
+2022,2913606,Não tinham banheiro nem sanitário,60 a 64 anos,Preta,24
+2022,2913606,Fossa séptica ou fossa filtro ligada à rede,50 a 54 anos,Preta,48
+2022,2913606,Outra forma,80 a 84 anos,Preta,7
+2022,2913606,Fossa séptica ou fossa filtro ligada à rede,30 a 34 anos,Preta,52
+2022,2913606,Não tinham banheiro nem sanitário,85 a 89 anos,Preta,1
+2022,2913606,Rede geral ou pluvial,55 a 59 anos,Preta,1479
+2022,2913606,Fossa séptica ou fossa filtro não ligada à rede,90 a 94 anos,Preta,5
+2022,2913606,Não tinham banheiro nem sanitário,5 a 9 anos,Preta,18
+2022,2913606,Rede geral ou pluvial,60 a 64 anos,Preta,1270
+2022,2913606,Fossa rudimentar ou buraco,5 a 9 anos,Preta,276
+2022,2913606,"Rio, lago, córrego ou mar",80 a 84 anos,Preta,19
+2022,2913606,Fossa rudimentar ou buraco,65 a 69 anos,Preta,213
+2022,2913606,Vala,85 a 89 anos,Preta,8
+2022,2913606,Fossa séptica ou fossa filtro ligada à rede,55 a 59 anos,Preta,44
+2022,2913606,"Rio, lago, córrego ou mar",100 anos ou mais,Preta,
+2022,2913606,Outra forma,10 a 14 anos,Preta,24
+2022,2913606,Outra forma,40 a 44 anos,Preta,48
+2022,2913606,Outra forma,70 a 74 anos,Preta,7
+2022,2913606,Fossa séptica ou fossa filtro não ligada à rede,80 a 84 anos,Preta,53
+2022,2913606,Fossa séptica ou fossa filtro ligada à rede,95 a 99 anos,Branca,2
+2022,2913606,Fossa rudimentar ou buraco,10 a 14 anos,Branca,171
+2022,2913606,Fossa rudimentar ou buraco,70 a 74 anos,Branca,104
+2022,2913606,"Rede geral, rede pluvial ou fossa ligada à rede",45 a 49 anos,Branca,1330
+2022,2913606,Não tinham banheiro nem sanitário,85 a 89 anos,Branca,
+2022,2913606,Outra forma,30 a 34 anos,Branca,17
+2022,2913606,Fossa rudimentar ou buraco,60 a 64 anos,Branca,160
+2022,2913606,"Rio, lago, córrego ou mar",35 a 39 anos,Branca,68
+2022,2913606,Vala,95 a 99 anos,Branca,
+2022,2913606,Não tinham banheiro nem sanitário,35 a 39 anos,Branca,13
+2022,2913606,Vala,80 a 84 anos,Branca,4
+2022,2913606,Fossa rudimentar ou buraco,20 a 24 anos,Branca,176
+2022,2913606,"Rio, lago, córrego ou mar",20 a 24 anos,Branca,74
+2022,2913606,Não tinham banheiro nem sanitário,50 a 54 anos,Branca,12
+2022,2913606,Outra forma,45 a 49 anos,Branca,14
+2022,2913606,Não tinham banheiro nem sanitário,80 a 84 anos,Branca,2
+2022,2913606,Fossa rudimentar ou buraco,50 a 54 anos,Branca,199
+2022,2913606,Fossa séptica ou fossa filtro não ligada à rede,20 a 24 anos,Branca,275
+2022,2913606,Fossa séptica ou fossa filtro não ligada à rede,45 a 49 anos,Amarela,
+2022,2913606,"Rede geral, rede pluvial ou fossa ligada à rede",50 a 54 anos,Amarela,13
+2022,2913606,Fossa rudimentar ou buraco,25 a 29 anos,Amarela,4
+2022,2913606,Fossa séptica ou fossa filtro não ligada à rede,70 a 74 anos,Amarela,1
+2022,2913606,Fossa séptica ou fossa filtro não ligada à rede,35 a 39 anos,Amarela,4
+2022,2913606,Fossa rudimentar ou buraco,50 a 54 anos,Amarela,2
+2022,2913606,"Rio, lago, córrego ou mar",70 a 74 anos,Amarela,
+2022,2913606,Fossa séptica ou fossa filtro ligada à rede,70 a 74 anos,Amarela,1
+2022,2913606,Fossa rudimentar ou buraco,40 a 44 anos,Amarela,1
+2022,2913606,Fossa séptica ou fossa filtro não ligada à rede,95 a 99 anos,Amarela,
+2022,2913606,Fossa rudimentar ou buraco,100 anos ou mais,Indígena,
+2022,2913606,Fossa rudimentar ou buraco,65 a 69 anos,Indígena,113
+2022,2913606,"Rio, lago, córrego ou mar",55 a 59 anos,Indígena,5
+2022,2913606,Outra forma,40 a 44 anos,Indígena,25
+2022,2913606,Fossa rudimentar ou buraco,40 a 44 anos,Indígena,249
+2022,2913606,Fossa rudimentar ou buraco,95 a 99 anos,Indígena,2
+2022,2913606,Não tinham banheiro nem sanitário,75 a 79 anos,Indígena,3
+2022,2913606,Outra forma,50 a 54 anos,Indígena,10
+2022,2913606,Fossa séptica ou fossa filtro não ligada à rede,30 a 34 anos,Indígena,77
+2022,2913606,Fossa séptica ou fossa filtro não ligada à rede,65 a 69 anos,Indígena,46
+2022,2913606,Fossa rudimentar ou buraco,0 a 4 anos,Indígena,327
+2022,2913606,Rede geral ou pluvial,15 a 19 anos,Indígena,143
+2022,2913606,Rede geral ou pluvial,35 a 39 anos,Indígena,181
+2022,2913606,Vala,0 a 4 anos,Indígena,8
+2022,2913606,"Rio, lago, córrego ou mar",65 a 69 anos,Indígena,2
+2022,2913606,Fossa séptica ou fossa filtro não ligada à rede,20 a 24 anos,Indígena,81
+2022,2913606,Não tinham banheiro nem sanitário,40 a 44 anos,Indígena,24
+2022,2913606,"Rede geral, rede pluvial ou fossa ligada à rede",80 a 84 anos,Indígena,30
+2022,2913606,Fossa séptica ou fossa filtro ligada à rede,0 a 4 anos,Indígena,12
+2022,2913606,Fossa rudimentar ou buraco,45 a 49 anos,Indígena,206
+2022,2913606,"Rio, lago, córrego ou mar",15 a 19 anos,Indígena,8
+2022,2913606,"Rede geral, rede pluvial ou fossa ligada à rede",30 a 34 anos,Indígena,128
+2022,2913606,Outra forma,5 a 9 anos,Indígena,29
+2022,2913606,Rede geral ou pluvial,75 a 79 anos,Indígena,40
+2022,2913606,Fossa séptica ou fossa filtro não ligada à rede,55 a 59 anos,Parda,745
+2022,2913606,Fossa séptica ou fossa filtro ligada à rede,95 a 99 anos,Parda,5
+2022,2913606,Fossa séptica ou fossa filtro ligada à rede,10 a 14 anos,Parda,117
+2022,2913606,"Rede geral, rede pluvial ou fossa ligada à rede",85 a 89 anos,Parda,444
+2022,2913606,Fossa rudimentar ou buraco,95 a 99 anos,Parda,10
+2022,2913606,"Rede geral, rede pluvial ou fossa ligada à rede",55 a 59 anos,Parda,3896
+2022,2913606,Fossa rudimentar ou buraco,50 a 54 anos,Parda,795
+2022,2913606,Outra forma,85 a 89 anos,Parda,2
+2022,2913606,Não tinham banheiro nem sanitário,40 a 44 anos,Parda,40
+2022,2913606,"Rio, lago, córrego ou mar",65 a 69 anos,Parda,175
+2022,2913606,Fossa séptica ou fossa filtro ligada à rede,70 a 74 anos,Preta,15
+2022,2913606,Fossa rudimentar ou buraco,30 a 34 anos,Preta,306
+2022,2913606,Não tinham banheiro nem sanitário,30 a 34 anos,Preta,25
+2022,2913606,"Rede geral, rede pluvial ou fossa ligada à rede",10 a 14 anos,Preta,1582
+2022,2913606,Fossa séptica ou fossa filtro ligada à rede,85 a 89 anos,Preta,5
+2022,2913606,Outra forma,50 a 54 anos,Preta,32
+2022,2913606,Rede geral ou pluvial,40 a 44 anos,Preta,2425
+2022,2913606,Rede geral ou pluvial,85 a 89 anos,Preta,148
+2022,2913606,Fossa séptica ou fossa filtro ligada à rede,5 a 9 anos,Preta,30
+2022,2913606,Fossa rudimentar ou buraco,45 a 49 anos,Preta,355
+2022,2913606,Outra forma,55 a 59 anos,Preta,12
+2022,2913606,Vala,5 a 9 anos,Preta,90
+2022,2913606,Vala,10 a 14 anos,Preta,111
+2022,2913606,Vala,70 a 74 anos,Preta,33
+2022,2913606,Fossa séptica ou fossa filtro ligada à rede,20 a 24 anos,Preta,52
+2022,2913606,"Rio, lago, córrego ou mar",10 a 14 anos,Preta,133
+2022,2913606,Não tinham banheiro nem sanitário,15 a 19 anos,Preta,24
+2022,2913606,Rede geral ou pluvial,15 a 19 anos,Preta,1906
+2022,2913606,Rede geral ou pluvial,25 a 29 anos,Branca,1330
+2022,2913606,Não tinham banheiro nem sanitário,60 a 64 anos,Branca,4
+2022,2913606,Fossa séptica ou fossa filtro ligada à rede,50 a 54 anos,Branca,57
+2022,2913606,Fossa rudimentar ou buraco,5 a 9 anos,Branca,192
+2022,2913606,"Rio, lago, córrego ou mar",65 a 69 anos,Branca,41
+2022,2913606,Fossa séptica ou fossa filtro não ligada à rede,50 a 54 anos,Branca,260
+2022,2913606,Fossa séptica ou fossa filtro ligada à rede,30 a 34 anos,Branca,41
+2022,2913606,Não tinham banheiro nem sanitário,5 a 9 anos,Branca,8
+2022,2913606,Rede geral ou pluvial,0 a 4 anos,Branca,1407
+2022,2913606,Não tinham banheiro nem sanitário,20 a 24 anos,Branca,3
+2022,2913606,"Rio, lago, córrego ou mar",90 a 94 anos,Amarela,
+2022,2913606,"Rede geral, rede pluvial ou fossa ligada à rede",80 a 84 anos,Amarela,5
+2022,2913606,Vala,15 a 19 anos,Amarela,1
+2022,2913606,"Rede geral, rede pluvial ou fossa ligada à rede",45 a 49 anos,Amarela,15
+2022,2913606,Fossa rudimentar ou buraco,65 a 69 anos,Amarela,2
+2022,2913606,Vala,95 a 99 anos,Amarela,
+2022,2913606,Vala,100 anos ou mais,Amarela,
+2022,2913606,"Rio, lago, córrego ou mar",5 a 9 anos,Amarela,
+2022,2913606,"Rede geral, rede pluvial ou fossa ligada à rede",85 a 89 anos,Amarela,
+2022,2913606,"Rede geral, rede pluvial ou fossa ligada à rede",20 a 24 anos,Amarela,12
+2022,2913606,Fossa rudimentar ou buraco,10 a 14 anos,Amarela,
+2022,2913606,Rede geral ou pluvial,90 a 94 anos,Amarela,1
+2022,2913606,"Rede geral, rede pluvial ou fossa ligada à rede",70 a 74 anos,Amarela,4
+2022,2913606,"Rede geral, rede pluvial ou fossa ligada à rede",20 a 24 anos,Indígena,165
+2022,2913606,"Rio, lago, córrego ou mar",10 a 14 anos,Indígena,11
+2022,2913606,Não tinham banheiro nem sanitário,70 a 74 anos,Indígena,3
+2022,2913606,Fossa séptica ou fossa filtro ligada à rede,85 a 89 anos,Indígena,1
+2022,2913606,Vala,50 a 54 anos,Indígena,13
+2022,2913606,"Rede geral, rede pluvial ou fossa ligada à rede",5 a 9 anos,Indígena,140
+2022,2913606,"Rede geral, rede pluvial ou fossa ligada à rede",75 a 79 anos,Indígena,40
+2022,2913606,"Rio, lago, córrego ou mar",5 a 9 anos,Indígena,11
+2022,2913606,Fossa séptica ou fossa filtro não ligada à rede,60 a 64 anos,Indígena,61
+2022,2913606,Vala,95 a 99 anos,Indígena,
+2022,2913606,"Rio, lago, córrego ou mar",45 a 49 anos,Indígena,10
+2022,2913606,Outra forma,10 a 14 anos,Indígena,42
+2022,2913606,"Rio, lago, córrego ou mar",40 a 44 anos,Parda,381
+2022,2913606,Vala,50 a 54 anos,Parda,160
+2022,2913606,"Rede geral, rede pluvial ou fossa ligada à rede",20 a 24 anos,Parda,4757
+2022,2913606,Vala,0 a 4 anos,Parda,227
+2022,2913606,Não tinham banheiro nem sanitário,25 a 29 anos,Parda,25
+2022,2913606,Outra forma,45 a 49 anos,Parda,65
+2022,2913606,Outra forma,5 a 9 anos,Parda,81
+2022,2913606,"Rede geral, rede pluvial ou fossa ligada à rede",95 a 99 anos,Parda,54
+2022,2913606,Fossa séptica ou fossa filtro não ligada à rede,40 a 44 anos,Parda,985
+2022,2913606,Não tinham banheiro nem sanitário,55 a 59 anos,Parda,41
+2022,2913606,Vala,70 a 74 anos,Parda,90
+2022,2913606,"Rio, lago, córrego ou mar",25 a 29 anos,Parda,310
+2022,2913606,Não tinham banheiro nem sanitário,20 a 24 anos,Parda,35
+2022,2913606,Fossa séptica ou fossa filtro ligada à rede,55 a 59 anos,Parda,103
+2022,2913606,Fossa rudimentar ou buraco,85 a 89 anos,Preta,30
+2022,2913606,Fossa rudimentar ou buraco,35 a 39 anos,Preta,395
+2022,2913606,Não tinham banheiro nem sanitário,55 a 59 anos,Preta,20
+2022,2913606,Outra forma,20 a 24 anos,Preta,51
+2022,2913606,Não tinham banheiro nem sanitário,20 a 24 anos,Preta,20
+2022,2913606,Vala,30 a 34 anos,Preta,115
+2022,2913606,Fossa rudimentar ou buraco,15 a 19 anos,Preta,367
+2022,2913606,Rede geral ou pluvial,95 a 99 anos,Preta,30
+2022,2913606,Vala,80 a 84 anos,Preta,11
+2022,2913606,Vala,90 a 94 anos,Preta,3
+2022,2913606,"Rede geral, rede pluvial ou fossa ligada à rede",100 anos ou mais,Preta,5
+2022,2913606,Fossa séptica ou fossa filtro ligada à rede,90 a 94 anos,Preta,1
+2022,2913606,Fossa séptica ou fossa filtro ligada à rede,0 a 4 anos,Branca,51
+2022,2913606,Fossa séptica ou fossa filtro ligada à rede,40 a 44 anos,Branca,49
+2022,2913606,Fossa séptica ou fossa filtro ligada à rede,15 a 19 anos,Branca,55
+2022,2913606,"Rio, lago, córrego ou mar",40 a 44 anos,Branca,94
+2022,2913606,Outra forma,65 a 69 anos,Branca,14
+2022,2913606,"Rede geral, rede pluvial ou fossa ligada à rede",65 a 69 anos,Branca,928
+2022,2913606,Outra forma,55 a 59 anos,Branca,18
+2022,2913606,Fossa séptica ou fossa filtro não ligada à rede,95 a 99 anos,Branca,6
+2022,2913606,"Rede geral, rede pluvial ou fossa ligada à rede",5 a 9 anos,Branca,1308
+2022,2913606,Fossa séptica ou fossa filtro ligada à rede,80 a 84 anos,Branca,17
+2022,2913606,Vala,55 a 59 anos,Branca,40
+2022,2913606,"Rio, lago, córrego ou mar",60 a 64 anos,Branca,47
+2022,2913606,Fossa séptica ou fossa filtro ligada à rede,85 a 89 anos,Branca,4
+2022,2913606,Fossa séptica ou fossa filtro não ligada à rede,45 a 49 anos,Branca,317
+2022,2913606,Outra forma,20 a 24 anos,Branca,19
+2022,2913606,Fossa séptica ou fossa filtro não ligada à rede,15 a 19 anos,Branca,273
+2022,2913606,Rede geral ou pluvial,15 a 19 anos,Branca,1442
+2022,2913606,Fossa rudimentar ou buraco,20 a 24 anos,Amarela,1
+2022,2913606,"Rio, lago, córrego ou mar",50 a 54 anos,Amarela,
+2022,2913606,Vala,50 a 54 anos,Amarela,1
+2022,2913606,Rede geral ou pluvial,60 a 64 anos,Amarela,1
+2022,2913606,"Rio, lago, córrego ou mar",10 a 14 anos,Amarela,1
+2022,2913606,Fossa séptica ou fossa filtro não ligada à rede,0 a 4 anos,Amarela,1
+2022,2913606,Outra forma,20 a 24 anos,Amarela,1
+2022,2913606,Vala,0 a 4 anos,Amarela,
+2022,2913606,Outra forma,45 a 49 anos,Amarela,
+2022,2913606,Fossa séptica ou fossa filtro não ligada à rede,60 a 64 anos,Amarela,3
+2022,2913606,"Rede geral, rede pluvial ou fossa ligada à rede",10 a 14 anos,Amarela,15
+2022,2913606,Vala,80 a 84 anos,Amarela,
+2022,2913606,"Rio, lago, córrego ou mar",55 a 59 anos,Amarela,
+2022,2913606,Rede geral ou pluvial,0 a 4 anos,Indígena,148
+2022,2913606,Não tinham banheiro nem sanitário,55 a 59 anos,Indígena,18
+2022,2913606,Não tinham banheiro nem sanitário,65 a 69 anos,Indígena,9
+2022,2913606,Fossa rudimentar ou buraco,10 a 14 anos,Indígena,357
+2022,2913606,"Rede geral, rede pluvial ou fossa ligada à rede",0 a 4 anos,Indígena,160
+2022,2913606,Vala,45 a 49 anos,Indígena,11
+2022,2913606,Vala,5 a 9 anos,Indígena,17
+2022,2913606,Rede geral ou pluvial,30 a 34 anos,Indígena,126
+2022,2913606,Fossa séptica ou fossa filtro não ligada à rede,50 a 54 anos,Indígena,68
+2022,2913606,Fossa séptica ou fossa filtro ligada à rede,95 a 99 anos,Indígena,
+2022,2913606,Fossa séptica ou fossa filtro ligada à rede,100 anos ou mais,Indígena,
+2022,2913606,Fossa séptica ou fossa filtro ligada à rede,30 a 34 anos,Indígena,2
+2022,2913606,Não tinham banheiro nem sanitário,15 a 19 anos,Indígena,26
+2022,2913606,Fossa séptica ou fossa filtro ligada à rede,65 a 69 anos,Indígena,5
+2022,2913606,Fossa rudimentar ou buraco,25 a 29 anos,Indígena,227
+2022,2913606,Fossa séptica ou fossa filtro não ligada à rede,85 a 89 anos,Parda,67
+2022,2913606,Outra forma,15 a 19 anos,Parda,89
+2022,2913606,Vala,25 a 29 anos,Parda,194
+2022,2913606,"Rio, lago, córrego ou mar",5 a 9 anos,Parda,356
+2022,2913606,Vala,95 a 99 anos,Parda,
+2022,2913606,Fossa rudimentar ou buraco,0 a 4 anos,Parda,835
+2022,2913606,"Rede geral, rede pluvial ou fossa ligada à rede",90 a 94 anos,Parda,189
+2022,2913606,Rede geral ou pluvial,70 a 74 anos,Parda,1737
+2022,2913606,Fossa séptica ou fossa filtro ligada à rede,80 a 84 anos,Parda,15
+2022,2913606,Não tinham banheiro nem sanitário,95 a 99 anos,Parda,
+2022,2913606,"Rio, lago, córrego ou mar",20 a 24 anos,Parda,315
+2022,2913606,"Rio, lago, córrego ou mar",15 a 19 anos,Parda,394
+2022,2913606,"Rio, lago, córrego ou mar",100 anos ou mais,Parda,2
+2022,2913606,"Rio, lago, córrego ou mar",30 a 34 anos,Parda,311
+2022,2913606,Vala,30 a 34 anos,Parda,200
+2022,2913606,Não tinham banheiro nem sanitário,75 a 79 anos,Parda,6
+2022,2913606,Fossa séptica ou fossa filtro não ligada à rede,100 anos ou mais,Preta,5
+2022,2913606,"Rede geral, rede pluvial ou fossa ligada à rede",25 a 29 anos,Preta,2308
+2022,2913606,Fossa rudimentar ou buraco,95 a 99 anos,Preta,6
+2022,2913606,Fossa rudimentar ou buraco,100 anos ou mais,Preta,
+2022,2913606,Fossa séptica ou fossa filtro não ligada à rede,25 a 29 anos,Preta,309
+2022,2913606,Fossa séptica ou fossa filtro não ligada à rede,65 a 69 anos,Preta,172
+2022,2913606,Rede geral ou pluvial,35 a 39 anos,Preta,2427
+2022,2913606,"Rede geral, rede pluvial ou fossa ligada à rede",50 a 54 anos,Preta,1757
+2022,2913606,Fossa séptica ou fossa filtro ligada à rede,60 a 64 anos,Preta,42
+2022,2913606,Rede geral ou pluvial,80 a 84 anos,Preta,294
+2022,2913606,Outra forma,15 a 19 anos,Preta,36
+2022,2913606,"Rede geral, rede pluvial ou fossa ligada à rede",30 a 34 anos,Preta,2236
+2022,2913606,Fossa séptica ou fossa filtro não ligada à rede,35 a 39 anos,Preta,378
+2022,2913606,Fossa séptica ou fossa filtro não ligada à rede,95 a 99 anos,Preta,4
+2022,2913606,Outra forma,35 a 39 anos,Preta,46
+2022,2913606,Outra forma,85 a 89 anos,Preta,1
+2022,2913606,Rede geral ou pluvial,70 a 74 anos,Preta,655
+2022,2913606,Fossa rudimentar ou buraco,25 a 29 anos,Branca,162
+2022,2913606,Vala,40 a 44 anos,Branca,40
+2022,2913606,Rede geral ou pluvial,75 a 79 anos,Branca,522
+2022,2913606,"Rede geral, rede pluvial ou fossa ligada à rede",90 a 94 anos,Branca,106
+2022,2913606,Vala,65 a 69 anos,Branca,34
+2022,2913606,Fossa rudimentar ou buraco,30 a 34 anos,Branca,162
+2022,2913606,"Rede geral, rede pluvial ou fossa ligada à rede",70 a 74 anos,Branca,762
+2022,2913606,Não tinham banheiro nem sanitário,55 a 59 anos,Branca,3
+2022,2913606,Rede geral ou pluvial,60 a 64 anos,Branca,1208
+2022,2913606,Fossa séptica ou fossa filtro ligada à rede,10 a 14 anos,Branca,49
+2022,2913606,Fossa rudimentar ou buraco,80 a 84 anos,Branca,53
+2022,2913606,"Rio, lago, córrego ou mar",25 a 29 anos,Amarela,
+2022,2913606,Não tinham banheiro nem sanitário,95 a 99 anos,Amarela,
+2022,2913606,Vala,45 a 49 anos,Amarela,
+2022,2913606,Outra forma,5 a 9 anos,Amarela,
+2022,2913606,Fossa rudimentar ou buraco,90 a 94 anos,Amarela,
+2022,2913606,"Rede geral, rede pluvial ou fossa ligada à rede",30 a 34 anos,Amarela,12
+2022,2913606,Fossa séptica ou fossa filtro ligada à rede,50 a 54 anos,Amarela,
+2022,2913606,"Rede geral, rede pluvial ou fossa ligada à rede",100 anos ou mais,Amarela,
+2022,2913606,Outra forma,30 a 34 anos,Indígena,23
+2022,2913606,"Rio, lago, córrego ou mar",50 a 54 anos,Indígena,4
+2022,2913606,Vala,60 a 64 anos,Indígena,5
+2022,2913606,Fossa séptica ou fossa filtro ligada à rede,10 a 14 anos,Indígena,12
+2022,2913606,Fossa séptica ou fossa filtro ligada à rede,15 a 19 anos,Indígena,12
+2022,2913606,"Rede geral, rede pluvial ou fossa ligada à rede",10 a 14 anos,Indígena,157
+2022,2913606,Vala,25 a 29 anos,Indígena,10
+2022,2913606,Não tinham banheiro nem sanitário,90 a 94 anos,Indígena,
+2022,2913606,Outra forma,20 a 24 anos,Indígena,21
+2022,2913606,Fossa séptica ou fossa filtro ligada à rede,90 a 94 anos,Indígena,
+2022,2913606,Vala,40 a 44 anos,Indígena,10
+2022,2913606,Vala,20 a 24 anos,Parda,232
+2022,2913606,Vala,15 a 19 anos,Parda,260
+2022,2913606,Outra forma,55 a 59 anos,Parda,62
+2022,2913606,"Rio, lago, córrego ou mar",80 a 84 anos,Parda,41
+2022,2913606,Fossa rudimentar ou buraco,55 a 59 anos,Parda,725
+2022,2913606,Fossa rudimentar ou buraco,60 a 64 anos,Parda,705
+2022,2913606,Fossa séptica ou fossa filtro ligada à rede,0 a 4 anos,Parda,108
+2022,2913606,Não tinham banheiro nem sanitário,85 a 89 anos,Parda,1
+2022,2913606,Fossa séptica ou fossa filtro não ligada à rede,75 a 79 anos,Parda,193
+2022,2913606,"Rede geral, rede pluvial ou fossa ligada à rede",70 a 74 anos,Parda,1788
+2022,2913606,Fossa séptica ou fossa filtro ligada à rede,35 a 39 anos,Preta,57
+2022,2913606,"Rio, lago, córrego ou mar",40 a 44 anos,Preta,212
+2022,2913606,Fossa séptica ou fossa filtro não ligada à rede,15 a 19 anos,Preta,322
+2022,2913606,Vala,20 a 24 anos,Preta,128
+2022,2913606,Fossa séptica ou fossa filtro não ligada à rede,70 a 74 anos,Preta,140
+2022,2913606,Não tinham banheiro nem sanitário,80 a 84 anos,Preta,7
+2022,2913606,Não tinham banheiro nem sanitário,100 anos ou mais,Preta,1
+2022,2913606,"Rede geral, rede pluvial ou fossa ligada à rede",0 a 4 anos,Preta,1137
+2022,2913606,Não tinham banheiro nem sanitário,40 a 44 anos,Preta,16
+2022,2913606,Vala,55 a 59 anos,Preta,88
+2022,2913606,"Rede geral, rede pluvial ou fossa ligada à rede",70 a 74 anos,Preta,670
+2022,2913606,"Rio, lago, córrego ou mar",35 a 39 anos,Preta,190
+2022,2913606,Vala,65 a 69 anos,Preta,70
+2022,2913606,Rede geral ou pluvial,25 a 29 anos,Preta,2255
+2022,2913606,"Rio, lago, córrego ou mar",10 a 14 anos,Branca,95
+2022,2913606,"Rio, lago, córrego ou mar",45 a 49 anos,Branca,63
+2022,2913606,Fossa séptica ou fossa filtro ligada à rede,65 a 69 anos,Branca,35
+2022,2913606,"Rio, lago, córrego ou mar",25 a 29 anos,Branca,66
+2022,2913606,Rede geral ou pluvial,85 a 89 anos,Branca,235
+2022,2913606,Fossa séptica ou fossa filtro não ligada à rede,65 a 69 anos,Branca,216
+2022,2913606,"Rede geral, rede pluvial ou fossa ligada à rede",60 a 64 anos,Branca,1250
+2022,2913606,Fossa rudimentar ou buraco,100 anos ou mais,Branca,
+2022,2913606,Outra forma,15 a 19 anos,Branca,16
+2022,2913606,Vala,35 a 39 anos,Branca,36
+2022,2913606,Não tinham banheiro nem sanitário,10 a 14 anos,Branca,11
+2022,2913606,Outra forma,5 a 9 anos,Branca,31
+2022,2913606,Não tinham banheiro nem sanitário,15 a 19 anos,Branca,12
+2022,2913606,Vala,55 a 59 anos,Amarela,
+2022,2913606,Fossa séptica ou fossa filtro não ligada à rede,55 a 59 anos,Amarela,6
+2022,2913606,Não tinham banheiro nem sanitário,50 a 54 anos,Amarela,
+2022,2913606,Não tinham banheiro nem sanitário,65 a 69 anos,Amarela,
+2022,2913606,Fossa rudimentar ou buraco,100 anos ou mais,Amarela,
+2022,2913606,Outra forma,25 a 29 anos,Amarela,1
+2022,2913606,Outra forma,90 a 94 anos,Indígena,1
+2022,2913606,Vala,85 a 89 anos,Indígena,3
+2022,2913606,Fossa séptica ou fossa filtro não ligada à rede,55 a 59 anos,Indígena,88
+2022,2913606,Não tinham banheiro nem sanitário,5 a 9 anos,Indígena,40
+2022,2913606,Fossa séptica ou fossa filtro não ligada à rede,80 a 84 anos,Indígena,11
+2022,2913606,Rede geral ou pluvial,70 a 74 anos,Indígena,66
+2022,2913606,Fossa rudimentar ou buraco,35 a 39 anos,Indígena,254
+2022,2913606,Não tinham banheiro nem sanitário,10 a 14 anos,Indígena,36
+2022,2913606,Fossa rudimentar ou buraco,15 a 19 anos,Indígena,267
+2022,2913606,"Rede geral, rede pluvial ou fossa ligada à rede",55 a 59 anos,Indígena,119
+2022,2913606,Não tinham banheiro nem sanitário,50 a 54 anos,Indígena,17
+2022,2913606,Fossa séptica ou fossa filtro não ligada à rede,0 a 4 anos,Indígena,75
+2022,2913606,Rede geral ou pluvial,40 a 44 anos,Indígena,164
+2022,2913606,Outra forma,65 a 69 anos,Indígena,6
+2022,2913606,Fossa séptica ou fossa filtro ligada à rede,55 a 59 anos,Indígena,3
+2022,2913606,"Rede geral, rede pluvial ou fossa ligada à rede",35 a 39 anos,Indígena,192
+2022,2913606,"Rio, lago, córrego ou mar",25 a 29 anos,Indígena,12
+2022,2913606,Outra forma,30 a 34 anos,Parda,55
+2022,2913606,Rede geral ou pluvial,100 anos ou mais,Parda,15
+2022,2913606,Fossa rudimentar ou buraco,65 a 69 anos,Parda,483
+2022,2913606,"Rio, lago, córrego ou mar",70 a 74 anos,Parda,143
+2022,2913606,Fossa séptica ou fossa filtro ligada à rede,25 a 29 anos,Parda,99
+2022,2913606,Não tinham banheiro nem sanitário,5 a 9 anos,Parda,31
+2022,2913606,Rede geral ou pluvial,85 a 89 anos,Parda,429
+2022,2913606,"Rede geral, rede pluvial ou fossa ligada à rede",5 a 9 anos,Parda,4542
+2022,2913606,"Rede geral, rede pluvial ou fossa ligada à rede",100 anos ou mais,Parda,15
+2022,2913606,Rede geral ou pluvial,80 a 84 anos,Parda,750
+2022,2913606,Rede geral ou pluvial,90 a 94 anos,Parda,181
+2022,2913606,"Rio, lago, córrego ou mar",75 a 79 anos,Parda,72
+2022,2913606,"Rede geral, rede pluvial ou fossa ligada à rede",80 a 84 anos,Parda,765
+2022,2913606,Fossa rudimentar ou buraco,30 a 34 anos,Parda,783
+2022,2913606,Rede geral ou pluvial,65 a 69 anos,Preta,973
+2022,2913606,"Rio, lago, córrego ou mar",25 a 29 anos,Preta,165
+2022,2913606,Fossa séptica ou fossa filtro não ligada à rede,60 a 64 anos,Preta,238
+2022,2913606,"Rio, lago, córrego ou mar",85 a 89 anos,Preta,17
+2022,2913606,Fossa séptica ou fossa filtro não ligada à rede,45 a 49 anos,Preta,339
+2022,2913606,Fossa séptica ou fossa filtro não ligada à rede,85 a 89 anos,Preta,28
+2022,2913606,Fossa rudimentar ou buraco,25 a 29 anos,Preta,344
+2022,2913606,Fossa rudimentar ou buraco,50 a 54 anos,Preta,323
+2022,2913606,Fossa séptica ou fossa filtro ligada à rede,5 a 9 anos,Branca,41
+2022,2913606,"Rede geral, rede pluvial ou fossa ligada à rede",80 a 84 anos,Branca,415
+2022,2913606,Outra forma,0 a 4 anos,Branca,31
+2022,2913606,"Rio, lago, córrego ou mar",0 a 4 anos,Branca,99
+2022,2913606,Fossa séptica ou fossa filtro ligada à rede,60 a 64 anos,Branca,42
+2022,2913606,"Rio, lago, córrego ou mar",85 a 89 anos,Branca,5
+2022,2913606,"Rede geral, rede pluvial ou fossa ligada à rede",50 a 54 anos,Branca,1355
+2022,2913606,Fossa rudimentar ou buraco,75 a 79 anos,Branca,55
+2022,2913606,Não tinham banheiro nem sanitário,65 a 69 anos,Branca,6
+2022,2913606,Vala,90 a 94 anos,Branca,1
+2022,2913606,Vala,100 anos ou mais,Branca,1
+2022,2913606,Rede geral ou pluvial,80 a 84 anos,Amarela,5
+2022,2913606,Outra forma,65 a 69 anos,Amarela,
+2022,2913606,Rede geral ou pluvial,70 a 74 anos,Amarela,3
+2022,2913606,Fossa séptica ou fossa filtro não ligada à rede,5 a 9 anos,Amarela,1
+2022,2913606,Não tinham banheiro nem sanitário,45 a 49 anos,Amarela,
+2022,2913606,Vala,90 a 94 anos,Amarela,
+2022,2913606,Rede geral ou pluvial,55 a 59 anos,Amarela,13
+2022,2913606,Não tinham banheiro nem sanitário,35 a 39 anos,Amarela,1
+2022,2913606,Fossa rudimentar ou buraco,35 a 39 anos,Amarela,2
+2022,2913606,Fossa séptica ou fossa filtro ligada à rede,30 a 34 anos,Amarela,
+2022,2913606,Outra forma,80 a 84 anos,Amarela,
+2022,2913606,Fossa séptica ou fossa filtro não ligada à rede,50 a 54 anos,Amarela,4
+2022,2913606,Fossa séptica ou fossa filtro não ligada à rede,25 a 29 anos,Amarela,2
+2022,2913606,Fossa séptica ou fossa filtro não ligada à rede,15 a 19 anos,Indígena,104
+2022,2913606,Não tinham banheiro nem sanitário,85 a 89 anos,Indígena,3
+2022,2913606,Fossa séptica ou fossa filtro não ligada à rede,5 a 9 anos,Indígena,108
+2022,2913606,Outra forma,95 a 99 anos,Indígena,
+2022,2913606,Não tinham banheiro nem sanitário,45 a 49 anos,Indígena,10
+2022,2913606,Vala,10 a 14 anos,Indígena,17
+2022,2913606,Fossa séptica ou fossa filtro não ligada à rede,35 a 39 anos,Indígena,99
+2022,2913606,"Rede geral, rede pluvial ou fossa ligada à rede",90 a 94 anos,Indígena,7
+2022,2913606,Fossa séptica ou fossa filtro não ligada à rede,95 a 99 anos,Indígena,1
+2022,2913606,Rede geral ou pluvial,85 a 89 anos,Indígena,12
+2022,2913606,Fossa rudimentar ou buraco,20 a 24 anos,Indígena,283
+2022,2913606,"Rede geral, rede pluvial ou fossa ligada à rede",65 a 69 anos,Indígena,73
+2022,2913606,Vala,80 a 84 anos,Indígena,1
+2022,2913606,"Rede geral, rede pluvial ou fossa ligada à rede",95 a 99 anos,Indígena,3
+2022,2913606,Outra forma,35 a 39 anos,Indígena,14
+2022,2913606,"Rio, lago, córrego ou mar",30 a 34 anos,Indígena,6
+2022,2913606,Fossa séptica ou fossa filtro não ligada à rede,100 anos ou mais,Parda,3
+2022,2913606,Fossa séptica ou fossa filtro ligada à rede,30 a 34 anos,Parda,123
+2022,2913606,Vala,45 a 49 anos,Parda,190
+2022,2913606,Rede geral ou pluvial,40 a 44 anos,Parda,5301
+2022,2913606,Fossa séptica ou fossa filtro ligada à rede,75 a 79 anos,Parda,37
+2022,2913606,Não tinham banheiro nem sanitário,15 a 19 anos,Parda,30
+2022,2913606,Vala,100 anos ou mais,Parda,1
+2022,2913606,"Rio, lago, córrego ou mar",45 a 49 anos,Preta,169
+2022,2913606,Vala,95 a 99 anos,Preta,1
+2022,2913606,Vala,45 a 49 anos,Preta,108
+2022,2913606,Vala,0 a 4 anos,Preta,68
+2022,2913606,Outra forma,75 a 79 anos,Preta,3
+2022,2913606,Fossa rudimentar ou buraco,20 a 24 anos,Preta,372
+2022,2913606,Vala,40 a 44 anos,Preta,143
+2022,2913606,"Rio, lago, córrego ou mar",60 a 64 anos,Preta,104
+2022,2913606,"Rede geral, rede pluvial ou fossa ligada à rede",45 a 49 anos,Preta,1957
+2022,2913606,Fossa rudimentar ou buraco,10 a 14 anos,Preta,304
+2022,2913606,Outra forma,30 a 34 anos,Preta,38
+2022,2913606,Fossa séptica ou fossa filtro não ligada à rede,10 a 14 anos,Preta,247
+2022,2913606,"Rede geral, rede pluvial ou fossa ligada à rede",20 a 24 anos,Preta,2298
+2022,2913606,Outra forma,40 a 44 anos,Branca,22
+2022,2913606,"Rio, lago, córrego ou mar",80 a 84 anos,Branca,9
+2022,2913606,Fossa rudimentar ou buraco,15 a 19 anos,Branca,186
+2022,2913606,Vala,50 a 54 anos,Branca,30
+2022,2913606,Rede geral ou pluvial,5 a 9 anos,Branca,1267
+2022,2913606,Não tinham banheiro nem sanitário,0 a 4 anos,Branca,8
+2022,2913606,Fossa rudimentar ou buraco,0 a 4 anos,Branca,212
+2022,2913606,Fossa séptica ou fossa filtro ligada à rede,35 a 39 anos,Branca,61
+2022,2913606,Outra forma,10 a 14 anos,Branca,29
+2022,2913606,Fossa séptica ou fossa filtro não ligada à rede,30 a 34 anos,Branca,247
+2022,2913606,Fossa séptica ou fossa filtro não ligada à rede,70 a 74 anos,Branca,216
+2022,2913606,"Rede geral, rede pluvial ou fossa ligada à rede",85 a 89 anos,Branca,239
+2022,2913606,Não tinham banheiro nem sanitário,100 anos ou mais,Branca,
+2022,2913606,Fossa rudimentar ou buraco,45 a 49 anos,Branca,190
+2022,2913606,"Rede geral, rede pluvial ou fossa ligada à rede",10 a 14 anos,Branca,1307
+2022,2913606,Rede geral ou pluvial,65 a 69 anos,Branca,893
+2022,2913606,Fossa séptica ou fossa filtro não ligada à rede,90 a 94 anos,Branca,21
+2022,2913606,Fossa séptica ou fossa filtro não ligada à rede,85 a 89 anos,Branca,40
+2022,2913606,Vala,60 a 64 anos,Branca,17
+2022,2913606,Fossa séptica ou fossa filtro não ligada à rede,25 a 29 anos,Branca,268
+2022,2913606,Rede geral ou pluvial,10 a 14 anos,Amarela,15
+2022,2913606,Fossa séptica ou fossa filtro ligada à rede,85 a 89 anos,Amarela,
+2022,2913606,Outra forma,75 a 79 anos,Amarela,
+2022,2913606,Rede geral ou pluvial,40 a 44 anos,Amarela,17
+2022,2913606,"Rede geral, rede pluvial ou fossa ligada à rede",95 a 99 anos,Amarela,
+2022,2913606,Fossa séptica ou fossa filtro não ligada à rede,30 a 34 anos,Amarela,1
+2022,2913606,Fossa séptica ou fossa filtro ligada à rede,10 a 14 anos,Amarela,
+2022,2913606,Não tinham banheiro nem sanitário,100 anos ou mais,Amarela,
+2022,2913606,Outra forma,35 a 39 anos,Amarela,
+2022,2913606,Vala,60 a 64 anos,Amarela,
+2022,2913606,Não tinham banheiro nem sanitário,10 a 14 anos,Amarela,
+2022,2913606,Vala,65 a 69 anos,Amarela,
+2022,2913606,"Rede geral, rede pluvial ou fossa ligada à rede",35 a 39 anos,Amarela,16
+2022,2913606,Rede geral ou pluvial,75 a 79 anos,Amarela,4
+2022,2913606,Fossa rudimentar ou buraco,60 a 64 anos,Amarela,
+2022,2913606,Rede geral ou pluvial,65 a 69 anos,Amarela,7
+2022,2913606,Fossa séptica ou fossa filtro ligada à rede,15 a 19 anos,Amarela,
+2022,2913606,Não tinham banheiro nem sanitário,20 a 24 anos,Amarela,
+2022,2913606,Fossa séptica ou fossa filtro ligada à rede,100 anos ou mais,Amarela,
+2022,2913606,Vala,35 a 39 anos,Amarela,
+2022,2913606,"Rio, lago, córrego ou mar",15 a 19 anos,Amarela,
+2022,2913606,Fossa rudimentar ou buraco,0 a 4 anos,Amarela,
+2022,2913606,Fossa séptica ou fossa filtro ligada à rede,90 a 94 anos,Amarela,
+2022,2913606,Não tinham banheiro nem sanitário,40 a 44 anos,Amarela,1
+2022,2913606,Outra forma,25 a 29 anos,Indígena,31
+2022,2913606,"Rio, lago, córrego ou mar",20 a 24 anos,Indígena,6
+2022,2913606,Fossa rudimentar ou buraco,90 a 94 anos,Indígena,5
+2022,2913606,Não tinham banheiro nem sanitário,25 a 29 anos,Indígena,27
+2022,2913606,Fossa rudimentar ou buraco,5 a 9 anos,Indígena,340
+2022,2913606,Rede geral ou pluvial,65 a 69 anos,Indígena,68
+2022,2913606,Fossa séptica ou fossa filtro não ligada à rede,40 a 44 anos,Indígena,92
+2022,2913606,Não tinham banheiro nem sanitário,100 anos ou mais,Indígena,
+2022,2913606,"Rede geral, rede pluvial ou fossa ligada à rede",60 a 64 anos,Indígena,122
+2022,2913606,Vala,35 a 39 anos,Indígena,10
+2022,2913606,"Rede geral, rede pluvial ou fossa ligada à rede",15 a 19 anos,Indígena,155
+2022,2913606,"Rio, lago, córrego ou mar",35 a 39 anos,Parda,378
+2022,2913606,"Rede geral, rede pluvial ou fossa ligada à rede",50 a 54 anos,Parda,4297
+2022,2913606,Não tinham banheiro nem sanitário,35 a 39 anos,Parda,34
+2022,2913606,Outra forma,25 a 29 anos,Parda,65
+2022,2913606,Outra forma,80 a 84 anos,Parda,8
+2022,2913606,"Rede geral, rede pluvial ou fossa ligada à rede",75 a 79 anos,Parda,1065
+2022,2913606,Rede geral ou pluvial,60 a 64 anos,Parda,3497
+2022,2913606,Fossa séptica ou fossa filtro não ligada à rede,15 a 19 anos,Parda,851
+2022,2913606,Vala,5 a 9 anos,Parda,254
+2022,2913606,Rede geral ou pluvial,50 a 54 anos,Parda,4191
+2022,2913606,Fossa rudimentar ou buraco,15 a 19 anos,Parda,948
+2022,2913606,Não tinham banheiro nem sanitário,90 a 94 anos,Parda,3
+2022,2913606,"Rede geral, rede pluvial ou fossa ligada à rede",35 a 39 anos,Parda,5289
+2022,2913606,Fossa séptica ou fossa filtro não ligada à rede,90 a 94 anos,Parda,22
+2022,2913606,Fossa séptica ou fossa filtro ligada à rede,90 a 94 anos,Parda,8
+2022,2913606,Outra forma,60 a 64 anos,Parda,63
+2022,2913606,Outra forma,65 a 69 anos,Preta,7
+2022,2913606,Fossa séptica ou fossa filtro ligada à rede,80 a 84 anos,Preta,9
+2022,2913606,Não tinham banheiro nem sanitário,90 a 94 anos,Preta,
+2022,2913606,Não tinham banheiro nem sanitário,75 a 79 anos,Preta,6
+2022,2913606,Rede geral ou pluvial,75 a 79 anos,Preta,372
+2022,2913606,Fossa séptica ou fossa filtro não ligada à rede,5 a 9 anos,Preta,211
+2022,2913606,Não tinham banheiro nem sanitário,0 a 4 anos,Preta,13
+2022,2913606,"Rede geral, rede pluvial ou fossa ligada à rede",40 a 44 anos,Preta,2485
+2022,2913606,"Rede geral, rede pluvial ou fossa ligada à rede",75 a 79 anos,Preta,384
+2022,2913606,Rede geral ou pluvial,90 a 94 anos,Preta,72
+2022,2913606,Fossa séptica ou fossa filtro ligada à rede,15 a 19 anos,Preta,45
+2022,2913606,"Rede geral, rede pluvial ou fossa ligada à rede",100 anos ou mais,Branca,6
+2022,2913606,Fossa séptica ou fossa filtro ligada à rede,25 a 29 anos,Branca,38
+2022,2913606,Não tinham banheiro nem sanitário,40 a 44 anos,Branca,6
+2022,2913606,Fossa séptica ou fossa filtro não ligada à rede,35 a 39 anos,Branca,330
+2022,2913606,Não tinham banheiro nem sanitário,25 a 29 anos,Branca,3
+2022,2913606,Rede geral ou pluvial,50 a 54 anos,Branca,1298
+2022,2913606,Outra forma,50 a 54 anos,Branca,15
+2022,2913606,"Rede geral, rede pluvial ou fossa ligada à rede",20 a 24 anos,Branca,1462
+2022,2913606,Fossa séptica ou fossa filtro não ligada à rede,5 a 9 anos,Branca,243
+2022,2913606,"Rio, lago, córrego ou mar",5 a 9 anos,Branca,75
+2022,2913606,"Rede geral, rede pluvial ou fossa ligada à rede",55 a 59 anos,Branca,1252
+2022,2913606,Fossa séptica ou fossa filtro ligada à rede,20 a 24 anos,Branca,50
+2022,2913606,Vala,15 a 19 anos,Branca,43
+2022,2913606,"Rio, lago, córrego ou mar",55 a 59 anos,Branca,57
+2022,2913606,Rede geral ou pluvial,35 a 39 anos,Branca,1471
+2022,2913606,Fossa rudimentar ou buraco,95 a 99 anos,Branca,4
+2022,2913606,Vala,75 a 79 anos,Branca,7
+2022,2913606,"Rede geral, rede pluvial ou fossa ligada à rede",40 a 44 anos,Branca,1740
+2022,2913606,Rede geral ou pluvial,20 a 24 anos,Branca,1412
+2022,2913606,Vala,10 a 14 anos,Branca,50
+2022,2913606,Rede geral ou pluvial,100 anos ou mais,Amarela,
+2022,2913606,Rede geral ou pluvial,25 a 29 anos,Amarela,10
+2022,2913606,Fossa séptica ou fossa filtro ligada à rede,0 a 4 anos,Amarela,
+2022,2913606,Rede geral ou pluvial,5 a 9 anos,Amarela,16
+2022,2913606,Fossa rudimentar ou buraco,80 a 84 anos,Amarela,
+2022,2913606,Fossa séptica ou fossa filtro não ligada à rede,65 a 69 anos,Amarela,2
+2022,2913606,"Rede geral, rede pluvial ou fossa ligada à rede",25 a 29 anos,Amarela,12
+2022,2913606,Fossa rudimentar ou buraco,95 a 99 anos,Amarela,
+2022,2913606,Não tinham banheiro nem sanitário,15 a 19 anos,Amarela,1
+2022,2913606,Rede geral ou pluvial,30 a 34 anos,Amarela,12
+2022,2913606,"Rio, lago, córrego ou mar",45 a 49 anos,Amarela,
+2022,2913606,Não tinham banheiro nem sanitário,55 a 59 anos,Amarela,
+2022,2913606,Fossa séptica ou fossa filtro não ligada à rede,85 a 89 anos,Amarela,1
+2022,2913606,Vala,25 a 29 anos,Amarela,
+2022,2913606,"Rede geral, rede pluvial ou fossa ligada à rede",40 a 44 anos,Amarela,18
+2022,2913606,Fossa rudimentar ou buraco,50 a 54 anos,Indígena,155
+2022,2913606,Vala,20 a 24 anos,Indígena,15
+2022,2913606,Fossa séptica ou fossa filtro ligada à rede,20 a 24 anos,Indígena,12
+2022,2913606,"Rede geral, rede pluvial ou fossa ligada à rede",70 a 74 anos,Indígena,70
+2022,2913606,Outra forma,60 a 64 anos,Indígena,17
+2022,2913606,Fossa séptica ou fossa filtro ligada à rede,45 a 49 anos,Indígena,9
+2022,2913606,Fossa rudimentar ou buraco,75 a 79 anos,Indígena,62
+2022,2913606,Outra forma,100 anos ou mais,Indígena,
+2022,2913606,"Rio, lago, córrego ou mar",85 a 89 anos,Indígena,
+2022,2913606,Fossa séptica ou fossa filtro não ligada à rede,45 a 49 anos,Indígena,86
+2022,2913606,Rede geral ou pluvial,5 a 9 anos,Indígena,130

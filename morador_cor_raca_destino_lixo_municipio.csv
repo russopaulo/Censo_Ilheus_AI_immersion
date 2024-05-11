@@ -1,0 +1,736 @@
+ano,id_municipio,tipo_destino_lixo,grupo_idade,cor_raca,moradores
+2022,2913606,Coletado,0 a 4 anos,Preta,1562
+2022,2913606,Coletado,5 a 9 anos,Preta,1983
+2022,2913606,Coletado,20 a 24 anos,Branca,1940
+2022,2913606,Coletado,30 a 34 anos,Indígena,258
+2022,2913606,Coletado,40 a 44 anos,Branca,2347
+2022,2913606,Coletado,45 a 49 anos,Branca,1822
+2022,2913606,Coletado,55 a 59 anos,Amarela,20
+2022,2913606,Coletado,60 a 64 anos,Branca,1688
+2022,2913606,Coletado,70 a 74 anos,Parda,2506
+2022,2913606,Coletado,90 a 94 anos,Parda,250
+2022,2913606,Outro destino,5 a 9 anos,Parda,56
+2022,2913606,Outro destino,10 a 14 anos,Parda,53
+2022,2913606,Outro destino,45 a 49 anos,Amarela,
+2022,2913606,Outro destino,90 a 94 anos,Branca,
+2022,2913606,Queimado na propriedade,0 a 4 anos,Amarela,1
+2022,2913606,Queimado na propriedade,10 a 14 anos,Preta,176
+2022,2913606,Queimado na propriedade,20 a 24 anos,Indígena,254
+2022,2913606,Queimado na propriedade,30 a 34 anos,Branca,51
+2022,2913606,Queimado na propriedade,30 a 34 anos,Parda,403
+2022,2913606,Queimado na propriedade,60 a 64 anos,Parda,449
+2022,2913606,Queimado na propriedade,75 a 79 anos,Branca,26
+2022,2913606,Queimado na propriedade,75 a 79 anos,Parda,146
+2022,2913606,Queimado na propriedade,75 a 79 anos,Amarela,
+2022,2913606,Queimado na propriedade,85 a 89 anos,Parda,26
+2022,2913606,Queimado na propriedade,95 a 99 anos,Preta,3
+2022,2913606,Enterrado na propriedade,10 a 14 anos,Amarela,
+2022,2913606,Enterrado na propriedade,20 a 24 anos,Branca,
+2022,2913606,Enterrado na propriedade,25 a 29 anos,Parda,4
+2022,2913606,Enterrado na propriedade,30 a 34 anos,Parda,7
+2022,2913606,Enterrado na propriedade,35 a 39 anos,Branca,
+2022,2913606,Enterrado na propriedade,55 a 59 anos,Branca,5
+2022,2913606,Enterrado na propriedade,60 a 64 anos,Preta,7
+2022,2913606,Enterrado na propriedade,65 a 69 anos,Amarela,
+2022,2913606,Enterrado na propriedade,80 a 84 anos,Amarela,
+2022,2913606,Enterrado na propriedade,85 a 89 anos,Indígena,
+2022,2913606,Enterrado na propriedade,90 a 94 anos,Preta,
+2022,2913606,Enterrado na propriedade,100 anos ou mais,Branca,
+2022,2913606,Depositado em caçamba de serviço de limpeza,10 a 14 anos,Preta,536
+2022,2913606,Depositado em caçamba de serviço de limpeza,10 a 14 anos,Amarela,
+2022,2913606,Depositado em caçamba de serviço de limpeza,35 a 39 anos,Parda,1541
+2022,2913606,Depositado em caçamba de serviço de limpeza,35 a 39 anos,Branca,370
+2022,2913606,Depositado em caçamba de serviço de limpeza,45 a 49 anos,Amarela,1
+2022,2913606,Depositado em caçamba de serviço de limpeza,55 a 59 anos,Preta,476
+2022,2913606,Depositado em caçamba de serviço de limpeza,65 a 69 anos,Indígena,37
+2022,2913606,Depositado em caçamba de serviço de limpeza,80 a 84 anos,Branca,67
+2022,2913606,Depositado em caçamba de serviço de limpeza,95 a 99 anos,Parda,12
+2022,2913606,Depositado em caçamba de serviço de limpeza,95 a 99 anos,Indígena,
+2022,2913606,Depositado em caçamba de serviço de limpeza,95 a 99 anos,Branca,7
+2022,2913606,Depositado em caçamba de serviço de limpeza,100 anos ou mais,Preta,3
+2022,2913606,Depositado em caçamba de serviço de limpeza,100 anos ou mais,Indígena,
+2022,2913606,Coletado no domicílio por serviço de limpeza,0 a 4 anos,Parda,4107
+2022,2913606,Coletado no domicílio por serviço de limpeza,20 a 24 anos,Indígena,223
+2022,2913606,Coletado no domicílio por serviço de limpeza,45 a 49 anos,Preta,1994
+2022,2913606,Coletado no domicílio por serviço de limpeza,45 a 49 anos,Parda,4896
+2022,2913606,Coletado no domicílio por serviço de limpeza,70 a 74 anos,Indígena,89
+2022,2913606,Coletado no domicílio por serviço de limpeza,70 a 74 anos,Branca,914
+2022,2913606,Coletado no domicílio por serviço de limpeza,95 a 99 anos,Branca,33
+2022,2913606,"Jogado em terreno baldio, encosta ou área pública",0 a 4 anos,Indígena,16
+2022,2913606,"Jogado em terreno baldio, encosta ou área pública",0 a 4 anos,Parda,104
+2022,2913606,"Jogado em terreno baldio, encosta ou área pública",5 a 9 anos,Branca,23
+2022,2913606,"Jogado em terreno baldio, encosta ou área pública",30 a 34 anos,Parda,75
+2022,2913606,"Jogado em terreno baldio, encosta ou área pública",30 a 34 anos,Branca,16
+2022,2913606,"Jogado em terreno baldio, encosta ou área pública",40 a 44 anos,Indígena,15
+2022,2913606,"Jogado em terreno baldio, encosta ou área pública",45 a 49 anos,Parda,91
+2022,2913606,"Jogado em terreno baldio, encosta ou área pública",55 a 59 anos,Branca,18
+2022,2913606,"Jogado em terreno baldio, encosta ou área pública",60 a 64 anos,Indígena,13
+2022,2913606,"Jogado em terreno baldio, encosta ou área pública",80 a 84 anos,Indígena,
+2022,2913606,"Jogado em terreno baldio, encosta ou área pública",85 a 89 anos,Branca,3
+2022,2913606,"Jogado em terreno baldio, encosta ou área pública",100 anos ou mais,Indígena,
+2022,2913606,Enterrado na propriedade,15 a 19 anos,Parda,10
+2022,2913606,Enterrado na propriedade,50 a 54 anos,Parda,9
+2022,2913606,"Jogado em terreno baldio, encosta ou área pública",5 a 9 anos,Parda,101
+2022,2913606,Enterrado na propriedade,95 a 99 anos,Parda,
+2022,2913606,Enterrado na propriedade,20 a 24 anos,Parda,8
+2022,2913606,Coletado no domicílio por serviço de limpeza,50 a 54 anos,Parda,4602
+2022,2913606,Queimado na propriedade,45 a 49 anos,Parda,459
+2022,2913606,Coletado,100 anos ou mais,Parda,22
+2022,2913606,"Jogado em terreno baldio, encosta ou área pública",25 a 29 anos,Parda,83
+2022,2913606,Queimado na propriedade,55 a 59 anos,Parda,472
+2022,2913606,"Jogado em terreno baldio, encosta ou área pública",40 a 44 anos,Parda,99
+2022,2913606,Enterrado na propriedade,75 a 79 anos,Parda,4
+2022,2913606,Queimado na propriedade,35 a 39 anos,Parda,498
+2022,2913606,Coletado no domicílio por serviço de limpeza,40 a 44 anos,Parda,5836
+2022,2913606,Depositado em caçamba de serviço de limpeza,70 a 74 anos,Parda,474
+2022,2913606,Coletado,65 a 69 anos,Preta,1380
+2022,2913606,"Jogado em terreno baldio, encosta ou área pública",100 anos ou mais,Preta,
+2022,2913606,Queimado na propriedade,25 a 29 anos,Preta,189
+2022,2913606,Depositado em caçamba de serviço de limpeza,25 a 29 anos,Preta,717
+2022,2913606,Coletado,55 a 59 anos,Preta,2054
+2022,2913606,Outro destino,70 a 74 anos,Preta,8
+2022,2913606,Enterrado na propriedade,5 a 9 anos,Preta,2
+2022,2913606,Depositado em caçamba de serviço de limpeza,20 a 24 anos,Preta,807
+2022,2913606,Coletado,10 a 14 anos,Preta,2179
+2022,2913606,Queimado na propriedade,80 a 84 anos,Preta,27
+2022,2913606,Outro destino,25 a 29 anos,Preta,22
+2022,2913606,Coletado no domicílio por serviço de limpeza,80 a 84 anos,Branca,476
+2022,2913606,Enterrado na propriedade,80 a 84 anos,Branca,
+2022,2913606,Outro destino,10 a 14 anos,Branca,23
+2022,2913606,Enterrado na propriedade,90 a 94 anos,Branca,1
+2022,2913606,Coletado,80 a 84 anos,Branca,543
+2022,2913606,Depositado em caçamba de serviço de limpeza,5 a 9 anos,Branca,367
+2022,2913606,Outro destino,20 a 24 anos,Branca,13
+2022,2913606,Outro destino,30 a 34 anos,Branca,15
+2022,2913606,Enterrado na propriedade,40 a 44 anos,Branca,8
+2022,2913606,"Jogado em terreno baldio, encosta ou área pública",60 a 64 anos,Branca,13
+2022,2913606,Queimado na propriedade,65 a 69 anos,Branca,50
+2022,2913606,Depositado em caçamba de serviço de limpeza,15 a 19 anos,Branca,359
+2022,2913606,Depositado em caçamba de serviço de limpeza,40 a 44 anos,Amarela,3
+2022,2913606,Queimado na propriedade,15 a 19 anos,Amarela,1
+2022,2913606,Coletado no domicílio por serviço de limpeza,55 a 59 anos,Amarela,19
+2022,2913606,Outro destino,85 a 89 anos,Amarela,
+2022,2913606,Depositado em caçamba de serviço de limpeza,55 a 59 anos,Amarela,1
+2022,2913606,Depositado em caçamba de serviço de limpeza,5 a 9 anos,Amarela,2
+2022,2913606,Depositado em caçamba de serviço de limpeza,30 a 34 anos,Amarela,2
+2022,2913606,"Jogado em terreno baldio, encosta ou área pública",30 a 34 anos,Amarela,
+2022,2913606,Outro destino,40 a 44 anos,Amarela,
+2022,2913606,"Jogado em terreno baldio, encosta ou área pública",55 a 59 anos,Amarela,
+2022,2913606,Coletado,85 a 89 anos,Amarela,1
+2022,2913606,Coletado,65 a 69 anos,Amarela,9
+2022,2913606,"Jogado em terreno baldio, encosta ou área pública",10 a 14 anos,Indígena,19
+2022,2913606,Queimado na propriedade,50 a 54 anos,Indígena,140
+2022,2913606,Queimado na propriedade,95 a 99 anos,Indígena,2
+2022,2913606,Coletado no domicílio por serviço de limpeza,5 a 9 anos,Indígena,213
+2022,2913606,Coletado,15 a 19 anos,Indígena,305
+2022,2913606,Outro destino,35 a 39 anos,Indígena,4
+2022,2913606,Outro destino,15 a 19 anos,Indígena,1
+2022,2913606,Depositado em caçamba de serviço de limpeza,70 a 74 anos,Indígena,21
+2022,2913606,Coletado no domicílio por serviço de limpeza,0 a 4 anos,Indígena,178
+2022,2913606,"Jogado em terreno baldio, encosta ou área pública",30 a 34 anos,Indígena,20
+2022,2913606,Depositado em caçamba de serviço de limpeza,40 a 44 anos,Indígena,94
+2022,2913606,Outro destino,85 a 89 anos,Indígena,
+2022,2913606,Coletado no domicílio por serviço de limpeza,50 a 54 anos,Indígena,178
+2022,2913606,Queimado na propriedade,0 a 4 anos,Indígena,331
+2022,2913606,Depositado em caçamba de serviço de limpeza,25 a 29 anos,Indígena,77
+2022,2913606,Coletado,15 a 19 anos,Preta,2754
+2022,2913606,Coletado,15 a 19 anos,Branca,1972
+2022,2913606,Coletado,15 a 19 anos,Amarela,20
+2022,2913606,Coletado,30 a 34 anos,Branca,1842
+2022,2913606,Coletado,45 a 49 anos,Parda,6227
+2022,2913606,Coletado,55 a 59 anos,Parda,5282
+2022,2913606,Coletado,65 a 69 anos,Parda,3635
+2022,2913606,Coletado,70 a 74 anos,Branca,1065
+2022,2913606,Coletado,75 a 79 anos,Branca,706
+2022,2913606,Coletado,80 a 84 anos,Preta,407
+2022,2913606,Outro destino,0 a 4 anos,Amarela,
+2022,2913606,Outro destino,30 a 34 anos,Parda,50
+2022,2913606,Outro destino,40 a 44 anos,Parda,71
+2022,2913606,Outro destino,45 a 49 anos,Branca,20
+2022,2913606,Outro destino,75 a 79 anos,Amarela,
+2022,2913606,Queimado na propriedade,30 a 34 anos,Amarela,
+2022,2913606,Queimado na propriedade,35 a 39 anos,Amarela,4
+2022,2913606,Queimado na propriedade,50 a 54 anos,Parda,460
+2022,2913606,Queimado na propriedade,55 a 59 anos,Branca,72
+2022,2913606,Queimado na propriedade,55 a 59 anos,Indígena,154
+2022,2913606,Queimado na propriedade,90 a 94 anos,Preta,3
+2022,2913606,Queimado na propriedade,100 anos ou mais,Preta,2
+2022,2913606,Enterrado na propriedade,0 a 4 anos,Parda,12
+2022,2913606,Enterrado na propriedade,15 a 19 anos,Indígena,3
+2022,2913606,Enterrado na propriedade,40 a 44 anos,Preta,5
+2022,2913606,Enterrado na propriedade,40 a 44 anos,Indígena,2
+2022,2913606,Enterrado na propriedade,45 a 49 anos,Amarela,
+2022,2913606,Enterrado na propriedade,55 a 59 anos,Preta,4
+2022,2913606,Enterrado na propriedade,60 a 64 anos,Branca,
+2022,2913606,Enterrado na propriedade,65 a 69 anos,Preta,6
+2022,2913606,Enterrado na propriedade,70 a 74 anos,Parda,8
+2022,2913606,Enterrado na propriedade,70 a 74 anos,Preta,1
+2022,2913606,Enterrado na propriedade,75 a 79 anos,Branca,3
+2022,2913606,Enterrado na propriedade,75 a 79 anos,Indígena,1
+2022,2913606,Enterrado na propriedade,80 a 84 anos,Parda,1
+2022,2913606,Enterrado na propriedade,95 a 99 anos,Amarela,
+2022,2913606,Depositado em caçamba de serviço de limpeza,0 a 4 anos,Parda,1325
+2022,2913606,Depositado em caçamba de serviço de limpeza,0 a 4 anos,Preta,424
+2022,2913606,Depositado em caçamba de serviço de limpeza,5 a 9 anos,Indígena,103
+2022,2913606,Depositado em caçamba de serviço de limpeza,50 a 54 anos,Indígena,65
+2022,2913606,Depositado em caçamba de serviço de limpeza,60 a 64 anos,Preta,382
+2022,2913606,Depositado em caçamba de serviço de limpeza,60 a 64 anos,Branca,229
+2022,2913606,Depositado em caçamba de serviço de limpeza,70 a 74 anos,Preta,184
+2022,2913606,Depositado em caçamba de serviço de limpeza,85 a 89 anos,Preta,53
+2022,2913606,Depositado em caçamba de serviço de limpeza,85 a 89 anos,Parda,89
+2022,2913606,Depositado em caçamba de serviço de limpeza,100 anos ou mais,Branca,4
+2022,2913606,Coletado no domicílio por serviço de limpeza,10 a 14 anos,Branca,1475
+2022,2913606,Coletado no domicílio por serviço de limpeza,55 a 59 anos,Branca,1443
+2022,2913606,Coletado no domicílio por serviço de limpeza,60 a 64 anos,Branca,1459
+2022,2913606,Coletado no domicílio por serviço de limpeza,65 a 69 anos,Parda,2950
+2022,2913606,Coletado no domicílio por serviço de limpeza,85 a 89 anos,Indígena,18
+2022,2913606,Coletado no domicílio por serviço de limpeza,90 a 94 anos,Parda,208
+2022,2913606,Coletado no domicílio por serviço de limpeza,100 anos ou mais,Preta,6
+2022,2913606,Coletado no domicílio por serviço de limpeza,100 anos ou mais,Parda,22
+2022,2913606,"Jogado em terreno baldio, encosta ou área pública",10 a 14 anos,Branca,18
+2022,2913606,"Jogado em terreno baldio, encosta ou área pública",20 a 24 anos,Parda,86
+2022,2913606,"Jogado em terreno baldio, encosta ou área pública",35 a 39 anos,Parda,80
+2022,2913606,"Jogado em terreno baldio, encosta ou área pública",40 a 44 anos,Branca,17
+2022,2913606,"Jogado em terreno baldio, encosta ou área pública",45 a 49 anos,Preta,49
+2022,2913606,"Jogado em terreno baldio, encosta ou área pública",90 a 94 anos,Preta,2
+2022,2913606,Coletado,0 a 4 anos,Parda,5432
+2022,2913606,Coletado,5 a 9 anos,Branca,1800
+2022,2913606,Coletado,10 a 14 anos,Amarela,16
+2022,2913606,Coletado,10 a 14 anos,Branca,1808
+2022,2913606,Coletado,30 a 34 anos,Preta,2965
+2022,2913606,Coletado,35 a 39 anos,Amarela,19
+2022,2913606,Coletado,50 a 54 anos,Parda,5879
+2022,2913606,Coletado,75 a 79 anos,Parda,1446
+2022,2913606,Coletado,85 a 89 anos,Preta,214
+2022,2913606,Coletado,90 a 94 anos,Amarela,1
+2022,2913606,Outro destino,5 a 9 anos,Indígena,5
+2022,2913606,Outro destino,15 a 19 anos,Amarela,
+2022,2913606,Outro destino,25 a 29 anos,Amarela,1
+2022,2913606,Outro destino,35 a 39 anos,Amarela,
+2022,2913606,Outro destino,65 a 69 anos,Parda,32
+2022,2913606,Outro destino,80 a 84 anos,Amarela,
+2022,2913606,Outro destino,90 a 94 anos,Indígena,
+2022,2913606,Outro destino,90 a 94 anos,Parda,3
+2022,2913606,Queimado na propriedade,5 a 9 anos,Indígena,334
+2022,2913606,Queimado na propriedade,15 a 19 anos,Parda,545
+2022,2913606,Queimado na propriedade,25 a 29 anos,Amarela,2
+2022,2913606,Queimado na propriedade,35 a 39 anos,Indígena,214
+2022,2913606,Queimado na propriedade,50 a 54 anos,Branca,76
+2022,2913606,Queimado na propriedade,55 a 59 anos,Amarela,2
+2022,2913606,Queimado na propriedade,80 a 84 anos,Branca,22
+2022,2913606,Enterrado na propriedade,0 a 4 anos,Indígena,6
+2022,2913606,Enterrado na propriedade,10 a 14 anos,Parda,6
+2022,2913606,Enterrado na propriedade,15 a 19 anos,Preta,2
+2022,2913606,Enterrado na propriedade,20 a 24 anos,Indígena,1
+2022,2913606,Enterrado na propriedade,30 a 34 anos,Branca,2
+2022,2913606,Enterrado na propriedade,60 a 64 anos,Parda,11
+2022,2913606,Enterrado na propriedade,65 a 69 anos,Indígena,
+2022,2913606,Enterrado na propriedade,70 a 74 anos,Amarela,
+2022,2913606,Enterrado na propriedade,85 a 89 anos,Branca,
+2022,2913606,Enterrado na propriedade,95 a 99 anos,Indígena,
+2022,2913606,Enterrado na propriedade,100 anos ou mais,Indígena,
+2022,2913606,Depositado em caçamba de serviço de limpeza,15 a 19 anos,Parda,1551
+2022,2913606,Depositado em caçamba de serviço de limpeza,20 a 24 anos,Amarela,4
+2022,2913606,Depositado em caçamba de serviço de limpeza,20 a 24 anos,Parda,1405
+2022,2913606,Depositado em caçamba de serviço de limpeza,20 a 24 anos,Indígena,93
+2022,2913606,Depositado em caçamba de serviço de limpeza,30 a 34 anos,Preta,722
+2022,2913606,Depositado em caçamba de serviço de limpeza,30 a 34 anos,Parda,1353
+2022,2913606,Depositado em caçamba de serviço de limpeza,40 a 44 anos,Branca,393
+2022,2913606,Depositado em caçamba de serviço de limpeza,65 a 69 anos,Parda,685
+2022,2913606,Depositado em caçamba de serviço de limpeza,75 a 79 anos,Indígena,18
+2022,2913606,Depositado em caçamba de serviço de limpeza,80 a 84 anos,Amarela,
+2022,2913606,Depositado em caçamba de serviço de limpeza,80 a 84 anos,Preta,70
+2022,2913606,Depositado em caçamba de serviço de limpeza,90 a 94 anos,Parda,42
+2022,2913606,Coletado no domicílio por serviço de limpeza,0 a 4 anos,Amarela,7
+2022,2913606,Coletado no domicílio por serviço de limpeza,5 a 9 anos,Parda,4785
+2022,2913606,Coletado no domicílio por serviço de limpeza,30 a 34 anos,Branca,1547
+2022,2913606,Coletado no domicílio por serviço de limpeza,35 a 39 anos,Amarela,18
+2022,2913606,Coletado no domicílio por serviço de limpeza,35 a 39 anos,Preta,2566
+2022,2913606,Coletado no domicílio por serviço de limpeza,45 a 49 anos,Indígena,232
+2022,2913606,Coletado no domicílio por serviço de limpeza,65 a 69 anos,Indígena,107
+2022,2913606,Coletado no domicílio por serviço de limpeza,85 a 89 anos,Amarela,1
+2022,2913606,Coletado no domicílio por serviço de limpeza,95 a 99 anos,Preta,31
+2022,2913606,"Jogado em terreno baldio, encosta ou área pública",15 a 19 anos,Parda,114
+2022,2913606,"Jogado em terreno baldio, encosta ou área pública",15 a 19 anos,Indígena,27
+2022,2913606,"Jogado em terreno baldio, encosta ou área pública",25 a 29 anos,Amarela,1
+2022,2913606,"Jogado em terreno baldio, encosta ou área pública",60 a 64 anos,Preta,37
+2022,2913606,"Jogado em terreno baldio, encosta ou área pública",65 a 69 anos,Indígena,7
+2022,2913606,"Jogado em terreno baldio, encosta ou área pública",70 a 74 anos,Branca,11
+2022,2913606,"Jogado em terreno baldio, encosta ou área pública",70 a 74 anos,Amarela,
+2022,2913606,"Jogado em terreno baldio, encosta ou área pública",75 a 79 anos,Preta,8
+2022,2913606,"Jogado em terreno baldio, encosta ou área pública",75 a 79 anos,Parda,22
+2022,2913606,"Jogado em terreno baldio, encosta ou área pública",80 a 84 anos,Branca,4
+2022,2913606,"Jogado em terreno baldio, encosta ou área pública",90 a 94 anos,Amarela,
+2022,2913606,Coletado,25 a 29 anos,Parda,6037
+2022,2913606,Coletado,30 a 34 anos,Parda,6108
+2022,2913606,Coletado,30 a 34 anos,Amarela,15
+2022,2913606,Coletado,55 a 59 anos,Branca,1731
+2022,2913606,Coletado,60 a 64 anos,Amarela,4
+2022,2913606,Coletado,60 a 64 anos,Preta,1813
+2022,2913606,Coletado,75 a 79 anos,Preta,522
+2022,2913606,Coletado,75 a 79 anos,Indígena,69
+2022,2913606,Coletado,85 a 89 anos,Branca,299
+2022,2913606,Coletado,95 a 99 anos,Indígena,4
+2022,2913606,Outro destino,5 a 9 anos,Preta,12
+2022,2913606,Outro destino,10 a 14 anos,Preta,17
+2022,2913606,Outro destino,15 a 19 anos,Branca,16
+2022,2913606,Outro destino,20 a 24 anos,Indígena,5
+2022,2913606,Outro destino,30 a 34 anos,Preta,22
+2022,2913606,Outro destino,40 a 44 anos,Indígena,5
+2022,2913606,Outro destino,40 a 44 anos,Branca,21
+2022,2913606,Outro destino,45 a 49 anos,Parda,54
+2022,2913606,Outro destino,75 a 79 anos,Parda,19
+2022,2913606,Outro destino,95 a 99 anos,Branca,1
+2022,2913606,Outro destino,95 a 99 anos,Amarela,
+2022,2913606,Queimado na propriedade,5 a 9 anos,Branca,70
+2022,2913606,Queimado na propriedade,40 a 44 anos,Amarela,3
+2022,2913606,Queimado na propriedade,40 a 44 anos,Parda,581
+2022,2913606,Queimado na propriedade,70 a 74 anos,Amarela,1
+2022,2913606,Queimado na propriedade,80 a 84 anos,Parda,87
+2022,2913606,Queimado na propriedade,95 a 99 anos,Branca,3
+2022,2913606,Enterrado na propriedade,5 a 9 anos,Indígena,4
+2022,2913606,Enterrado na propriedade,30 a 34 anos,Indígena,5
+2022,2913606,Enterrado na propriedade,35 a 39 anos,Preta,4
+2022,2913606,Enterrado na propriedade,45 a 49 anos,Parda,13
+2022,2913606,Enterrado na propriedade,50 a 54 anos,Indígena,2
+2022,2913606,Enterrado na propriedade,70 a 74 anos,Indígena,2
+2022,2913606,Enterrado na propriedade,75 a 79 anos,Amarela,
+2022,2913606,Enterrado na propriedade,80 a 84 anos,Preta,1
+2022,2913606,Depositado em caçamba de serviço de limpeza,10 a 14 anos,Parda,1474
+2022,2913606,Depositado em caçamba de serviço de limpeza,45 a 49 anos,Parda,1331
+2022,2913606,Depositado em caçamba de serviço de limpeza,55 a 59 anos,Parda,1060
+2022,2913606,Depositado em caçamba de serviço de limpeza,75 a 79 anos,Amarela,
+2022,2913606,Depositado em caçamba de serviço de limpeza,75 a 79 anos,Parda,277
+2022,2913606,Depositado em caçamba de serviço de limpeza,95 a 99 anos,Amarela,
+2022,2913606,Coletado no domicílio por serviço de limpeza,30 a 34 anos,Preta,2243
+2022,2913606,Coletado no domicílio por serviço de limpeza,40 a 44 anos,Branca,1954
+2022,2913606,Coletado no domicílio por serviço de limpeza,60 a 64 anos,Parda,3953
+2022,2913606,Coletado no domicílio por serviço de limpeza,90 a 94 anos,Branca,127
+2022,2913606,Coletado no domicílio por serviço de limpeza,95 a 99 anos,Parda,59
+2022,2913606,"Jogado em terreno baldio, encosta ou área pública",5 a 9 anos,Indígena,26
+2022,2913606,"Jogado em terreno baldio, encosta ou área pública",25 a 29 anos,Preta,48
+2022,2913606,"Jogado em terreno baldio, encosta ou área pública",40 a 44 anos,Preta,48
+2022,2913606,"Jogado em terreno baldio, encosta ou área pública",55 a 59 anos,Indígena,14
+2022,2913606,"Jogado em terreno baldio, encosta ou área pública",65 a 69 anos,Amarela,
+2022,2913606,"Jogado em terreno baldio, encosta ou área pública",70 a 74 anos,Indígena,3
+2022,2913606,"Jogado em terreno baldio, encosta ou área pública",70 a 74 anos,Parda,35
+2022,2913606,"Jogado em terreno baldio, encosta ou área pública",90 a 94 anos,Indígena,
+2022,2913606,Queimado na propriedade,5 a 9 anos,Parda,533
+2022,2913606,Coletado,5 a 9 anos,Parda,6305
+2022,2913606,Outro destino,60 a 64 anos,Parda,39
+2022,2913606,Coletado no domicílio por serviço de limpeza,35 a 39 anos,Parda,5717
+2022,2913606,Coletado,35 a 39 anos,Parda,7258
+2022,2913606,Coletado no domicílio por serviço de limpeza,85 a 89 anos,Parda,465
+2022,2913606,Enterrado na propriedade,85 a 89 anos,Parda,1
+2022,2913606,Coletado no domicílio por serviço de limpeza,25 a 29 anos,Parda,4709
+2022,2913606,Outro destino,85 a 89 anos,Parda,10
+2022,2913606,Outro destino,70 a 74 anos,Parda,18
+2022,2913606,Outro destino,100 anos ou mais,Parda,
+2022,2913606,Coletado no domicílio por serviço de limpeza,15 a 19 anos,Preta,2061
+2022,2913606,Outro destino,80 a 84 anos,Preta,6
+2022,2913606,Coletado,100 anos ou mais,Preta,9
+2022,2913606,Outro destino,60 a 64 anos,Preta,18
+2022,2913606,Outro destino,0 a 4 anos,Preta,16
+2022,2913606,Depositado em caçamba de serviço de limpeza,45 a 49 anos,Preta,690
+2022,2913606,Depositado em caçamba de serviço de limpeza,15 a 19 anos,Preta,693
+2022,2913606,Queimado na propriedade,0 a 4 anos,Preta,120
+2022,2913606,Outro destino,40 a 44 anos,Preta,36
+2022,2913606,Coletado,45 a 49 anos,Preta,2684
+2022,2913606,Coletado,50 a 54 anos,Preta,2399
+2022,2913606,Depositado em caçamba de serviço de limpeza,95 a 99 anos,Preta,8
+2022,2913606,Queimado na propriedade,55 a 59 anos,Preta,194
+2022,2913606,Depositado em caçamba de serviço de limpeza,90 a 94 anos,Preta,17
+2022,2913606,"Jogado em terreno baldio, encosta ou área pública",90 a 94 anos,Branca,
+2022,2913606,Coletado no domicílio por serviço de limpeza,20 a 24 anos,Branca,1603
+2022,2913606,Outro destino,65 a 69 anos,Branca,7
+2022,2913606,Coletado no domicílio por serviço de limpeza,75 a 79 anos,Branca,635
+2022,2913606,Queimado na propriedade,90 a 94 anos,Branca,6
+2022,2913606,Depositado em caçamba de serviço de limpeza,45 a 49 anos,Branca,305
+2022,2913606,"Jogado em terreno baldio, encosta ou área pública",75 a 79 anos,Branca,4
+2022,2913606,Outro destino,70 a 74 anos,Branca,5
+2022,2913606,Outro destino,90 a 94 anos,Amarela,
+2022,2913606,Queimado na propriedade,50 a 54 anos,Amarela,1
+2022,2913606,"Jogado em terreno baldio, encosta ou área pública",35 a 39 anos,Amarela,1
+2022,2913606,Queimado na propriedade,90 a 94 anos,Amarela,
+2022,2913606,Coletado no domicílio por serviço de limpeza,50 a 54 anos,Amarela,13
+2022,2913606,Depositado em caçamba de serviço de limpeza,65 a 69 anos,Amarela,
+2022,2913606,Coletado,5 a 9 anos,Amarela,19
+2022,2913606,Outro destino,55 a 59 anos,Amarela,
+2022,2913606,Depositado em caçamba de serviço de limpeza,90 a 94 anos,Amarela,
+2022,2913606,Queimado na propriedade,5 a 9 anos,Amarela,
+2022,2913606,Enterrado na propriedade,45 a 49 anos,Indígena,5
+2022,2913606,Coletado no domicílio por serviço de limpeza,75 a 79 anos,Indígena,51
+2022,2913606,Enterrado na propriedade,25 a 29 anos,Indígena,3
+2022,2913606,Enterrado na propriedade,80 a 84 anos,Indígena,2
+2022,2913606,Outro destino,25 a 29 anos,Indígena,5
+2022,2913606,Outro destino,0 a 4 anos,Indígena,4
+2022,2913606,Outro destino,30 a 34 anos,Indígena,3
+2022,2913606,"Jogado em terreno baldio, encosta ou área pública",85 a 89 anos,Indígena,1
+2022,2913606,Queimado na propriedade,75 a 79 anos,Indígena,60
+2022,2913606,Queimado na propriedade,100 anos ou mais,Indígena,
+2022,2913606,Coletado no domicílio por serviço de limpeza,100 anos ou mais,Indígena,1
+2022,2913606,Coletado,20 a 24 anos,Indígena,316
+2022,2913606,Coletado no domicílio por serviço de limpeza,10 a 14 anos,Indígena,222
+2022,2913606,Queimado na propriedade,30 a 34 anos,Indígena,200
+2022,2913606,Coletado no domicílio por serviço de limpeza,30 a 34 anos,Indígena,188
+2022,2913606,Coletado,0 a 4 anos,Branca,2003
+2022,2913606,Coletado,0 a 4 anos,Indígena,281
+2022,2913606,Coletado,10 a 14 anos,Indígena,335
+2022,2913606,Coletado,20 a 24 anos,Preta,3138
+2022,2913606,Coletado,25 a 29 anos,Amarela,15
+2022,2913606,Coletado,25 a 29 anos,Branca,1835
+2022,2913606,Coletado,40 a 44 anos,Parda,7460
+2022,2913606,Coletado,45 a 49 anos,Indígena,315
+2022,2913606,Coletado,50 a 54 anos,Amarela,19
+2022,2913606,Coletado,55 a 59 anos,Indígena,244
+2022,2913606,Coletado,60 a 64 anos,Parda,4906
+2022,2913606,Coletado,80 a 84 anos,Parda,1015
+2022,2913606,Coletado,80 a 84 anos,Amarela,7
+2022,2913606,Coletado,85 a 89 anos,Parda,554
+2022,2913606,Coletado,95 a 99 anos,Parda,71
+2022,2913606,Coletado,100 anos ou mais,Indígena,1
+2022,2913606,Outro destino,10 a 14 anos,Indígena,5
+2022,2913606,Outro destino,15 a 19 anos,Preta,26
+2022,2913606,Outro destino,20 a 24 anos,Amarela,
+2022,2913606,Outro destino,20 a 24 anos,Preta,28
+2022,2913606,Outro destino,25 a 29 anos,Parda,52
+2022,2913606,Outro destino,45 a 49 anos,Indígena,3
+2022,2913606,Outro destino,50 a 54 anos,Parda,46
+2022,2913606,Outro destino,65 a 69 anos,Indígena,1
+2022,2913606,Outro destino,85 a 89 anos,Preta,3
+2022,2913606,Outro destino,95 a 99 anos,Preta,
+2022,2913606,Queimado na propriedade,0 a 4 anos,Branca,95
+2022,2913606,Queimado na propriedade,15 a 19 anos,Preta,209
+2022,2913606,Queimado na propriedade,35 a 39 anos,Branca,66
+2022,2913606,Queimado na propriedade,40 a 44 anos,Indígena,233
+2022,2913606,Queimado na propriedade,40 a 44 anos,Preta,192
+2022,2913606,Queimado na propriedade,45 a 49 anos,Preta,219
+2022,2913606,Queimado na propriedade,45 a 49 anos,Branca,82
+2022,2913606,Queimado na propriedade,50 a 54 anos,Preta,206
+2022,2913606,Queimado na propriedade,60 a 64 anos,Indígena,156
+2022,2913606,Queimado na propriedade,85 a 89 anos,Preta,19
+2022,2913606,Enterrado na propriedade,0 a 4 anos,Branca,2
+2022,2913606,Enterrado na propriedade,0 a 4 anos,Amarela,
+2022,2913606,Enterrado na propriedade,25 a 29 anos,Amarela,
+2022,2913606,Enterrado na propriedade,35 a 39 anos,Indígena,8
+2022,2913606,Enterrado na propriedade,40 a 44 anos,Parda,7
+2022,2913606,Enterrado na propriedade,60 a 64 anos,Indígena,2
+2022,2913606,Enterrado na propriedade,70 a 74 anos,Branca,2
+2022,2913606,Enterrado na propriedade,75 a 79 anos,Preta,2
+2022,2913606,Enterrado na propriedade,85 a 89 anos,Amarela,
+2022,2913606,Enterrado na propriedade,90 a 94 anos,Amarela,
+2022,2913606,Enterrado na propriedade,95 a 99 anos,Preta,
+2022,2913606,Enterrado na propriedade,100 anos ou mais,Parda,
+2022,2913606,Depositado em caçamba de serviço de limpeza,15 a 19 anos,Indígena,99
+2022,2913606,Depositado em caçamba de serviço de limpeza,40 a 44 anos,Preta,823
+2022,2913606,Depositado em caçamba de serviço de limpeza,50 a 54 anos,Preta,554
+2022,2913606,Depositado em caçamba de serviço de limpeza,55 a 59 anos,Branca,288
+2022,2913606,Depositado em caçamba de serviço de limpeza,60 a 64 anos,Indígena,39
+2022,2913606,Depositado em caçamba de serviço de limpeza,85 a 89 anos,Amarela,
+2022,2913606,Depositado em caçamba de serviço de limpeza,100 anos ou mais,Amarela,
+2022,2913606,Coletado no domicílio por serviço de limpeza,0 a 4 anos,Preta,1138
+2022,2913606,Coletado no domicílio por serviço de limpeza,0 a 4 anos,Branca,1611
+2022,2913606,Coletado no domicílio por serviço de limpeza,5 a 9 anos,Amarela,17
+2022,2913606,Coletado no domicílio por serviço de limpeza,30 a 34 anos,Parda,4755
+2022,2913606,Coletado no domicílio por serviço de limpeza,40 a 44 anos,Preta,2639
+2022,2913606,Coletado no domicílio por serviço de limpeza,45 a 49 anos,Amarela,16
+2022,2913606,Coletado no domicílio por serviço de limpeza,65 a 69 anos,Amarela,9
+2022,2913606,"Jogado em terreno baldio, encosta ou área pública",0 a 4 anos,Branca,19
+2022,2913606,"Jogado em terreno baldio, encosta ou área pública",5 a 9 anos,Amarela,1
+2022,2913606,"Jogado em terreno baldio, encosta ou área pública",10 a 14 anos,Preta,37
+2022,2913606,"Jogado em terreno baldio, encosta ou área pública",10 a 14 anos,Parda,93
+2022,2913606,"Jogado em terreno baldio, encosta ou área pública",10 a 14 anos,Amarela,
+2022,2913606,"Jogado em terreno baldio, encosta ou área pública",15 a 19 anos,Branca,25
+2022,2913606,"Jogado em terreno baldio, encosta ou área pública",35 a 39 anos,Indígena,14
+2022,2913606,"Jogado em terreno baldio, encosta ou área pública",45 a 49 anos,Amarela,1
+2022,2913606,"Jogado em terreno baldio, encosta ou área pública",65 a 69 anos,Branca,16
+2022,2913606,"Jogado em terreno baldio, encosta ou área pública",85 a 89 anos,Amarela,
+2022,2913606,"Jogado em terreno baldio, encosta ou área pública",95 a 99 anos,Indígena,
+2022,2913606,Coletado,5 a 9 anos,Indígena,316
+2022,2913606,Coletado,10 a 14 anos,Parda,6333
+2022,2913606,Coletado,20 a 24 anos,Amarela,17
+2022,2913606,Coletado,35 a 39 anos,Indígena,367
+2022,2913606,Coletado,40 a 44 anos,Preta,3462
+2022,2913606,Coletado,90 a 94 anos,Indígena,13
+2022,2913606,Coletado,90 a 94 anos,Branca,139
+2022,2913606,Coletado,95 a 99 anos,Amarela,
+2022,2913606,Outro destino,15 a 19 anos,Parda,71
+2022,2913606,Outro destino,30 a 34 anos,Amarela,
+2022,2913606,Outro destino,50 a 54 anos,Preta,23
+2022,2913606,Outro destino,55 a 59 anos,Branca,13
+2022,2913606,Outro destino,60 a 64 anos,Branca,7
+2022,2913606,Outro destino,75 a 79 anos,Preta,8
+2022,2913606,Outro destino,80 a 84 anos,Indígena,1
+2022,2913606,Outro destino,80 a 84 anos,Parda,5
+2022,2913606,Outro destino,95 a 99 anos,Indígena,
+2022,2913606,Queimado na propriedade,10 a 14 anos,Amarela,1
+2022,2913606,Queimado na propriedade,10 a 14 anos,Parda,600
+2022,2913606,Queimado na propriedade,15 a 19 anos,Indígena,275
+2022,2913606,Queimado na propriedade,20 a 24 anos,Preta,171
+2022,2913606,Queimado na propriedade,25 a 29 anos,Indígena,229
+2022,2913606,Queimado na propriedade,35 a 39 anos,Preta,224
+2022,2913606,Queimado na propriedade,65 a 69 anos,Amarela,2
+2022,2913606,Queimado na propriedade,70 a 74 anos,Branca,47
+2022,2913606,Queimado na propriedade,80 a 84 anos,Amarela,
+2022,2913606,Queimado na propriedade,85 a 89 anos,Amarela,
+2022,2913606,Enterrado na propriedade,20 a 24 anos,Preta,2
+2022,2913606,Enterrado na propriedade,25 a 29 anos,Branca,2
+2022,2913606,Enterrado na propriedade,45 a 49 anos,Preta,5
+2022,2913606,Depositado em caçamba de serviço de limpeza,5 a 9 anos,Parda,1520
+2022,2913606,Depositado em caçamba de serviço de limpeza,5 a 9 anos,Preta,533
+2022,2913606,Depositado em caçamba de serviço de limpeza,10 a 14 anos,Indígena,113
+2022,2913606,Depositado em caçamba de serviço de limpeza,25 a 29 anos,Parda,1328
+2022,2913606,Depositado em caçamba de serviço de limpeza,30 a 34 anos,Branca,295
+2022,2913606,Depositado em caçamba de serviço de limpeza,50 a 54 anos,Amarela,6
+2022,2913606,Depositado em caçamba de serviço de limpeza,60 a 64 anos,Amarela,
+2022,2913606,Depositado em caçamba de serviço de limpeza,75 a 79 anos,Branca,71
+2022,2913606,Depositado em caçamba de serviço de limpeza,90 a 94 anos,Branca,12
+2022,2913606,Depositado em caçamba de serviço de limpeza,90 a 94 anos,Indígena,5
+2022,2913606,Coletado no domicílio por serviço de limpeza,15 a 19 anos,Parda,4977
+2022,2913606,Coletado no domicílio por serviço de limpeza,20 a 24 anos,Parda,4972
+2022,2913606,Coletado no domicílio por serviço de limpeza,25 a 29 anos,Branca,1512
+2022,2913606,Coletado no domicílio por serviço de limpeza,25 a 29 anos,Preta,2323
+2022,2913606,Coletado no domicílio por serviço de limpeza,25 a 29 anos,Indígena,199
+2022,2913606,Coletado no domicílio por serviço de limpeza,45 a 49 anos,Branca,1517
+2022,2913606,Coletado no domicílio por serviço de limpeza,50 a 54 anos,Preta,1845
+2022,2913606,Coletado no domicílio por serviço de limpeza,75 a 79 anos,Parda,1169
+2022,2913606,Coletado no domicílio por serviço de limpeza,75 a 79 anos,Preta,403
+2022,2913606,Coletado no domicílio por serviço de limpeza,80 a 84 anos,Preta,337
+2022,2913606,Coletado no domicílio por serviço de limpeza,90 a 94 anos,Preta,69
+2022,2913606,Coletado no domicílio por serviço de limpeza,95 a 99 anos,Amarela,
+2022,2913606,Coletado no domicílio por serviço de limpeza,100 anos ou mais,Amarela,
+2022,2913606,"Jogado em terreno baldio, encosta ou área pública",20 a 24 anos,Branca,21
+2022,2913606,"Jogado em terreno baldio, encosta ou área pública",20 a 24 anos,Amarela,1
+2022,2913606,"Jogado em terreno baldio, encosta ou área pública",25 a 29 anos,Indígena,16
+2022,2913606,"Jogado em terreno baldio, encosta ou área pública",30 a 34 anos,Preta,44
+2022,2913606,"Jogado em terreno baldio, encosta ou área pública",35 a 39 anos,Preta,58
+2022,2913606,"Jogado em terreno baldio, encosta ou área pública",35 a 39 anos,Branca,18
+2022,2913606,"Jogado em terreno baldio, encosta ou área pública",45 a 49 anos,Branca,21
+2022,2913606,"Jogado em terreno baldio, encosta ou área pública",50 a 54 anos,Amarela,
+2022,2913606,"Jogado em terreno baldio, encosta ou área pública",95 a 99 anos,Parda,
+2022,2913606,"Jogado em terreno baldio, encosta ou área pública",100 anos ou mais,Amarela,
+2022,2913606,Coletado,0 a 4 anos,Amarela,8
+2022,2913606,Coletado,15 a 19 anos,Parda,6528
+2022,2913606,Coletado,20 a 24 anos,Parda,6377
+2022,2913606,Coletado,35 a 39 anos,Preta,3321
+2022,2913606,Coletado,35 a 39 anos,Branca,2078
+2022,2913606,Coletado,40 a 44 anos,Indígena,337
+2022,2913606,Coletado,45 a 49 anos,Amarela,17
+2022,2913606,Coletado,50 a 54 anos,Indígena,243
+2022,2913606,Coletado,70 a 74 anos,Preta,932
+2022,2913606,Coletado,95 a 99 anos,Preta,39
+2022,2913606,Coletado,100 anos ou mais,Branca,9
+2022,2913606,Outro destino,5 a 9 anos,Amarela,
+2022,2913606,Outro destino,10 a 14 anos,Amarela,
+2022,2913606,Outro destino,25 a 29 anos,Branca,5
+2022,2913606,Outro destino,35 a 39 anos,Preta,32
+2022,2913606,Outro destino,55 a 59 anos,Preta,19
+2022,2913606,Outro destino,55 a 59 anos,Indígena,4
+2022,2913606,Outro destino,65 a 69 anos,Preta,15
+2022,2913606,Outro destino,70 a 74 anos,Indígena,2
+2022,2913606,Outro destino,80 a 84 anos,Branca,5
+2022,2913606,Outro destino,85 a 89 anos,Branca,2
+2022,2913606,Outro destino,90 a 94 anos,Preta,
+2022,2913606,Outro destino,100 anos ou mais,Indígena,
+2022,2913606,Outro destino,100 anos ou mais,Branca,
+2022,2913606,Queimado na propriedade,5 a 9 anos,Preta,158
+2022,2913606,Queimado na propriedade,10 a 14 anos,Branca,88
+2022,2913606,Queimado na propriedade,20 a 24 anos,Parda,481
+2022,2913606,Queimado na propriedade,25 a 29 anos,Branca,69
+2022,2913606,Queimado na propriedade,25 a 29 anos,Parda,397
+2022,2913606,Queimado na propriedade,60 a 64 anos,Amarela,
+2022,2913606,Queimado na propriedade,65 a 69 anos,Preta,138
+2022,2913606,Queimado na propriedade,70 a 74 anos,Parda,217
+2022,2913606,Queimado na propriedade,75 a 79 anos,Preta,40
+2022,2913606,Queimado na propriedade,100 anos ou mais,Parda,3
+2022,2913606,Enterrado na propriedade,30 a 34 anos,Preta,1
+2022,2913606,Enterrado na propriedade,35 a 39 anos,Parda,5
+2022,2913606,Enterrado na propriedade,45 a 49 anos,Branca,2
+2022,2913606,Enterrado na propriedade,65 a 69 anos,Parda,9
+2022,2913606,Enterrado na propriedade,90 a 94 anos,Parda,
+2022,2913606,Depositado em caçamba de serviço de limpeza,0 a 4 anos,Branca,392
+2022,2913606,Depositado em caçamba de serviço de limpeza,0 a 4 anos,Indígena,103
+2022,2913606,Depositado em caçamba de serviço de limpeza,10 a 14 anos,Branca,333
+2022,2913606,Depositado em caçamba de serviço de limpeza,25 a 29 anos,Branca,323
+2022,2913606,Depositado em caçamba de serviço de limpeza,60 a 64 anos,Parda,953
+2022,2913606,Depositado em caçamba de serviço de limpeza,70 a 74 anos,Amarela,2
+2022,2913606,Depositado em caçamba de serviço de limpeza,85 a 89 anos,Branca,37
+2022,2913606,Coletado no domicílio por serviço de limpeza,5 a 9 anos,Preta,1450
+2022,2913606,Coletado no domicílio por serviço de limpeza,40 a 44 anos,Amarela,17
+2022,2913606,Coletado no domicílio por serviço de limpeza,70 a 74 anos,Parda,2032
+2022,2913606,Coletado no domicílio por serviço de limpeza,80 a 84 anos,Amarela,7
+2022,2913606,Coletado no domicílio por serviço de limpeza,80 a 84 anos,Indígena,37
+2022,2913606,Coletado no domicílio por serviço de limpeza,90 a 94 anos,Indígena,8
+2022,2913606,Coletado no domicílio por serviço de limpeza,95 a 99 anos,Indígena,4
+2022,2913606,"Jogado em terreno baldio, encosta ou área pública",15 a 19 anos,Amarela,
+2022,2913606,"Jogado em terreno baldio, encosta ou área pública",20 a 24 anos,Indígena,17
+2022,2913606,"Jogado em terreno baldio, encosta ou área pública",50 a 54 anos,Parda,65
+2022,2913606,"Jogado em terreno baldio, encosta ou área pública",70 a 74 anos,Preta,15
+2022,2913606,"Jogado em terreno baldio, encosta ou área pública",95 a 99 anos,Branca,2
+2022,2913606,"Jogado em terreno baldio, encosta ou área pública",100 anos ou mais,Parda,
+2022,2913606,"Jogado em terreno baldio, encosta ou área pública",90 a 94 anos,Parda,
+2022,2913606,Depositado em caçamba de serviço de limpeza,80 a 84 anos,Parda,190
+2022,2913606,Queimado na propriedade,65 a 69 anos,Parda,299
+2022,2913606,"Jogado em terreno baldio, encosta ou área pública",85 a 89 anos,Parda,4
+2022,2913606,Queimado na propriedade,0 a 4 anos,Parda,413
+2022,2913606,Coletado no domicílio por serviço de limpeza,80 a 84 anos,Parda,825
+2022,2913606,"Jogado em terreno baldio, encosta ou área pública",65 a 69 anos,Parda,34
+2022,2913606,Depositado em caçamba de serviço de limpeza,65 a 69 anos,Preta,316
+2022,2913606,Coletado,25 a 29 anos,Preta,3040
+2022,2913606,Coletado no domicílio por serviço de limpeza,85 a 89 anos,Preta,161
+2022,2913606,"Jogado em terreno baldio, encosta ou área pública",85 a 89 anos,Preta,2
+2022,2913606,"Jogado em terreno baldio, encosta ou área pública",80 a 84 anos,Preta,6
+2022,2913606,Coletado,90 a 94 anos,Preta,86
+2022,2913606,"Jogado em terreno baldio, encosta ou área pública",5 a 9 anos,Preta,45
+2022,2913606,Enterrado na propriedade,50 a 54 anos,Preta,4
+2022,2913606,Depositado em caçamba de serviço de limpeza,75 a 79 anos,Preta,119
+2022,2913606,Outro destino,100 anos ou mais,Preta,
+2022,2913606,Queimado na propriedade,70 a 74 anos,Preta,85
+2022,2913606,"Jogado em terreno baldio, encosta ou área pública",65 a 69 anos,Preta,15
+2022,2913606,Coletado no domicílio por serviço de limpeza,55 a 59 anos,Preta,1578
+2022,2913606,Enterrado na propriedade,5 a 9 anos,Branca,1
+2022,2913606,Outro destino,5 a 9 anos,Branca,22
+2022,2913606,Coletado no domicílio por serviço de limpeza,5 a 9 anos,Branca,1433
+2022,2913606,Queimado na propriedade,100 anos ou mais,Branca,
+2022,2913606,Outro destino,35 a 39 anos,Branca,19
+2022,2913606,Queimado na propriedade,20 a 24 anos,Branca,68
+2022,2913606,Depositado em caçamba de serviço de limpeza,70 a 74 anos,Branca,151
+2022,2913606,"Jogado em terreno baldio, encosta ou área pública",50 a 54 anos,Branca,18
+2022,2913606,Queimado na propriedade,15 a 19 anos,Branca,91
+2022,2913606,Coletado,65 a 69 anos,Branca,1283
+2022,2913606,Enterrado na propriedade,15 a 19 anos,Branca,1
+2022,2913606,Enterrado na propriedade,10 a 14 anos,Branca,1
+2022,2913606,Queimado na propriedade,60 a 64 anos,Branca,62
+2022,2913606,Outro destino,0 a 4 anos,Branca,17
+2022,2913606,Outro destino,75 a 79 anos,Branca,8
+2022,2913606,Coletado no domicílio por serviço de limpeza,15 a 19 anos,Branca,1613
+2022,2913606,Coletado,95 a 99 anos,Branca,40
+2022,2913606,Coletado no domicílio por serviço de limpeza,100 anos ou mais,Branca,5
+2022,2913606,"Jogado em terreno baldio, encosta ou área pública",25 a 29 anos,Branca,14
+2022,2913606,Coletado no domicílio por serviço de limpeza,65 a 69 anos,Branca,1092
+2022,2913606,Depositado em caçamba de serviço de limpeza,65 a 69 anos,Branca,191
+2022,2913606,Queimado na propriedade,20 a 24 anos,Amarela,
+2022,2913606,Depositado em caçamba de serviço de limpeza,0 a 4 anos,Amarela,1
+2022,2913606,Enterrado na propriedade,60 a 64 anos,Amarela,
+2022,2913606,Coletado no domicílio por serviço de limpeza,90 a 94 anos,Amarela,1
+2022,2913606,Outro destino,100 anos ou mais,Amarela,
+2022,2913606,Coletado no domicílio por serviço de limpeza,75 a 79 anos,Amarela,5
+2022,2913606,Queimado na propriedade,100 anos ou mais,Amarela,
+2022,2913606,Outro destino,60 a 64 anos,Amarela,
+2022,2913606,Coletado no domicílio por serviço de limpeza,20 a 24 anos,Amarela,13
+2022,2913606,"Jogado em terreno baldio, encosta ou área pública",95 a 99 anos,Amarela,
+2022,2913606,Coletado no domicílio por serviço de limpeza,15 a 19 anos,Amarela,17
+2022,2913606,Enterrado na propriedade,35 a 39 anos,Amarela,
+2022,2913606,Depositado em caçamba de serviço de limpeza,25 a 29 anos,Amarela,4
+2022,2913606,Coletado no domicílio por serviço de limpeza,70 a 74 anos,Amarela,4
+2022,2913606,"Jogado em terreno baldio, encosta ou área pública",80 a 84 anos,Amarela,
+2022,2913606,Enterrado na propriedade,100 anos ou mais,Amarela,
+2022,2913606,Coletado,70 a 74 anos,Amarela,6
+2022,2913606,"Jogado em terreno baldio, encosta ou área pública",40 a 44 anos,Amarela,
+2022,2913606,Depositado em caçamba de serviço de limpeza,35 a 39 anos,Amarela,1
+2022,2913606,Depositado em caçamba de serviço de limpeza,35 a 39 anos,Indígena,106
+2022,2913606,Enterrado na propriedade,90 a 94 anos,Indígena,
+2022,2913606,"Jogado em terreno baldio, encosta ou área pública",45 a 49 anos,Indígena,16
+2022,2913606,Coletado,85 a 89 anos,Indígena,22
+2022,2913606,Coletado no domicílio por serviço de limpeza,55 a 59 anos,Indígena,187
+2022,2913606,Coletado,80 a 84 anos,Indígena,45
+2022,2913606,Coletado no domicílio por serviço de limpeza,15 a 19 anos,Indígena,206
+2022,2913606,Coletado,65 a 69 anos,Indígena,144
+2022,2913606,Outro destino,75 a 79 anos,Indígena,
+2022,2913606,Coletado,60 a 64 anos,Indígena,218
+2022,2913606,Enterrado na propriedade,10 a 14 anos,Indígena,7
+2022,2913606,Queimado na propriedade,70 a 74 anos,Indígena,66
+2022,2913606,Coletado no domicílio por serviço de limpeza,40 a 44 anos,Indígena,243
+2022,2913606,Coletado no domicílio por serviço de limpeza,60 a 64 anos,Indígena,179
+2022,2913606,Depositado em caçamba de serviço de limpeza,45 a 49 anos,Indígena,83
+2022,2913606,Enterrado na propriedade,55 a 59 anos,Indígena,5
+2022,2913606,Depositado em caçamba de serviço de limpeza,80 a 84 anos,Indígena,8
+2022,2913606,"Jogado em terreno baldio, encosta ou área pública",50 a 54 anos,Indígena,15
+2022,2913606,Outro destino,50 a 54 anos,Indígena,3
+2022,2913606,Outro destino,60 a 64 anos,Indígena,2
+2022,2913606,Queimado na propriedade,45 a 49 anos,Indígena,191
+2022,2913606,Coletado,25 a 29 anos,Indígena,276
+2022,2913606,Coletado,40 a 44 anos,Amarela,20
+2022,2913606,Coletado,50 a 54 anos,Branca,1809
+2022,2913606,Coletado,70 a 74 anos,Indígena,110
+2022,2913606,Coletado,75 a 79 anos,Amarela,5
+2022,2913606,Coletado,100 anos ou mais,Amarela,
+2022,2913606,Outro destino,0 a 4 anos,Parda,69
+2022,2913606,Outro destino,20 a 24 anos,Parda,55
+2022,2913606,Outro destino,35 a 39 anos,Parda,59
+2022,2913606,Outro destino,45 a 49 anos,Preta,27
+2022,2913606,Outro destino,50 a 54 anos,Branca,17
+2022,2913606,Outro destino,50 a 54 anos,Amarela,
+2022,2913606,Outro destino,55 a 59 anos,Parda,46
+2022,2913606,Outro destino,65 a 69 anos,Amarela,
+2022,2913606,Outro destino,70 a 74 anos,Amarela,
+2022,2913606,Outro destino,95 a 99 anos,Parda,1
+2022,2913606,Queimado na propriedade,10 a 14 anos,Indígena,366
+2022,2913606,Queimado na propriedade,30 a 34 anos,Preta,162
+2022,2913606,Queimado na propriedade,40 a 44 anos,Branca,74
+2022,2913606,Queimado na propriedade,45 a 49 anos,Amarela,
+2022,2913606,Queimado na propriedade,60 a 64 anos,Preta,172
+2022,2913606,Queimado na propriedade,65 a 69 anos,Indígena,101
+2022,2913606,Queimado na propriedade,80 a 84 anos,Indígena,24
+2022,2913606,Queimado na propriedade,85 a 89 anos,Indígena,21
+2022,2913606,Queimado na propriedade,85 a 89 anos,Branca,15
+2022,2913606,Queimado na propriedade,90 a 94 anos,Indígena,3
+2022,2913606,Queimado na propriedade,90 a 94 anos,Parda,20
+2022,2913606,Queimado na propriedade,95 a 99 anos,Parda,10
+2022,2913606,Queimado na propriedade,95 a 99 anos,Amarela,
+2022,2913606,Enterrado na propriedade,0 a 4 anos,Preta,2
+2022,2913606,Enterrado na propriedade,5 a 9 anos,Parda,9
+2022,2913606,Enterrado na propriedade,5 a 9 anos,Amarela,
+2022,2913606,Enterrado na propriedade,10 a 14 anos,Preta,3
+2022,2913606,Enterrado na propriedade,15 a 19 anos,Amarela,
+2022,2913606,Enterrado na propriedade,20 a 24 anos,Amarela,
+2022,2913606,Enterrado na propriedade,25 a 29 anos,Preta,3
+2022,2913606,Enterrado na propriedade,30 a 34 anos,Amarela,
+2022,2913606,Enterrado na propriedade,40 a 44 anos,Amarela,
+2022,2913606,Enterrado na propriedade,50 a 54 anos,Branca,5
+2022,2913606,Enterrado na propriedade,50 a 54 anos,Amarela,
+2022,2913606,Enterrado na propriedade,55 a 59 anos,Parda,16
+2022,2913606,Enterrado na propriedade,55 a 59 anos,Amarela,
+2022,2913606,Enterrado na propriedade,65 a 69 anos,Branca,2
+2022,2913606,Enterrado na propriedade,85 a 89 anos,Preta,
+2022,2913606,Enterrado na propriedade,95 a 99 anos,Branca,
+2022,2913606,Enterrado na propriedade,100 anos ou mais,Preta,
+2022,2913606,Depositado em caçamba de serviço de limpeza,15 a 19 anos,Amarela,3
+2022,2913606,Depositado em caçamba de serviço de limpeza,20 a 24 anos,Branca,337
+2022,2913606,Depositado em caçamba de serviço de limpeza,30 a 34 anos,Indígena,70
+2022,2913606,Depositado em caçamba de serviço de limpeza,35 a 39 anos,Preta,755
+2022,2913606,Depositado em caçamba de serviço de limpeza,40 a 44 anos,Parda,1624
+2022,2913606,Depositado em caçamba de serviço de limpeza,50 a 54 anos,Parda,1277
+2022,2913606,Depositado em caçamba de serviço de limpeza,50 a 54 anos,Branca,294
+2022,2913606,Depositado em caçamba de serviço de limpeza,55 a 59 anos,Indígena,57
+2022,2913606,Depositado em caçamba de serviço de limpeza,85 a 89 anos,Indígena,4
+2022,2913606,Depositado em caçamba de serviço de limpeza,100 anos ou mais,Parda,
+2022,2913606,Coletado no domicílio por serviço de limpeza,10 a 14 anos,Preta,1643
+2022,2913606,Coletado no domicílio por serviço de limpeza,10 a 14 anos,Amarela,16
+2022,2913606,Coletado no domicílio por serviço de limpeza,10 a 14 anos,Parda,4859
+2022,2913606,Coletado no domicílio por serviço de limpeza,20 a 24 anos,Preta,2331
+2022,2913606,Coletado no domicílio por serviço de limpeza,25 a 29 anos,Amarela,11
+2022,2913606,Coletado no domicílio por serviço de limpeza,30 a 34 anos,Amarela,13
+2022,2913606,Coletado no domicílio por serviço de limpeza,35 a 39 anos,Indígena,261
+2022,2913606,Coletado no domicílio por serviço de limpeza,35 a 39 anos,Branca,1708
+2022,2913606,Coletado no domicílio por serviço de limpeza,50 a 54 anos,Branca,1515
+2022,2913606,Coletado no domicílio por serviço de limpeza,55 a 59 anos,Parda,4222
+2022,2913606,Coletado no domicílio por serviço de limpeza,60 a 64 anos,Preta,1431
+2022,2913606,Coletado no domicílio por serviço de limpeza,60 a 64 anos,Amarela,4
+2022,2913606,Coletado no domicílio por serviço de limpeza,65 a 69 anos,Preta,1064
+2022,2913606,Coletado no domicílio por serviço de limpeza,70 a 74 anos,Preta,748
+2022,2913606,Coletado no domicílio por serviço de limpeza,85 a 89 anos,Branca,262
+2022,2913606,"Jogado em terreno baldio, encosta ou área pública",0 a 4 anos,Amarela,1
+2022,2913606,"Jogado em terreno baldio, encosta ou área pública",0 a 4 anos,Preta,33
+2022,2913606,"Jogado em terreno baldio, encosta ou área pública",15 a 19 anos,Preta,48
+2022,2913606,"Jogado em terreno baldio, encosta ou área pública",20 a 24 anos,Preta,55
+2022,2913606,"Jogado em terreno baldio, encosta ou área pública",50 a 54 anos,Preta,29
+2022,2913606,"Jogado em terreno baldio, encosta ou área pública",55 a 59 anos,Parda,70
+2022,2913606,"Jogado em terreno baldio, encosta ou área pública",55 a 59 anos,Preta,35
+2022,2913606,"Jogado em terreno baldio, encosta ou área pública",60 a 64 anos,Amarela,
+2022,2913606,"Jogado em terreno baldio, encosta ou área pública",60 a 64 anos,Parda,68
+2022,2913606,"Jogado em terreno baldio, encosta ou área pública",75 a 79 anos,Indígena,3
+2022,2913606,"Jogado em terreno baldio, encosta ou área pública",75 a 79 anos,Amarela,
+2022,2913606,"Jogado em terreno baldio, encosta ou área pública",80 a 84 anos,Parda,4
+2022,2913606,"Jogado em terreno baldio, encosta ou área pública",95 a 99 anos,Preta,1
+2022,2913606,"Jogado em terreno baldio, encosta ou área pública",100 anos ou mais,Branca,

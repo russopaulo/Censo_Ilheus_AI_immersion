@@ -1,0 +1,25 @@
+ano,id_municipio,tipo_abastecimento_agua,tipo_canalizacao_agua,domicilios
+2022,2913606,Outra,Sem água canalizada,304
+2022,2913606,Outra,"Canalizada, mas apenas no terreno",93
+2022,2913606,Outra,"Canalizada até dentro da casa, apartamento ou habitação",241
+2022,2913606,Carro-pipa,"Canalizada, mas apenas no terreno",7
+2022,2913606,Carro-pipa,"Canalizada até dentro da casa, apartamento ou habitação",19
+2022,2913606,Carro-pipa,Sem água canalizada,41
+2022,2913606,"Fonte, nascente ou mina","Canalizada, mas apenas no terreno",293
+2022,2913606,"Fonte, nascente ou mina","Canalizada até dentro da casa, apartamento ou habitação",1388
+2022,2913606,"Fonte, nascente ou mina",Sem água canalizada,374
+2022,2913606,Água da chuva armazenada,"Canalizada, mas apenas no terreno",24
+2022,2913606,Água da chuva armazenada,"Canalizada até dentro da casa, apartamento ou habitação",65
+2022,2913606,Água da chuva armazenada,Sem água canalizada,132
+2022,2913606,Poço profundo ou artesiano,Sem água canalizada,783
+2022,2913606,Poço profundo ou artesiano,"Canalizada, mas apenas no terreno",554
+2022,2913606,Poço profundo ou artesiano,"Canalizada até dentro da casa, apartamento ou habitação",4221
+2022,2913606,Rede geral de distribuição,Sem água canalizada,
+2022,2913606,Rede geral de distribuição,"Canalizada, mas apenas no terreno",606
+2022,2913606,Rede geral de distribuição,"Canalizada até dentro da casa, apartamento ou habitação",54260
+2022,2913606,"Poço raso, freático ou cacimba",Sem água canalizada,285
+2022,2913606,"Poço raso, freático ou cacimba","Canalizada até dentro da casa, apartamento ou habitação",1124
+2022,2913606,"Poço raso, freático ou cacimba","Canalizada, mas apenas no terreno",192
+2022,2913606,"Rios, açudes, córregos, lagos e igarapés",Sem água canalizada,293
+2022,2913606,"Rios, açudes, córregos, lagos e igarapés","Canalizada até dentro da casa, apartamento ou habitação",1117
+2022,2913606,"Rios, açudes, córregos, lagos e igarapés","Canalizada, mas apenas no terreno",170

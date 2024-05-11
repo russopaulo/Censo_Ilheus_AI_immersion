@@ -1,0 +1,73 @@
+ano,id_municipio,tipo_esgotamento_sanitario,tipo_quantidade_banheiro,domicilios
+2022,2913606,Vala,Não tinham banheiro nem sanitário,
+2022,2913606,Vala,Tinham banheiro de uso exclusivo do domicílio,1839
+2022,2913606,Vala,Apenas banheiro de uso comum a mais de um domicílio,42
+2022,2913606,Vala,Tinham banheiro de uso exclusivo do domicílio - 1 banheiro,1594
+2022,2913606,Vala,Tinham banheiro de uso exclusivo do domicílio - 2 banheiros,211
+2022,2913606,Vala,Tinham banheiro de uso exclusivo do domicílio - 3 banheiros,28
+2022,2913606,Vala,Tinham banheiro de uso exclusivo do domicílio - 4 banheiros ou mais,6
+2022,2913606,Vala,"Apenas sanitário ou buraco para dejeções, inclusive os localizados no terreno",68
+2022,2913606,Outra forma,Não tinham banheiro nem sanitário,
+2022,2913606,Outra forma,Tinham banheiro de uso exclusivo do domicílio,569
+2022,2913606,Outra forma,Apenas banheiro de uso comum a mais de um domicílio,91
+2022,2913606,Outra forma,Tinham banheiro de uso exclusivo do domicílio - 1 banheiro,494
+2022,2913606,Outra forma,Tinham banheiro de uso exclusivo do domicílio - 2 banheiros,47
+2022,2913606,Outra forma,Tinham banheiro de uso exclusivo do domicílio - 3 banheiros,16
+2022,2913606,Outra forma,Tinham banheiro de uso exclusivo do domicílio - 4 banheiros ou mais,12
+2022,2913606,Outra forma,"Apenas sanitário ou buraco para dejeções, inclusive os localizados no terreno",155
+2022,2913606,Rede geral ou pluvial,Não tinham banheiro nem sanitário,
+2022,2913606,Rede geral ou pluvial,Tinham banheiro de uso exclusivo do domicílio,42014
+2022,2913606,Rede geral ou pluvial,Apenas banheiro de uso comum a mais de um domicílio,94
+2022,2913606,Rede geral ou pluvial,Tinham banheiro de uso exclusivo do domicílio - 1 banheiro,27889
+2022,2913606,Rede geral ou pluvial,Tinham banheiro de uso exclusivo do domicílio - 2 banheiros,10556
+2022,2913606,Rede geral ou pluvial,Tinham banheiro de uso exclusivo do domicílio - 3 banheiros,2451
+2022,2913606,Rede geral ou pluvial,Tinham banheiro de uso exclusivo do domicílio - 4 banheiros ou mais,1118
+2022,2913606,Rede geral ou pluvial,"Apenas sanitário ou buraco para dejeções, inclusive os localizados no terreno",199
+2022,2913606,Fossa rudimentar ou buraco,Não tinham banheiro nem sanitário,
+2022,2913606,Fossa rudimentar ou buraco,Tinham banheiro de uso exclusivo do domicílio,7974
+2022,2913606,Fossa rudimentar ou buraco,Apenas banheiro de uso comum a mais de um domicílio,218
+2022,2913606,Fossa rudimentar ou buraco,Tinham banheiro de uso exclusivo do domicílio - 1 banheiro,6369
+2022,2913606,Fossa rudimentar ou buraco,Tinham banheiro de uso exclusivo do domicílio - 2 banheiros,1234
+2022,2913606,Fossa rudimentar ou buraco,Tinham banheiro de uso exclusivo do domicílio - 3 banheiros,246
+2022,2913606,Fossa rudimentar ou buraco,Tinham banheiro de uso exclusivo do domicílio - 4 banheiros ou mais,125
+2022,2913606,Fossa rudimentar ou buraco,"Apenas sanitário ou buraco para dejeções, inclusive os localizados no terreno",486
+2022,2913606,"Rio, lago, córrego ou mar",Não tinham banheiro nem sanitário,
+2022,2913606,"Rio, lago, córrego ou mar",Tinham banheiro de uso exclusivo do domicílio,2801
+2022,2913606,"Rio, lago, córrego ou mar",Apenas banheiro de uso comum a mais de um domicílio,32
+2022,2913606,"Rio, lago, córrego ou mar",Tinham banheiro de uso exclusivo do domicílio - 1 banheiro,2292
+2022,2913606,"Rio, lago, córrego ou mar",Tinham banheiro de uso exclusivo do domicílio - 2 banheiros,455
+2022,2913606,"Rio, lago, córrego ou mar",Tinham banheiro de uso exclusivo do domicílio - 3 banheiros,40
+2022,2913606,"Rio, lago, córrego ou mar",Tinham banheiro de uso exclusivo do domicílio - 4 banheiros ou mais,14
+2022,2913606,"Rio, lago, córrego ou mar","Apenas sanitário ou buraco para dejeções, inclusive os localizados no terreno",121
+2022,2913606,Não tinham banheiro nem sanitário,Não tinham banheiro nem sanitário,577
+2022,2913606,Não tinham banheiro nem sanitário,Tinham banheiro de uso exclusivo do domicílio,
+2022,2913606,Não tinham banheiro nem sanitário,Apenas banheiro de uso comum a mais de um domicílio,
+2022,2913606,Não tinham banheiro nem sanitário,Tinham banheiro de uso exclusivo do domicílio - 1 banheiro,
+2022,2913606,Não tinham banheiro nem sanitário,Tinham banheiro de uso exclusivo do domicílio - 2 banheiros,
+2022,2913606,Não tinham banheiro nem sanitário,Tinham banheiro de uso exclusivo do domicílio - 3 banheiros,
+2022,2913606,Não tinham banheiro nem sanitário,Tinham banheiro de uso exclusivo do domicílio - 4 banheiros ou mais,
+2022,2913606,Não tinham banheiro nem sanitário,"Apenas sanitário ou buraco para dejeções, inclusive os localizados no terreno",
+2022,2913606,Fossa séptica ou fossa filtro ligada à rede,Não tinham banheiro nem sanitário,
+2022,2913606,Fossa séptica ou fossa filtro ligada à rede,Tinham banheiro de uso exclusivo do domicílio,1215
+2022,2913606,Fossa séptica ou fossa filtro ligada à rede,Apenas banheiro de uso comum a mais de um domicílio,1
+2022,2913606,Fossa séptica ou fossa filtro ligada à rede,Tinham banheiro de uso exclusivo do domicílio - 1 banheiro,679
+2022,2913606,Fossa séptica ou fossa filtro ligada à rede,Tinham banheiro de uso exclusivo do domicílio - 2 banheiros,346
+2022,2913606,Fossa séptica ou fossa filtro ligada à rede,Tinham banheiro de uso exclusivo do domicílio - 3 banheiros,114
+2022,2913606,Fossa séptica ou fossa filtro ligada à rede,Tinham banheiro de uso exclusivo do domicílio - 4 banheiros ou mais,76
+2022,2913606,Fossa séptica ou fossa filtro ligada à rede,"Apenas sanitário ou buraco para dejeções, inclusive os localizados no terreno",8
+2022,2913606,"Rede geral, rede pluvial ou fossa ligada à rede",Não tinham banheiro nem sanitário,
+2022,2913606,"Rede geral, rede pluvial ou fossa ligada à rede",Tinham banheiro de uso exclusivo do domicílio,43229
+2022,2913606,"Rede geral, rede pluvial ou fossa ligada à rede",Apenas banheiro de uso comum a mais de um domicílio,95
+2022,2913606,"Rede geral, rede pluvial ou fossa ligada à rede",Tinham banheiro de uso exclusivo do domicílio - 1 banheiro,28568
+2022,2913606,"Rede geral, rede pluvial ou fossa ligada à rede",Tinham banheiro de uso exclusivo do domicílio - 2 banheiros,10902
+2022,2913606,"Rede geral, rede pluvial ou fossa ligada à rede",Tinham banheiro de uso exclusivo do domicílio - 3 banheiros,2565
+2022,2913606,"Rede geral, rede pluvial ou fossa ligada à rede",Tinham banheiro de uso exclusivo do domicílio - 4 banheiros ou mais,1194
+2022,2913606,"Rede geral, rede pluvial ou fossa ligada à rede","Apenas sanitário ou buraco para dejeções, inclusive os localizados no terreno",207
+2022,2913606,Fossa séptica ou fossa filtro não ligada à rede,Não tinham banheiro nem sanitário,
+2022,2913606,Fossa séptica ou fossa filtro não ligada à rede,Tinham banheiro de uso exclusivo do domicílio,7926
+2022,2913606,Fossa séptica ou fossa filtro não ligada à rede,Apenas banheiro de uso comum a mais de um domicílio,58
+2022,2913606,Fossa séptica ou fossa filtro não ligada à rede,Tinham banheiro de uso exclusivo do domicílio - 1 banheiro,4791
+2022,2913606,Fossa séptica ou fossa filtro não ligada à rede,Tinham banheiro de uso exclusivo do domicílio - 2 banheiros,1960
+2022,2913606,Fossa séptica ou fossa filtro não ligada à rede,Tinham banheiro de uso exclusivo do domicílio - 3 banheiros,686
+2022,2913606,Fossa séptica ou fossa filtro não ligada à rede,Tinham banheiro de uso exclusivo do domicílio - 4 banheiros ou mais,489
+2022,2913606,Fossa séptica ou fossa filtro não ligada à rede,"Apenas sanitário ou buraco para dejeções, inclusive os localizados no terreno",98

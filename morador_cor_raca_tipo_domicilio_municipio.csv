@@ -1,0 +1,631 @@
+ano,id_municipio,tipo_domicilio,grupo_idade,cor_raca,moradores
+2022,2913606,Casa,10 a 14 anos,Branca,1479
+2022,2913606,Casa,60 a 64 anos,Indígena,366
+2022,2913606,Casa,60 a 64 anos,Branca,1359
+2022,2913606,Casa,50 a 54 anos,Indígena,381
+2022,2913606,Casa,5 a 9 anos,Parda,5913
+2022,2913606,Casa,5 a 9 anos,Indígena,654
+2022,2913606,Casa,10 a 14 anos,Preta,2096
+2022,2913606,Casa,25 a 29 anos,Parda,5485
+2022,2913606,Casa,45 a 49 anos,Preta,2602
+2022,2913606,Casa,55 a 59 anos,Indígena,401
+2022,2913606,Casa,40 a 44 anos,Parda,6733
+2022,2913606,Casa,65 a 69 anos,Preta,1435
+2022,2913606,Casa,70 a 74 anos,Indígena,179
+2022,2913606,Apartamento,15 a 19 anos,Branca,380
+2022,2913606,Apartamento,80 a 84 anos,Branca,109
+2022,2913606,Apartamento,0 a 4 anos,Indígena,38
+2022,2913606,Apartamento,15 a 19 anos,Amarela,3
+2022,2913606,Apartamento,20 a 24 anos,Indígena,25
+2022,2913606,Apartamento,70 a 74 anos,Branca,234
+2022,2913606,Apartamento,5 a 9 anos,Branca,386
+2022,2913606,Apartamento,45 a 49 anos,Branca,419
+2022,2913606,Apartamento,90 a 94 anos,Parda,26
+2022,2913606,Apartamento,95 a 99 anos,Preta,4
+2022,2913606,Apartamento,20 a 24 anos,Branca,436
+2022,2913606,Apartamento,45 a 49 anos,Preta,332
+2022,2913606,Casa de vila ou em condomínio,90 a 94 anos,Amarela,
+2022,2913606,Casa de vila ou em condomínio,85 a 89 anos,Parda,3
+2022,2913606,Casa de vila ou em condomínio,30 a 34 anos,Amarela,
+2022,2913606,Casa de vila ou em condomínio,75 a 79 anos,Parda,18
+2022,2913606,Casa de vila ou em condomínio,85 a 89 anos,Indígena,
+2022,2913606,Casa de vila ou em condomínio,70 a 74 anos,Amarela,
+2022,2913606,Casa de vila ou em condomínio,5 a 9 anos,Branca,64
+2022,2913606,Casa de vila ou em condomínio,60 a 64 anos,Preta,22
+2022,2913606,Casa de vila ou em condomínio,35 a 39 anos,Amarela,
+2022,2913606,Casa de vila ou em condomínio,5 a 9 anos,Indígena,9
+2022,2913606,Casa de vila ou em condomínio,90 a 94 anos,Parda,1
+2022,2913606,Habitação em casa de cômodos ou cortiço,0 a 4 anos,Parda,17
+2022,2913606,Habitação em casa de cômodos ou cortiço,50 a 54 anos,Parda,12
+2022,2913606,Habitação em casa de cômodos ou cortiço,15 a 19 anos,Branca,4
+2022,2913606,Habitação em casa de cômodos ou cortiço,35 a 39 anos,Branca,7
+2022,2913606,Habitação em casa de cômodos ou cortiço,25 a 29 anos,Preta,10
+2022,2913606,Habitação em casa de cômodos ou cortiço,75 a 79 anos,Indígena,1
+2022,2913606,Habitação em casa de cômodos ou cortiço,80 a 84 anos,Indígena,
+2022,2913606,Habitação em casa de cômodos ou cortiço,0 a 4 anos,Indígena,4
+2022,2913606,Habitação em casa de cômodos ou cortiço,60 a 64 anos,Branca,4
+2022,2913606,Habitação indígena sem paredes ou maloca,95 a 99 anos,Preta,
+2022,2913606,Habitação indígena sem paredes ou maloca,15 a 19 anos,Parda,
+2022,2913606,Habitação indígena sem paredes ou maloca,100 anos ou mais,Parda,
+2022,2913606,Habitação indígena sem paredes ou maloca,80 a 84 anos,Branca,
+2022,2913606,Estrutura residencial permanente degradada ou inacabada,100 anos ou mais,Branca,
+2022,2913606,Estrutura residencial permanente degradada ou inacabada,55 a 59 anos,Branca,
+2022,2913606,Estrutura residencial permanente degradada ou inacabada,85 a 89 anos,Indígena,
+2022,2913606,Estrutura residencial permanente degradada ou inacabada,35 a 39 anos,Branca,
+2022,2913606,Estrutura residencial permanente degradada ou inacabada,30 a 34 anos,Preta,1
+2022,2913606,Estrutura residencial permanente degradada ou inacabada,30 a 34 anos,Amarela,
+2022,2913606,Estrutura residencial permanente degradada ou inacabada,95 a 99 anos,Branca,
+2022,2913606,Estrutura residencial permanente degradada ou inacabada,80 a 84 anos,Amarela,
+2022,2913606,Estrutura residencial permanente degradada ou inacabada,20 a 24 anos,Branca,1
+2022,2913606,Estrutura residencial permanente degradada ou inacabada,90 a 94 anos,Branca,
+2022,2913606,Estrutura residencial permanente degradada ou inacabada,50 a 54 anos,Indígena,
+2022,2913606,Estrutura residencial permanente degradada ou inacabada,25 a 29 anos,Preta,5
+2022,2913606,Estrutura residencial permanente degradada ou inacabada,70 a 74 anos,Branca,
+2022,2913606,Estrutura residencial permanente degradada ou inacabada,70 a 74 anos,Amarela,
+2022,2913606,Casa,75 a 79 anos,Branca,567
+2022,2913606,Casa,100 anos ou mais,Amarela,
+2022,2913606,Casa,45 a 49 anos,Amarela,11
+2022,2913606,Casa,15 a 19 anos,Indígena,576
+2022,2913606,Apartamento,50 a 54 anos,Indígena,20
+2022,2913606,Apartamento,95 a 99 anos,Indígena,
+2022,2913606,Apartamento,10 a 14 anos,Parda,875
+2022,2913606,Apartamento,50 a 54 anos,Amarela,1
+2022,2913606,Apartamento,80 a 84 anos,Preta,38
+2022,2913606,Apartamento,45 a 49 anos,Amarela,7
+2022,2913606,Apartamento,70 a 74 anos,Indígena,3
+2022,2913606,Apartamento,95 a 99 anos,Parda,8
+2022,2913606,Apartamento,30 a 34 anos,Branca,491
+2022,2913606,Apartamento,15 a 19 anos,Parda,899
+2022,2913606,Apartamento,80 a 84 anos,Indígena,4
+2022,2913606,Apartamento,30 a 34 anos,Amarela,3
+2022,2913606,Casa de vila ou em condomínio,65 a 69 anos,Branca,30
+2022,2913606,Casa de vila ou em condomínio,10 a 14 anos,Indígena,4
+2022,2913606,Casa de vila ou em condomínio,20 a 24 anos,Indígena,5
+2022,2913606,Casa de vila ou em condomínio,35 a 39 anos,Branca,81
+2022,2913606,Casa de vila ou em condomínio,25 a 29 anos,Preta,35
+2022,2913606,Casa de vila ou em condomínio,100 anos ou mais,Amarela,
+2022,2913606,Casa de vila ou em condomínio,45 a 49 anos,Parda,115
+2022,2913606,Casa de vila ou em condomínio,65 a 69 anos,Indígena,2
+2022,2913606,Casa de vila ou em condomínio,65 a 69 anos,Amarela,
+2022,2913606,Casa de vila ou em condomínio,5 a 9 anos,Parda,117
+2022,2913606,Casa de vila ou em condomínio,70 a 74 anos,Parda,35
+2022,2913606,Casa de vila ou em condomínio,60 a 64 anos,Parda,67
+2022,2913606,Casa de vila ou em condomínio,65 a 69 anos,Preta,17
+2022,2913606,Casa de vila ou em condomínio,100 anos ou mais,Parda,
+2022,2913606,Habitação em casa de cômodos ou cortiço,5 a 9 anos,Indígena,1
+2022,2913606,Habitação em casa de cômodos ou cortiço,20 a 24 anos,Parda,20
+2022,2913606,Habitação em casa de cômodos ou cortiço,75 a 79 anos,Branca,
+2022,2913606,Habitação em casa de cômodos ou cortiço,0 a 4 anos,Preta,7
+2022,2913606,Habitação em casa de cômodos ou cortiço,90 a 94 anos,Branca,
+2022,2913606,Habitação em casa de cômodos ou cortiço,10 a 14 anos,Preta,5
+2022,2913606,Habitação em casa de cômodos ou cortiço,95 a 99 anos,Branca,
+2022,2913606,Habitação em casa de cômodos ou cortiço,85 a 89 anos,Amarela,
+2022,2913606,Habitação em casa de cômodos ou cortiço,100 anos ou mais,Preta,
+2022,2913606,Habitação em casa de cômodos ou cortiço,55 a 59 anos,Amarela,
+2022,2913606,Habitação indígena sem paredes ou maloca,5 a 9 anos,Preta,
+2022,2913606,Habitação indígena sem paredes ou maloca,60 a 64 anos,Branca,
+2022,2913606,Habitação indígena sem paredes ou maloca,35 a 39 anos,Amarela,
+2022,2913606,Habitação indígena sem paredes ou maloca,15 a 19 anos,Branca,
+2022,2913606,Habitação indígena sem paredes ou maloca,70 a 74 anos,Branca,
+2022,2913606,Habitação indígena sem paredes ou maloca,5 a 9 anos,Amarela,
+2022,2913606,Habitação indígena sem paredes ou maloca,45 a 49 anos,Indígena,
+2022,2913606,Habitação indígena sem paredes ou maloca,50 a 54 anos,Preta,
+2022,2913606,Habitação indígena sem paredes ou maloca,70 a 74 anos,Preta,
+2022,2913606,Habitação indígena sem paredes ou maloca,85 a 89 anos,Preta,
+2022,2913606,Habitação indígena sem paredes ou maloca,75 a 79 anos,Indígena,
+2022,2913606,Habitação indígena sem paredes ou maloca,30 a 34 anos,Amarela,
+2022,2913606,Habitação indígena sem paredes ou maloca,75 a 79 anos,Amarela,
+2022,2913606,Estrutura residencial permanente degradada ou inacabada,75 a 79 anos,Preta,
+2022,2913606,Estrutura residencial permanente degradada ou inacabada,85 a 89 anos,Preta,
+2022,2913606,Estrutura residencial permanente degradada ou inacabada,0 a 4 anos,Parda,
+2022,2913606,Estrutura residencial permanente degradada ou inacabada,50 a 54 anos,Preta,3
+2022,2913606,Estrutura residencial permanente degradada ou inacabada,80 a 84 anos,Parda,1
+2022,2913606,Estrutura residencial permanente degradada ou inacabada,80 a 84 anos,Preta,
+2022,2913606,Estrutura residencial permanente degradada ou inacabada,40 a 44 anos,Branca,2
+2022,2913606,Estrutura residencial permanente degradada ou inacabada,5 a 9 anos,Preta,2
+2022,2913606,Estrutura residencial permanente degradada ou inacabada,60 a 64 anos,Amarela,
+2022,2913606,Estrutura residencial permanente degradada ou inacabada,80 a 84 anos,Branca,1
+2022,2913606,Estrutura residencial permanente degradada ou inacabada,5 a 9 anos,Branca,1
+2022,2913606,Estrutura residencial permanente degradada ou inacabada,5 a 9 anos,Indígena,
+2022,2913606,Estrutura residencial permanente degradada ou inacabada,55 a 59 anos,Parda,
+2022,2913606,Estrutura residencial permanente degradada ou inacabada,55 a 59 anos,Preta,
+2022,2913606,Casa,0 a 4 anos,Branca,1645
+2022,2913606,Casa,20 a 24 anos,Amarela,12
+2022,2913606,Casa,35 a 39 anos,Amarela,18
+2022,2913606,Casa,25 a 29 anos,Indígena,488
+2022,2913606,Casa,65 a 69 anos,Amarela,9
+2022,2913606,Casa,75 a 79 anos,Indígena,120
+2022,2913606,Casa,80 a 84 anos,Indígena,67
+2022,2913606,Casa,55 a 59 anos,Amarela,16
+2022,2913606,Casa,40 a 44 anos,Amarela,11
+2022,2913606,Casa,80 a 84 anos,Amarela,6
+2022,2913606,Casa,85 a 89 anos,Parda,539
+2022,2913606,Casa,60 a 64 anos,Preta,1848
+2022,2913606,Casa,75 a 79 anos,Preta,543
+2022,2913606,Casa,15 a 19 anos,Preta,2653
+2022,2913606,Casa,65 a 69 anos,Branca,1050
+2022,2913606,Casa,95 a 99 anos,Preta,38
+2022,2913606,Casa,45 a 49 anos,Branca,1466
+2022,2913606,Apartamento,5 a 9 anos,Amarela,5
+2022,2913606,Apartamento,10 a 14 anos,Branca,393
+2022,2913606,Apartamento,85 a 89 anos,Preta,9
+2022,2913606,Apartamento,5 a 9 anos,Indígena,21
+2022,2913606,Apartamento,85 a 89 anos,Indígena,
+2022,2913606,Apartamento,5 a 9 anos,Parda,958
+2022,2913606,Apartamento,10 a 14 anos,Amarela,5
+2022,2913606,Apartamento,40 a 44 anos,Parda,1307
+2022,2913606,Casa de vila ou em condomínio,5 a 9 anos,Preta,23
+2022,2913606,Casa de vila ou em condomínio,0 a 4 anos,Amarela,
+2022,2913606,Casa de vila ou em condomínio,95 a 99 anos,Parda,1
+2022,2913606,Casa de vila ou em condomínio,80 a 84 anos,Parda,16
+2022,2913606,Casa de vila ou em condomínio,55 a 59 anos,Parda,72
+2022,2913606,Casa de vila ou em condomínio,55 a 59 anos,Branca,61
+2022,2913606,Casa de vila ou em condomínio,40 a 44 anos,Parda,161
+2022,2913606,Casa de vila ou em condomínio,40 a 44 anos,Indígena,5
+2022,2913606,Casa de vila ou em condomínio,50 a 54 anos,Preta,23
+2022,2913606,Casa de vila ou em condomínio,55 a 59 anos,Preta,24
+2022,2913606,Casa de vila ou em condomínio,15 a 19 anos,Indígena,7
+2022,2913606,Casa de vila ou em condomínio,0 a 4 anos,Branca,70
+2022,2913606,Casa de vila ou em condomínio,15 a 19 anos,Parda,105
+2022,2913606,Casa de vila ou em condomínio,5 a 9 anos,Amarela,1
+2022,2913606,Habitação em casa de cômodos ou cortiço,85 a 89 anos,Branca,
+2022,2913606,Habitação em casa de cômodos ou cortiço,80 a 84 anos,Branca,
+2022,2913606,Habitação em casa de cômodos ou cortiço,50 a 54 anos,Indígena,
+2022,2913606,Habitação em casa de cômodos ou cortiço,35 a 39 anos,Amarela,
+2022,2913606,Habitação em casa de cômodos ou cortiço,90 a 94 anos,Amarela,
+2022,2913606,Habitação em casa de cômodos ou cortiço,10 a 14 anos,Parda,15
+2022,2913606,Habitação em casa de cômodos ou cortiço,15 a 19 anos,Preta,6
+2022,2913606,Habitação indígena sem paredes ou maloca,60 a 64 anos,Amarela,
+2022,2913606,Habitação indígena sem paredes ou maloca,100 anos ou mais,Amarela,
+2022,2913606,Habitação indígena sem paredes ou maloca,55 a 59 anos,Parda,
+2022,2913606,Habitação indígena sem paredes ou maloca,35 a 39 anos,Preta,
+2022,2913606,Habitação indígena sem paredes ou maloca,55 a 59 anos,Indígena,
+2022,2913606,Habitação indígena sem paredes ou maloca,45 a 49 anos,Preta,
+2022,2913606,Habitação indígena sem paredes ou maloca,20 a 24 anos,Parda,
+2022,2913606,Habitação indígena sem paredes ou maloca,10 a 14 anos,Indígena,
+2022,2913606,Habitação indígena sem paredes ou maloca,95 a 99 anos,Parda,
+2022,2913606,Habitação indígena sem paredes ou maloca,25 a 29 anos,Parda,
+2022,2913606,Habitação indígena sem paredes ou maloca,65 a 69 anos,Amarela,
+2022,2913606,Habitação indígena sem paredes ou maloca,5 a 9 anos,Indígena,
+2022,2913606,Estrutura residencial permanente degradada ou inacabada,40 a 44 anos,Preta,1
+2022,2913606,Estrutura residencial permanente degradada ou inacabada,50 a 54 anos,Amarela,
+2022,2913606,Estrutura residencial permanente degradada ou inacabada,50 a 54 anos,Branca,1
+2022,2913606,Estrutura residencial permanente degradada ou inacabada,55 a 59 anos,Amarela,
+2022,2913606,Estrutura residencial permanente degradada ou inacabada,60 a 64 anos,Parda,2
+2022,2913606,Estrutura residencial permanente degradada ou inacabada,55 a 59 anos,Indígena,
+2022,2913606,Estrutura residencial permanente degradada ou inacabada,95 a 99 anos,Parda,
+2022,2913606,Estrutura residencial permanente degradada ou inacabada,75 a 79 anos,Indígena,
+2022,2913606,Estrutura residencial permanente degradada ou inacabada,15 a 19 anos,Parda,1
+2022,2913606,Estrutura residencial permanente degradada ou inacabada,30 a 34 anos,Indígena,
+2022,2913606,Estrutura residencial permanente degradada ou inacabada,0 a 4 anos,Branca,1
+2022,2913606,Casa,95 a 99 anos,Indígena,6
+2022,2913606,Casa,30 a 34 anos,Preta,2693
+2022,2913606,Casa,70 a 74 anos,Branca,862
+2022,2913606,Casa,5 a 9 anos,Amarela,14
+2022,2913606,Casa,90 a 94 anos,Preta,83
+2022,2913606,Casa,85 a 89 anos,Branca,257
+2022,2913606,Casa,25 a 29 anos,Preta,2802
+2022,2913606,Casa,80 a 84 anos,Parda,999
+2022,2913606,Casa,40 a 44 anos,Indígena,545
+2022,2913606,Casa,25 a 29 anos,Amarela,14
+2022,2913606,Casa,5 a 9 anos,Preta,1890
+2022,2913606,Apartamento,55 a 59 anos,Amarela,6
+2022,2913606,Apartamento,100 anos ou mais,Branca,2
+2022,2913606,Apartamento,80 a 84 anos,Amarela,1
+2022,2913606,Apartamento,80 a 84 anos,Parda,95
+2022,2913606,Apartamento,95 a 99 anos,Amarela,
+2022,2913606,Apartamento,70 a 74 anos,Parda,252
+2022,2913606,Apartamento,65 a 69 anos,Branca,275
+2022,2913606,Apartamento,100 anos ou mais,Preta,
+2022,2913606,Apartamento,10 a 14 anos,Indígena,21
+2022,2913606,Apartamento,90 a 94 anos,Branca,21
+2022,2913606,Apartamento,50 a 54 anos,Branca,415
+2022,2913606,Apartamento,75 a 79 anos,Preta,36
+2022,2913606,Apartamento,60 a 64 anos,Indígena,22
+2022,2913606,Apartamento,85 a 89 anos,Branca,58
+2022,2913606,Casa de vila ou em condomínio,30 a 34 anos,Branca,40
+2022,2913606,Casa de vila ou em condomínio,100 anos ou mais,Indígena,
+2022,2913606,Casa de vila ou em condomínio,45 a 49 anos,Amarela,
+2022,2913606,Casa de vila ou em condomínio,25 a 29 anos,Branca,44
+2022,2913606,Casa de vila ou em condomínio,70 a 74 anos,Indígena,
+2022,2913606,Casa de vila ou em condomínio,30 a 34 anos,Preta,37
+2022,2913606,Habitação em casa de cômodos ou cortiço,55 a 59 anos,Branca,1
+2022,2913606,Habitação em casa de cômodos ou cortiço,70 a 74 anos,Preta,3
+2022,2913606,Habitação em casa de cômodos ou cortiço,30 a 34 anos,Parda,22
+2022,2913606,Habitação em casa de cômodos ou cortiço,15 a 19 anos,Indígena,1
+2022,2913606,Habitação em casa de cômodos ou cortiço,15 a 19 anos,Parda,27
+2022,2913606,Habitação em casa de cômodos ou cortiço,25 a 29 anos,Amarela,1
+2022,2913606,Habitação em casa de cômodos ou cortiço,30 a 34 anos,Branca,5
+2022,2913606,Habitação em casa de cômodos ou cortiço,30 a 34 anos,Amarela,
+2022,2913606,Habitação em casa de cômodos ou cortiço,20 a 24 anos,Branca,2
+2022,2913606,Habitação em casa de cômodos ou cortiço,70 a 74 anos,Amarela,
+2022,2913606,Habitação em casa de cômodos ou cortiço,65 a 69 anos,Parda,5
+2022,2913606,Habitação em casa de cômodos ou cortiço,0 a 4 anos,Branca,6
+2022,2913606,Habitação em casa de cômodos ou cortiço,85 a 89 anos,Indígena,
+2022,2913606,Habitação em casa de cômodos ou cortiço,15 a 19 anos,Amarela,
+2022,2913606,Habitação indígena sem paredes ou maloca,40 a 44 anos,Branca,
+2022,2913606,Habitação indígena sem paredes ou maloca,80 a 84 anos,Parda,
+2022,2913606,Habitação indígena sem paredes ou maloca,15 a 19 anos,Preta,
+2022,2913606,Habitação indígena sem paredes ou maloca,65 a 69 anos,Indígena,
+2022,2913606,Habitação indígena sem paredes ou maloca,85 a 89 anos,Indígena,
+2022,2913606,Habitação indígena sem paredes ou maloca,90 a 94 anos,Branca,
+2022,2913606,Habitação indígena sem paredes ou maloca,60 a 64 anos,Preta,
+2022,2913606,Habitação indígena sem paredes ou maloca,70 a 74 anos,Amarela,
+2022,2913606,Habitação indígena sem paredes ou maloca,50 a 54 anos,Parda,
+2022,2913606,Habitação indígena sem paredes ou maloca,0 a 4 anos,Amarela,
+2022,2913606,Habitação indígena sem paredes ou maloca,20 a 24 anos,Branca,
+2022,2913606,Habitação indígena sem paredes ou maloca,40 a 44 anos,Indígena,
+2022,2913606,Habitação indígena sem paredes ou maloca,90 a 94 anos,Indígena,
+2022,2913606,Habitação indígena sem paredes ou maloca,90 a 94 anos,Parda,
+2022,2913606,Habitação indígena sem paredes ou maloca,20 a 24 anos,Preta,
+2022,2913606,Habitação indígena sem paredes ou maloca,5 a 9 anos,Parda,
+2022,2913606,Habitação indígena sem paredes ou maloca,10 a 14 anos,Parda,
+2022,2913606,Estrutura residencial permanente degradada ou inacabada,70 a 74 anos,Indígena,
+2022,2913606,Estrutura residencial permanente degradada ou inacabada,65 a 69 anos,Parda,1
+2022,2913606,Estrutura residencial permanente degradada ou inacabada,95 a 99 anos,Preta,
+2022,2913606,Estrutura residencial permanente degradada ou inacabada,85 a 89 anos,Parda,
+2022,2913606,Estrutura residencial permanente degradada ou inacabada,90 a 94 anos,Preta,
+2022,2913606,Estrutura residencial permanente degradada ou inacabada,65 a 69 anos,Amarela,
+2022,2913606,Estrutura residencial permanente degradada ou inacabada,50 a 54 anos,Parda,1
+2022,2913606,Estrutura residencial permanente degradada ou inacabada,45 a 49 anos,Amarela,
+2022,2913606,Estrutura residencial permanente degradada ou inacabada,60 a 64 anos,Preta,3
+2022,2913606,Casa,15 a 19 anos,Branca,1677
+2022,2913606,Casa,75 a 79 anos,Amarela,4
+2022,2913606,Casa,30 a 34 anos,Indígena,455
+2022,2913606,Casa,10 a 14 anos,Indígena,706
+2022,2913606,Casa,20 a 24 anos,Indígena,561
+2022,2913606,Casa,20 a 24 anos,Preta,2953
+2022,2913606,Casa,100 anos ou mais,Parda,25
+2022,2913606,Casa,85 a 89 anos,Preta,226
+2022,2913606,Casa,70 a 74 anos,Amarela,7
+2022,2913606,Casa,90 a 94 anos,Branca,120
+2022,2913606,Casa,85 a 89 anos,Indígena,44
+2022,2913606,Apartamento,30 a 34 anos,Preta,458
+2022,2913606,Apartamento,30 a 34 anos,Indígena,25
+2022,2913606,Apartamento,75 a 79 anos,Parda,144
+2022,2913606,Apartamento,75 a 79 anos,Indígena,11
+2022,2913606,Apartamento,25 a 29 anos,Branca,439
+2022,2913606,Apartamento,0 a 4 anos,Branca,414
+2022,2913606,Apartamento,65 a 69 anos,Parda,436
+2022,2913606,Apartamento,65 a 69 anos,Preta,99
+2022,2913606,Apartamento,90 a 94 anos,Preta,7
+2022,2913606,Casa de vila ou em condomínio,55 a 59 anos,Indígena,6
+2022,2913606,Casa de vila ou em condomínio,35 a 39 anos,Indígena,6
+2022,2913606,Casa de vila ou em condomínio,20 a 24 anos,Branca,41
+2022,2913606,Casa de vila ou em condomínio,80 a 84 anos,Indígena,1
+2022,2913606,Casa de vila ou em condomínio,50 a 54 anos,Branca,69
+2022,2913606,Casa de vila ou em condomínio,45 a 49 anos,Preta,44
+2022,2913606,Casa de vila ou em condomínio,90 a 94 anos,Preta,
+2022,2913606,Casa de vila ou em condomínio,50 a 54 anos,Parda,115
+2022,2913606,Casa de vila ou em condomínio,0 a 4 anos,Preta,22
+2022,2913606,Casa de vila ou em condomínio,15 a 19 anos,Preta,31
+2022,2913606,Casa de vila ou em condomínio,50 a 54 anos,Amarela,3
+2022,2913606,Casa de vila ou em condomínio,95 a 99 anos,Indígena,
+2022,2913606,Casa de vila ou em condomínio,80 a 84 anos,Branca,18
+2022,2913606,Casa de vila ou em condomínio,85 a 89 anos,Preta,3
+2022,2913606,Casa de vila ou em condomínio,0 a 4 anos,Indígena,7
+2022,2913606,Casa de vila ou em condomínio,10 a 14 anos,Preta,17
+2022,2913606,Habitação em casa de cômodos ou cortiço,100 anos ou mais,Amarela,
+2022,2913606,Habitação em casa de cômodos ou cortiço,5 a 9 anos,Branca,9
+2022,2913606,Habitação em casa de cômodos ou cortiço,50 a 54 anos,Amarela,
+2022,2913606,Habitação em casa de cômodos ou cortiço,80 a 84 anos,Preta,
+2022,2913606,Habitação em casa de cômodos ou cortiço,65 a 69 anos,Amarela,
+2022,2913606,Habitação em casa de cômodos ou cortiço,55 a 59 anos,Parda,18
+2022,2913606,Habitação indígena sem paredes ou maloca,0 a 4 anos,Branca,
+2022,2913606,Habitação indígena sem paredes ou maloca,55 a 59 anos,Preta,
+2022,2913606,Habitação indígena sem paredes ou maloca,0 a 4 anos,Indígena,
+2022,2913606,Habitação indígena sem paredes ou maloca,75 a 79 anos,Preta,
+2022,2913606,Habitação indígena sem paredes ou maloca,40 a 44 anos,Preta,
+2022,2913606,Habitação indígena sem paredes ou maloca,65 a 69 anos,Branca,
+2022,2913606,Habitação indígena sem paredes ou maloca,80 a 84 anos,Amarela,
+2022,2913606,Habitação indígena sem paredes ou maloca,40 a 44 anos,Parda,
+2022,2913606,Habitação indígena sem paredes ou maloca,0 a 4 anos,Parda,
+2022,2913606,Habitação indígena sem paredes ou maloca,90 a 94 anos,Preta,
+2022,2913606,Estrutura residencial permanente degradada ou inacabada,85 a 89 anos,Branca,
+2022,2913606,Estrutura residencial permanente degradada ou inacabada,0 a 4 anos,Preta,
+2022,2913606,Estrutura residencial permanente degradada ou inacabada,20 a 24 anos,Indígena,
+2022,2913606,Estrutura residencial permanente degradada ou inacabada,100 anos ou mais,Preta,
+2022,2913606,Estrutura residencial permanente degradada ou inacabada,90 a 94 anos,Parda,
+2022,2913606,Estrutura residencial permanente degradada ou inacabada,100 anos ou mais,Amarela,
+2022,2913606,Estrutura residencial permanente degradada ou inacabada,10 a 14 anos,Indígena,
+2022,2913606,Estrutura residencial permanente degradada ou inacabada,15 a 19 anos,Amarela,
+2022,2913606,Estrutura residencial permanente degradada ou inacabada,90 a 94 anos,Indígena,
+2022,2913606,Estrutura residencial permanente degradada ou inacabada,10 a 14 anos,Amarela,
+2022,2913606,Estrutura residencial permanente degradada ou inacabada,35 a 39 anos,Parda,1
+2022,2913606,Estrutura residencial permanente degradada ou inacabada,90 a 94 anos,Amarela,
+2022,2913606,Casa,30 a 34 anos,Amarela,12
+2022,2913606,Casa,70 a 74 anos,Parda,2491
+2022,2913606,Casa,35 a 39 anos,Branca,1545
+2022,2913606,Casa,90 a 94 anos,Amarela,1
+2022,2913606,Casa,25 a 29 anos,Branca,1435
+2022,2913606,Casa,100 anos ou mais,Preta,11
+2022,2913606,Casa,0 a 4 anos,Parda,5139
+2022,2913606,Casa,75 a 79 anos,Parda,1471
+2022,2913606,Casa,45 a 49 anos,Indígena,495
+2022,2913606,Casa,35 a 39 anos,Indígena,565
+2022,2913606,Casa,55 a 59 anos,Parda,5071
+2022,2913606,Casa,90 a 94 anos,Indígena,15
+2022,2913606,Casa,80 a 84 anos,Branca,446
+2022,2913606,Apartamento,70 a 74 anos,Preta,56
+2022,2913606,Apartamento,0 a 4 anos,Parda,767
+2022,2913606,Apartamento,60 a 64 anos,Preta,172
+2022,2913606,Apartamento,20 a 24 anos,Preta,387
+2022,2913606,Apartamento,35 a 39 anos,Preta,511
+2022,2913606,Apartamento,40 a 44 anos,Indígena,39
+2022,2913606,Apartamento,55 a 59 anos,Preta,243
+2022,2913606,Apartamento,75 a 79 anos,Branca,147
+2022,2913606,Apartamento,15 a 19 anos,Indígena,27
+2022,2913606,Apartamento,85 a 89 anos,Parda,53
+2022,2913606,Apartamento,25 a 29 anos,Preta,450
+2022,2913606,Apartamento,25 a 29 anos,Amarela,4
+2022,2913606,Apartamento,35 a 39 anos,Amarela,6
+2022,2913606,Casa de vila ou em condomínio,25 a 29 anos,Parda,92
+2022,2913606,Casa de vila ou em condomínio,20 a 24 anos,Preta,45
+2022,2913606,Casa de vila ou em condomínio,60 a 64 anos,Branca,46
+2022,2913606,Casa de vila ou em condomínio,85 a 89 anos,Branca,4
+2022,2913606,Casa de vila ou em condomínio,45 a 49 anos,Indígena,6
+2022,2913606,Casa de vila ou em condomínio,80 a 84 anos,Amarela,
+2022,2913606,Casa de vila ou em condomínio,20 a 24 anos,Parda,100
+2022,2913606,Casa de vila ou em condomínio,55 a 59 anos,Amarela,
+2022,2913606,Casa de vila ou em condomínio,75 a 79 anos,Amarela,
+2022,2913606,Casa de vila ou em condomínio,35 a 39 anos,Parda,123
+2022,2913606,Casa de vila ou em condomínio,70 a 74 anos,Preta,4
+2022,2913606,Casa de vila ou em condomínio,10 a 14 anos,Branca,63
+2022,2913606,Casa de vila ou em condomínio,40 a 44 anos,Branca,87
+2022,2913606,Casa de vila ou em condomínio,40 a 44 anos,Amarela,1
+2022,2913606,Casa de vila ou em condomínio,15 a 19 anos,Branca,44
+2022,2913606,Habitação em casa de cômodos ou cortiço,40 a 44 anos,Amarela,1
+2022,2913606,Habitação em casa de cômodos ou cortiço,35 a 39 anos,Parda,15
+2022,2913606,Habitação em casa de cômodos ou cortiço,80 a 84 anos,Parda,1
+2022,2913606,Habitação em casa de cômodos ou cortiço,65 a 69 anos,Preta,2
+2022,2913606,Habitação em casa de cômodos ou cortiço,85 a 89 anos,Preta,
+2022,2913606,Habitação em casa de cômodos ou cortiço,100 anos ou mais,Indígena,
+2022,2913606,Habitação em casa de cômodos ou cortiço,20 a 24 anos,Indígena,2
+2022,2913606,Habitação em casa de cômodos ou cortiço,10 a 14 anos,Amarela,
+2022,2913606,Habitação em casa de cômodos ou cortiço,75 a 79 anos,Amarela,
+2022,2913606,Habitação em casa de cômodos ou cortiço,95 a 99 anos,Preta,
+2022,2913606,Habitação em casa de cômodos ou cortiço,90 a 94 anos,Parda,
+2022,2913606,Habitação em casa de cômodos ou cortiço,55 a 59 anos,Preta,4
+2022,2913606,Habitação em casa de cômodos ou cortiço,35 a 39 anos,Indígena,1
+2022,2913606,Habitação em casa de cômodos ou cortiço,45 a 49 anos,Indígena,
+2022,2913606,Habitação em casa de cômodos ou cortiço,40 a 44 anos,Indígena,2
+2022,2913606,Habitação em casa de cômodos ou cortiço,80 a 84 anos,Amarela,
+2022,2913606,Habitação em casa de cômodos ou cortiço,45 a 49 anos,Parda,16
+2022,2913606,Habitação em casa de cômodos ou cortiço,55 a 59 anos,Indígena,
+2022,2913606,Habitação em casa de cômodos ou cortiço,10 a 14 anos,Branca,2
+2022,2913606,Habitação em casa de cômodos ou cortiço,35 a 39 anos,Preta,8
+2022,2913606,Habitação em casa de cômodos ou cortiço,60 a 64 anos,Parda,8
+2022,2913606,Habitação indígena sem paredes ou maloca,35 a 39 anos,Indígena,
+2022,2913606,Habitação indígena sem paredes ou maloca,100 anos ou mais,Indígena,
+2022,2913606,Habitação indígena sem paredes ou maloca,95 a 99 anos,Amarela,
+2022,2913606,Habitação indígena sem paredes ou maloca,5 a 9 anos,Branca,
+2022,2913606,Habitação indígena sem paredes ou maloca,65 a 69 anos,Parda,
+2022,2913606,Habitação indígena sem paredes ou maloca,45 a 49 anos,Amarela,
+2022,2913606,Habitação indígena sem paredes ou maloca,45 a 49 anos,Parda,
+2022,2913606,Habitação indígena sem paredes ou maloca,25 a 29 anos,Amarela,
+2022,2913606,Habitação indígena sem paredes ou maloca,65 a 69 anos,Preta,
+2022,2913606,Habitação indígena sem paredes ou maloca,30 a 34 anos,Preta,
+2022,2913606,Estrutura residencial permanente degradada ou inacabada,15 a 19 anos,Branca,
+2022,2913606,Estrutura residencial permanente degradada ou inacabada,10 a 14 anos,Parda,2
+2022,2913606,Estrutura residencial permanente degradada ou inacabada,40 a 44 anos,Indígena,1
+2022,2913606,Estrutura residencial permanente degradada ou inacabada,35 a 39 anos,Amarela,
+2022,2913606,Estrutura residencial permanente degradada ou inacabada,20 a 24 anos,Parda,1
+2022,2913606,Estrutura residencial permanente degradada ou inacabada,60 a 64 anos,Branca,
+2022,2913606,Estrutura residencial permanente degradada ou inacabada,95 a 99 anos,Amarela,
+2022,2913606,Estrutura residencial permanente degradada ou inacabada,45 a 49 anos,Parda,1
+2022,2913606,Estrutura residencial permanente degradada ou inacabada,25 a 29 anos,Indígena,1
+2022,2913606,Estrutura residencial permanente degradada ou inacabada,75 a 79 anos,Parda,3
+2022,2913606,Casa,20 a 24 anos,Branca,1562
+2022,2913606,Casa,65 a 69 anos,Parda,3511
+2022,2913606,Casa,50 a 54 anos,Parda,5471
+2022,2913606,Casa,100 anos ou mais,Branca,6
+2022,2913606,Casa,85 a 89 anos,Amarela,1
+2022,2913606,Casa,35 a 39 anos,Preta,3068
+2022,2913606,Casa,30 a 34 anos,Branca,1388
+2022,2913606,Casa,0 a 4 anos,Indígena,589
+2022,2913606,Casa,35 a 39 anos,Parda,6474
+2022,2913606,Casa,55 a 59 anos,Preta,2035
+2022,2913606,Casa,20 a 24 anos,Parda,5989
+2022,2913606,Casa,30 a 34 anos,Parda,5514
+2022,2913606,Casa,95 a 99 anos,Amarela,
+2022,2913606,Apartamento,15 a 19 anos,Preta,348
+2022,2913606,Apartamento,25 a 29 anos,Parda,977
+2022,2913606,Apartamento,30 a 34 anos,Parda,1006
+2022,2913606,Apartamento,40 a 44 anos,Preta,513
+2022,2913606,Apartamento,0 a 4 anos,Preta,209
+2022,2913606,Apartamento,75 a 79 anos,Amarela,1
+2022,2913606,Apartamento,65 a 69 anos,Amarela,2
+2022,2913606,Apartamento,25 a 29 anos,Indígena,31
+2022,2913606,Apartamento,45 a 49 anos,Parda,949
+2022,2913606,Apartamento,60 a 64 anos,Parda,577
+2022,2913606,Apartamento,20 a 24 anos,Amarela,5
+2022,2913606,Apartamento,90 a 94 anos,Amarela,
+2022,2913606,Apartamento,40 a 44 anos,Branca,620
+2022,2913606,Apartamento,55 a 59 anos,Parda,725
+2022,2913606,Apartamento,0 a 4 anos,Amarela,1
+2022,2913606,Apartamento,45 a 49 anos,Indígena,29
+2022,2913606,Casa de vila ou em condomínio,20 a 24 anos,Amarela,
+2022,2913606,Casa de vila ou em condomínio,60 a 64 anos,Amarela,2
+2022,2913606,Casa de vila ou em condomínio,45 a 49 anos,Branca,60
+2022,2913606,Casa de vila ou em condomínio,70 a 74 anos,Branca,34
+2022,2913606,Casa de vila ou em condomínio,85 a 89 anos,Amarela,
+2022,2913606,Casa de vila ou em condomínio,90 a 94 anos,Branca,5
+2022,2913606,Casa de vila ou em condomínio,0 a 4 anos,Parda,107
+2022,2913606,Casa de vila ou em condomínio,95 a 99 anos,Branca,1
+2022,2913606,Casa de vila ou em condomínio,80 a 84 anos,Preta,3
+2022,2913606,Casa de vila ou em condomínio,95 a 99 anos,Preta,1
+2022,2913606,Casa de vila ou em condomínio,10 a 14 anos,Amarela,
+2022,2913606,Casa de vila ou em condomínio,100 anos ou mais,Branca,1
+2022,2913606,Casa de vila ou em condomínio,25 a 29 anos,Amarela,
+2022,2913606,Habitação em casa de cômodos ou cortiço,65 a 69 anos,Indígena,
+2022,2913606,Habitação em casa de cômodos ou cortiço,20 a 24 anos,Amarela,1
+2022,2913606,Habitação em casa de cômodos ou cortiço,30 a 34 anos,Preta,5
+2022,2913606,Habitação em casa de cômodos ou cortiço,25 a 29 anos,Indígena,2
+2022,2913606,Habitação em casa de cômodos ou cortiço,70 a 74 anos,Indígena,1
+2022,2913606,Habitação em casa de cômodos ou cortiço,75 a 79 anos,Preta,
+2022,2913606,Habitação em casa de cômodos ou cortiço,85 a 89 anos,Parda,
+2022,2913606,Habitação em casa de cômodos ou cortiço,25 a 29 anos,Parda,19
+2022,2913606,Habitação em casa de cômodos ou cortiço,45 a 49 anos,Branca,1
+2022,2913606,Habitação em casa de cômodos ou cortiço,90 a 94 anos,Preta,1
+2022,2913606,Habitação em casa de cômodos ou cortiço,100 anos ou mais,Parda,
+2022,2913606,Habitação indígena sem paredes ou maloca,50 a 54 anos,Branca,
+2022,2913606,Habitação indígena sem paredes ou maloca,20 a 24 anos,Amarela,
+2022,2913606,Habitação indígena sem paredes ou maloca,30 a 34 anos,Parda,
+2022,2913606,Habitação indígena sem paredes ou maloca,55 a 59 anos,Branca,
+2022,2913606,Habitação indígena sem paredes ou maloca,85 a 89 anos,Amarela,
+2022,2913606,Habitação indígena sem paredes ou maloca,35 a 39 anos,Parda,
+2022,2913606,Habitação indígena sem paredes ou maloca,25 a 29 anos,Indígena,
+2022,2913606,Habitação indígena sem paredes ou maloca,45 a 49 anos,Branca,
+2022,2913606,Habitação indígena sem paredes ou maloca,70 a 74 anos,Indígena,
+2022,2913606,Habitação indígena sem paredes ou maloca,40 a 44 anos,Amarela,
+2022,2913606,Habitação indígena sem paredes ou maloca,35 a 39 anos,Branca,
+2022,2913606,Habitação indígena sem paredes ou maloca,85 a 89 anos,Branca,
+2022,2913606,Habitação indígena sem paredes ou maloca,80 a 84 anos,Indígena,
+2022,2913606,Habitação indígena sem paredes ou maloca,10 a 14 anos,Amarela,
+2022,2913606,Habitação indígena sem paredes ou maloca,20 a 24 anos,Indígena,
+2022,2913606,Habitação indígena sem paredes ou maloca,95 a 99 anos,Branca,
+2022,2913606,Habitação indígena sem paredes ou maloca,30 a 34 anos,Indígena,
+2022,2913606,Habitação indígena sem paredes ou maloca,70 a 74 anos,Parda,
+2022,2913606,Habitação indígena sem paredes ou maloca,75 a 79 anos,Parda,
+2022,2913606,Estrutura residencial permanente degradada ou inacabada,100 anos ou mais,Parda,
+2022,2913606,Estrutura residencial permanente degradada ou inacabada,35 a 39 anos,Indígena,
+2022,2913606,Estrutura residencial permanente degradada ou inacabada,20 a 24 anos,Amarela,
+2022,2913606,Estrutura residencial permanente degradada ou inacabada,40 a 44 anos,Amarela,
+2022,2913606,Estrutura residencial permanente degradada ou inacabada,20 a 24 anos,Preta,1
+2022,2913606,Estrutura residencial permanente degradada ou inacabada,65 a 69 anos,Preta,1
+2022,2913606,Estrutura residencial permanente degradada ou inacabada,85 a 89 anos,Amarela,
+2022,2913606,Casa,100 anos ou mais,Indígena,1
+2022,2913606,Casa,50 a 54 anos,Branca,1437
+2022,2913606,Casa,0 a 4 anos,Preta,1495
+2022,2913606,Casa,95 a 99 anos,Branca,38
+2022,2913606,Casa,10 a 14 anos,Parda,6108
+2022,2913606,Casa,60 a 64 anos,Parda,4819
+2022,2913606,Casa,45 a 49 anos,Parda,5763
+2022,2913606,Casa,55 a 59 anos,Branca,1457
+2022,2913606,Casa,15 a 19 anos,Amarela,18
+2022,2913606,Apartamento,50 a 54 anos,Preta,293
+2022,2913606,Apartamento,50 a 54 anos,Parda,860
+2022,2913606,Apartamento,40 a 44 anos,Amarela,10
+2022,2913606,Apartamento,95 a 99 anos,Branca,7
+2022,2913606,Apartamento,20 a 24 anos,Parda,897
+2022,2913606,Apartamento,55 a 59 anos,Indígena,14
+2022,2913606,Apartamento,5 a 9 anos,Preta,281
+2022,2913606,Apartamento,100 anos ou mais,Amarela,
+2022,2913606,Apartamento,65 a 69 anos,Indígena,2
+2022,2913606,Apartamento,60 a 64 anos,Amarela,
+2022,2913606,Casa de vila ou em condomínio,30 a 34 anos,Parda,100
+2022,2913606,Casa de vila ou em condomínio,60 a 64 anos,Indígena,2
+2022,2913606,Casa de vila ou em condomínio,30 a 34 anos,Indígena,5
+2022,2913606,Casa de vila ou em condomínio,25 a 29 anos,Indígena,7
+2022,2913606,Casa de vila ou em condomínio,95 a 99 anos,Amarela,
+2022,2913606,Casa de vila ou em condomínio,65 a 69 anos,Parda,56
+2022,2913606,Casa de vila ou em condomínio,90 a 94 anos,Indígena,
+2022,2913606,Habitação em casa de cômodos ou cortiço,20 a 24 anos,Preta,8
+2022,2913606,Habitação em casa de cômodos ou cortiço,10 a 14 anos,Indígena,1
+2022,2913606,Habitação em casa de cômodos ou cortiço,60 a 64 anos,Preta,2
+2022,2913606,Habitação em casa de cômodos ou cortiço,45 a 49 anos,Amarela,
+2022,2913606,Habitação em casa de cômodos ou cortiço,70 a 74 anos,Parda,6
+2022,2913606,Habitação em casa de cômodos ou cortiço,60 a 64 anos,Indígena,1
+2022,2913606,Habitação em casa de cômodos ou cortiço,40 a 44 anos,Branca,4
+2022,2913606,Habitação em casa de cômodos ou cortiço,95 a 99 anos,Parda,
+2022,2913606,Habitação em casa de cômodos ou cortiço,5 a 9 anos,Parda,16
+2022,2913606,Habitação em casa de cômodos ou cortiço,0 a 4 anos,Amarela,
+2022,2913606,Habitação indígena sem paredes ou maloca,30 a 34 anos,Branca,
+2022,2913606,Habitação indígena sem paredes ou maloca,60 a 64 anos,Indígena,
+2022,2913606,Habitação indígena sem paredes ou maloca,60 a 64 anos,Parda,
+2022,2913606,Habitação indígena sem paredes ou maloca,95 a 99 anos,Indígena,
+2022,2913606,Habitação indígena sem paredes ou maloca,80 a 84 anos,Preta,
+2022,2913606,Habitação indígena sem paredes ou maloca,25 a 29 anos,Branca,
+2022,2913606,Habitação indígena sem paredes ou maloca,0 a 4 anos,Preta,
+2022,2913606,Habitação indígena sem paredes ou maloca,25 a 29 anos,Preta,
+2022,2913606,Habitação indígena sem paredes ou maloca,50 a 54 anos,Amarela,
+2022,2913606,Habitação indígena sem paredes ou maloca,15 a 19 anos,Amarela,
+2022,2913606,Habitação indígena sem paredes ou maloca,55 a 59 anos,Amarela,
+2022,2913606,Habitação indígena sem paredes ou maloca,50 a 54 anos,Indígena,
+2022,2913606,Estrutura residencial permanente degradada ou inacabada,25 a 29 anos,Amarela,
+2022,2913606,Estrutura residencial permanente degradada ou inacabada,70 a 74 anos,Preta,1
+2022,2913606,Estrutura residencial permanente degradada ou inacabada,30 a 34 anos,Branca,2
+2022,2913606,Estrutura residencial permanente degradada ou inacabada,45 a 49 anos,Indígena,
+2022,2913606,Estrutura residencial permanente degradada ou inacabada,75 a 79 anos,Branca,
+2022,2913606,Estrutura residencial permanente degradada ou inacabada,70 a 74 anos,Parda,
+2022,2913606,Estrutura residencial permanente degradada ou inacabada,40 a 44 anos,Parda,1
+2022,2913606,Estrutura residencial permanente degradada ou inacabada,65 a 69 anos,Indígena,
+2022,2913606,Estrutura residencial permanente degradada ou inacabada,5 a 9 anos,Parda,
+2022,2913606,Estrutura residencial permanente degradada ou inacabada,60 a 64 anos,Indígena,
+2022,2913606,Estrutura residencial permanente degradada ou inacabada,75 a 79 anos,Amarela,
+2022,2913606,Casa,10 a 14 anos,Amarela,12
+2022,2913606,Casa,15 a 19 anos,Parda,6236
+2022,2913606,Casa,60 a 64 anos,Amarela,2
+2022,2913606,Casa,5 a 9 anos,Branca,1456
+2022,2913606,Casa,65 a 69 anos,Indígena,249
+2022,2913606,Casa,40 a 44 anos,Branca,1754
+2022,2913606,Casa,90 a 94 anos,Parda,246
+2022,2913606,Casa,50 a 54 anos,Preta,2339
+2022,2913606,Casa,80 a 84 anos,Preta,406
+2022,2913606,Casa,40 a 44 anos,Preta,3159
+2022,2913606,Casa,0 a 4 anos,Amarela,9
+2022,2913606,Casa,70 a 74 anos,Preta,977
+2022,2913606,Casa,50 a 54 anos,Amarela,16
+2022,2913606,Casa,95 a 99 anos,Parda,73
+2022,2913606,Apartamento,85 a 89 anos,Amarela,
+2022,2913606,Apartamento,60 a 64 anos,Branca,361
+2022,2913606,Apartamento,35 a 39 anos,Branca,548
+2022,2913606,Apartamento,10 a 14 anos,Preta,293
+2022,2913606,Apartamento,100 anos ou mais,Indígena,
+2022,2913606,Apartamento,55 a 59 anos,Branca,320
+2022,2913606,Apartamento,35 a 39 anos,Indígena,35
+2022,2913606,Apartamento,90 a 94 anos,Indígena,1
+2022,2913606,Apartamento,70 a 74 anos,Amarela,
+2022,2913606,Apartamento,35 a 39 anos,Parda,1287
+2022,2913606,Apartamento,100 anos ou mais,Parda,
+2022,2913606,Casa de vila ou em condomínio,100 anos ou mais,Preta,
+2022,2913606,Casa de vila ou em condomínio,10 a 14 anos,Parda,85
+2022,2913606,Casa de vila ou em condomínio,35 a 39 anos,Preta,51
+2022,2913606,Casa de vila ou em condomínio,75 a 79 anos,Branca,33
+2022,2913606,Casa de vila ou em condomínio,50 a 54 anos,Indígena,2
+2022,2913606,Casa de vila ou em condomínio,15 a 19 anos,Amarela,
+2022,2913606,Casa de vila ou em condomínio,75 a 79 anos,Indígena,1
+2022,2913606,Casa de vila ou em condomínio,40 a 44 anos,Preta,59
+2022,2913606,Casa de vila ou em condomínio,75 a 79 anos,Preta,1
+2022,2913606,Habitação em casa de cômodos ou cortiço,50 a 54 anos,Preta,3
+2022,2913606,Habitação em casa de cômodos ou cortiço,75 a 79 anos,Parda,1
+2022,2913606,Habitação em casa de cômodos ou cortiço,95 a 99 anos,Amarela,
+2022,2913606,Habitação em casa de cômodos ou cortiço,100 anos ou mais,Branca,
+2022,2913606,Habitação em casa de cômodos ou cortiço,45 a 49 anos,Preta,6
+2022,2913606,Habitação em casa de cômodos ou cortiço,65 a 69 anos,Branca,3
+2022,2913606,Habitação em casa de cômodos ou cortiço,25 a 29 anos,Branca,7
+2022,2913606,Habitação em casa de cômodos ou cortiço,5 a 9 anos,Amarela,
+2022,2913606,Habitação em casa de cômodos ou cortiço,95 a 99 anos,Indígena,
+2022,2913606,Habitação em casa de cômodos ou cortiço,5 a 9 anos,Preta,4
+2022,2913606,Habitação em casa de cômodos ou cortiço,30 a 34 anos,Indígena,1
+2022,2913606,Habitação em casa de cômodos ou cortiço,40 a 44 anos,Preta,11
+2022,2913606,Habitação em casa de cômodos ou cortiço,40 a 44 anos,Parda,16
+2022,2913606,Habitação em casa de cômodos ou cortiço,50 a 54 anos,Branca,3
+2022,2913606,Habitação em casa de cômodos ou cortiço,70 a 74 anos,Branca,
+2022,2913606,Habitação em casa de cômodos ou cortiço,90 a 94 anos,Indígena,
+2022,2913606,Habitação em casa de cômodos ou cortiço,60 a 64 anos,Amarela,
+2022,2913606,Habitação indígena sem paredes ou maloca,75 a 79 anos,Branca,
+2022,2913606,Habitação indígena sem paredes ou maloca,90 a 94 anos,Amarela,
+2022,2913606,Habitação indígena sem paredes ou maloca,85 a 89 anos,Parda,
+2022,2913606,Habitação indígena sem paredes ou maloca,10 a 14 anos,Preta,
+2022,2913606,Habitação indígena sem paredes ou maloca,10 a 14 anos,Branca,
+2022,2913606,Habitação indígena sem paredes ou maloca,100 anos ou mais,Branca,
+2022,2913606,Habitação indígena sem paredes ou maloca,15 a 19 anos,Indígena,
+2022,2913606,Habitação indígena sem paredes ou maloca,100 anos ou mais,Preta,
+2022,2913606,Estrutura residencial permanente degradada ou inacabada,65 a 69 anos,Branca,
+2022,2913606,Estrutura residencial permanente degradada ou inacabada,100 anos ou mais,Indígena,
+2022,2913606,Estrutura residencial permanente degradada ou inacabada,10 a 14 anos,Branca,1
+2022,2913606,Estrutura residencial permanente degradada ou inacabada,30 a 34 anos,Parda,1
+2022,2913606,Estrutura residencial permanente degradada ou inacabada,0 a 4 anos,Amarela,
+2022,2913606,Estrutura residencial permanente degradada ou inacabada,15 a 19 anos,Indígena,
+2022,2913606,Estrutura residencial permanente degradada ou inacabada,15 a 19 anos,Preta,1
+2022,2913606,Estrutura residencial permanente degradada ou inacabada,35 a 39 anos,Preta,1
+2022,2913606,Estrutura residencial permanente degradada ou inacabada,25 a 29 anos,Parda,
+2022,2913606,Estrutura residencial permanente degradada ou inacabada,80 a 84 anos,Indígena,
+2022,2913606,Estrutura residencial permanente degradada ou inacabada,45 a 49 anos,Branca,1
+2022,2913606,Estrutura residencial permanente degradada ou inacabada,45 a 49 anos,Preta,
+2022,2913606,Estrutura residencial permanente degradada ou inacabada,25 a 29 anos,Branca,
+2022,2913606,Estrutura residencial permanente degradada ou inacabada,10 a 14 anos,Preta,1
+2022,2913606,Estrutura residencial permanente degradada ou inacabada,0 a 4 anos,Indígena,
+2022,2913606,Estrutura residencial permanente degradada ou inacabada,95 a 99 anos,Indígena,
+2022,2913606,Estrutura residencial permanente degradada ou inacabada,5 a 9 anos,Amarela,
